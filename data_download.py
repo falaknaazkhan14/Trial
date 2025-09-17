@@ -22,8 +22,8 @@ print(f"Downloaded file saved to {FILENAME}")
 # === COMMIT & PUSH ===
 commit_message = f"Update data - {datetime.utcnow().isoformat()}"
 
-subprocess.run(["git", "config", "--global", "user.email", "bot@example.com"])
-subprocess.run(["git", "config", "--global", "user.name", "GitHub Actions Bot"])
+subprocess.run(["git", "config", "--global", "user.email", "falaknaazkhxn@gmail.com"])
+subprocess.run(["git", "config", "--global", "user.name", "falaknaazkhan14"])
 
 subprocess.run(["git", "add", FILENAME])
 subprocess.run(["git", "commit", "-m", commit_message])
