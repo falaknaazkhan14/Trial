@@ -13,9 +13,9 @@ ps_var =  os.getenv("PASSWORD")
 password = ps_var.strip('_')
 
 print(username)
-os.makedirs(os.path.dirname(temp_file), exist_ok=True)
-with open(FILENAME, "wb") as f:
-    f.write(username, '|', ps_var)
+# os.makedirs(os.path.dirname(temp_file), exist_ok=True)
+# with open(FILENAME, "wb") as f:
+#     f.write(username, '|', ps_var)
 
 
 # # Use HTTP Basic Authentication
