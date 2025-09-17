@@ -6,8 +6,8 @@ import subprocess
 # === CONFIGURATION ===
 URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your actual data source
 FILENAME = "data/downloaded_data.csv"  # Save inside 'data' folder
-username = os.getenv("API_USERNAME")
-password = os.getenv("API_PASSWORD")
+username = os.getenv("USERNAME")
+password = os.getenv("PASSWORD")
 
 # Use HTTP Basic Authentication
 response = requests.get(url, auth=(username, password))
