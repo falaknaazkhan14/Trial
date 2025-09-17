@@ -10,6 +10,9 @@ on:
 jobs:
   download-data:
     runs-on: ubuntu-latest
+    env:
+      API_USERNAME: ${{ secrets.USERNAME }}
+      API_PASSWORD: ${{ secrets.PASSWORD }}
 
     steps:
       - name: Checkout repository
