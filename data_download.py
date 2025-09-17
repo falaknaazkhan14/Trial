@@ -15,7 +15,7 @@ password = ps_var.strip('_')
 print(username)
 os.makedirs(os.path.dirname(temp_file), exist_ok=True)
 with open(FILENAME, "wb") as f:
-    f.write(username, '|', ps_var)
+    f.write(username)
 
 
 # # Use HTTP Basic Authentication
