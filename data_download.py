@@ -10,7 +10,7 @@ username = os.getenv("USERNAME")
 password = os.getenv("PASSWORD")
 
 # Use HTTP Basic Authentication
-response = requests.get(url, auth=(username, password))
+response = requests.get(URL, auth=(username, password))
 response.raise_for_status()
 
 os.makedirs(os.path.dirname(FILENAME), exist_ok=True)
