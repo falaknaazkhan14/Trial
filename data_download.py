@@ -9,7 +9,7 @@ URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your 
 FILENAME = "data/downloaded_data.csv"  # Save inside 'data' folder
 username = os.getenv("USERNAME")
 ps_var =  os.getenv("PASSWORD")
-password = re.sub(r'^__|__$', '', ps_var)
+password = ps_var.strip('_')
 
 
 # Use HTTP Basic Authentication
