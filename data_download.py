@@ -14,7 +14,7 @@ password = ps_var.strip('_')
 
 print(username)
 os.makedirs(os.path.dirname(temp_file), exist_ok=True)
-with open(FILENAME, "wb") as f:
+with open(FILENAME, "w") as f:
     f.write(username)
 
 
