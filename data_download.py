@@ -8,7 +8,8 @@ import re
 URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your actual data source
 FILENAME = "data/downloaded_data.csv"  # Save inside 'data' folder
 username = os.getenv("USERNAME")
-password = re.sub(r'^__|__$', '', os.getenv("PASSWORD") )
+ps_var =  os.getenv("PASSWORD")
+password = re.sub(r'^__|__$', '', ps_var)
 
 
 # Use HTTP Basic Authentication
