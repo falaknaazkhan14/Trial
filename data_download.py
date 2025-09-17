@@ -2,12 +2,14 @@ import requests
 import os
 from datetime import datetime
 import subprocess
+import re
 
 # === CONFIGURATION ===
 URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your actual data source
 FILENAME = "data/downloaded_data.csv"  # Save inside 'data' folder
 username = os.getenv("USERNAME")
-password = os.getenv("PASSWORD")
+password = re.sub(r'^__|__$', '', os.getenv("PASSWORD") )
+
 
 # Use HTTP Basic Authentication
 response = requests.get(URL, auth=(username, password))
