@@ -26,6 +26,6 @@ jobs:
           pip install requests pandas  # Add any libraries your script needs
 
       - name: Run data download script
-        run: python download_data.py
+        run: python data_download.py
 
     
