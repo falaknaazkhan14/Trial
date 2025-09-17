@@ -7,6 +7,7 @@ import re
 # === CONFIGURATION ===
 URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your actual data source
 FILENAME = "data/downloaded_data.csv"  # Save inside 'data' folder
+json_file = "data/downloaded_data.json"  # Save inside 'data' folder
 temp_file = "data/sample_output.txt"  # Save inside 'data' folder
 username = os.getenv("USERNAME")
 ps_var =  os.getenv("PASSWORD")
@@ -19,10 +20,20 @@ response = requests.get(URL, auth=(username, password))
 response.raise_for_status()
 
 os.makedirs(os.path.dirname(FILENAME), exist_ok=True)
-with open(FILENAME, "wb") as f:
-    f.write(response.content)
+os.makedirs(os.path.dirname(json_file), exist_ok=True)
+# Load JSON from file
+with open(json_file, 'r') as f:
+    json_data = json.load(f)
 
-print(f"Downloaded file saved to {FILENAME}")
+# Convert "data" list to a DataFrame
+df = pd.DataFrame(json_data['data'])
+
+# Save DataFrame to CSV
+df.to_csv(FILENAME, index=False)
+
+print(f"CSV saved to {csv_file_path}")
+
+# print(f"Downloaded file saved to {FILENAME}")
 
 # === COMMIT & PUSH ===
 commit_message = f"Update data - {datetime.utcnow().isoformat()}"
