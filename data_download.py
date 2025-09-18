@@ -19,11 +19,20 @@ password = ps_var.strip('_')
 response = requests.get(URL, auth=(username, password))
 response.raise_for_status()
 
-os.makedirs(os.path.dirname(FILENAME), exist_ok=True)
+
+# Parse JSON from the response
+json_data = response.json()
+
+# Ensure the directory exists
 os.makedirs(os.path.dirname(json_file), exist_ok=True)
-# Load JSON from file
-with open(json_file, 'r') as f:
-    json_data = json.load(f)
+
+# Save JSON to file
+with open(json_file, 'w') as f:
+    json.dump(json_data, f, indent=4)
+
+print(f"JSON saved to {json_file}")
+
+os.makedirs(os.path.dirname(FILENAME), exist_ok=True)
 
 # Convert "data" list to a DataFrame
 df = pd.DataFrame(json_data['data'])
