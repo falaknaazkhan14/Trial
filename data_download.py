@@ -8,14 +8,15 @@ import pandas as pd
 
 # === CONFIGURATION ===
 URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your actual data source
+URL2 = "https://query.gtios.com/data/TARGETconnectV2/appointment_bookings"
+URL3 = "https://query.gtios.com/data/TARGETconnectV2/appointment_slots"
+URL4 = "https://query.gtios.com/data/TARGETconnectV2/students"
+
 FILENAME = "data/downloaded_data.csv"  # Save inside 'data' folder
 json_file = "data/downloaded_data.json"  # Save inside 'data' folder
-temp_file = "data/sample_output.txt"  # Save inside 'data' folder
 username = os.getenv("USERNAME")
 ps_var =  os.getenv("PASSWORD")
 password = ps_var.strip('_')
-
-
 
 # Use HTTP Basic Authentication
 response = requests.get(URL, auth=(username, password))
@@ -52,31 +53,7 @@ commit_message = f"Update data - {datetime.utcnow().isoformat()}"
 subprocess.run(["git", "config", "--global", "user.email", "falaknaazkhxn@gmail.com"])
 subprocess.run(["git", "config", "--global", "user.name", "falaknaazkhan14"])
 
-subprocess.run(["git", "add", FILENAME])
+# subprocess.run(["git", "add", FILENAME])
+subprocess.run(["git", "add"])
 subprocess.run(["git", "commit", "-m", commit_message])
 subprocess.run(["git", "push"])
-
-
-
-
-
-
-
-
-
-
-
-
-# TOKEN = os.getenv("DATA_API_TOKEN")  # Loaded from GitHub secret
-# HEADERS = {"Authorization": f"Bearer {TOKEN}"} if TOKEN else {}
-
-# # === DOWNLOAD ===
-# response = requests.get(URL, headers=HEADERS)
-# response.raise_for_status()
-
-
-
-# print(username)
-# os.makedirs(os.path.dirname(temp_file), exist_ok=True)
-# with open(FILENAME, "w") as f:
-#     f.write(username)
