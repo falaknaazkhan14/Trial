@@ -4,6 +4,7 @@ from datetime import datetime
 import subprocess
 import re
 import json
+import pandas as pd
 
 # === CONFIGURATION ===
 URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your actual data source
