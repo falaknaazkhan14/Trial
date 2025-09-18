@@ -52,7 +52,7 @@ def download_and_convert(urls, username, password, output_dir='data/'):
     subprocess.run(["git", "config", "--global", "user.email", "falaknaazkhxn@gmail.com"])
     subprocess.run(["git", "config", "--global", "user.name", "falaknaazkhan14"])
     
-    subprocess.run(["git", "add"])
+    subprocess.run(["git", "add", '.'])
     subprocess.run(["git", "commit", "-m", commit_message])
     subprocess.run(["git", "push"])
 
