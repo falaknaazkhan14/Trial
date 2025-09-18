@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 from urllib.parse import urlparse
 
-Urls = ['https://query.gtios.com/data/TARGETconnect/queries', 'https://query.gtios.com/data/TARGETconnectV2/appointment_bookings', 'https://query.gtios.com/data/TARGETconnectV2/appointment_slots', 'https://query.gtios.com/data/TARGETconnectV2/students' ]
+urls = ['https://query.gtios.com/data/TARGETconnect/queries', 'https://query.gtios.com/data/TARGETconnectV2/appointment_bookings', 'https://query.gtios.com/data/TARGETconnectV2/appointment_slots', 'https://query.gtios.com/data/TARGETconnectV2/students' ]
 username = os.getenv("USERNAME")
 ps_var =  os.getenv("PASSWORD")
 password = ps_var.strip('_')
