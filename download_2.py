@@ -9,7 +9,6 @@ username = os.getenv("USERNAME")
 ps_var =  os.getenv("PASSWORD")
 password = ps_var.strip('_')
 
-
 def download_and_convert(urls, username, password, output_dir='data/'):
     """
     Downloads JSON data from each URL, saves it to a .json file,
@@ -43,13 +42,13 @@ def download_and_convert(urls, username, password, output_dir='data/'):
 
         except Exception as e:
             print(f"Failed to process {url}: {e}")
+    
     # === COMMIT & PUSH ===
     commit_message = f"Update data - {datetime.utcnow().isoformat()}"
     
     subprocess.run(["git", "config", "--global", "user.email", "falaknaazkhxn@gmail.com"])
     subprocess.run(["git", "config", "--global", "user.name", "falaknaazkhan14"])
     
-    # subprocess.run(["git", "add", FILENAME])
     subprocess.run(["git", "add"])
     subprocess.run(["git", "commit", "-m", commit_message])
     subprocess.run(["git", "push"])
