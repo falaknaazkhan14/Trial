@@ -3,6 +3,9 @@ import json
 import requests
 import pandas as pd
 from urllib.parse import urlparse
+from datetime import datetime
+import subprocess
+import re
 
 urls = ['https://query.gtios.com/data/TARGETconnect/queries', 'https://query.gtios.com/data/TARGETconnectV2/appointment_bookings', 'https://query.gtios.com/data/TARGETconnectV2/appointment_slots', 'https://query.gtios.com/data/TARGETconnectV2/students' ]
 username = os.getenv("USERNAME")
