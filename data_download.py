@@ -3,6 +3,7 @@ import os
 from datetime import datetime
 import subprocess
 import re
+import json
 
 # === CONFIGURATION ===
 URL = "https://query.gtios.com/data/TARGETconnect/queries"  # Replace with your actual data source
