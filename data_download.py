@@ -42,7 +42,7 @@ df = pd.DataFrame(json_data['data'])
 # Save DataFrame to CSV
 df.to_csv(FILENAME, index=False)
 
-print(f"CSV saved to {csv_file_path}")
+print(f"CSV saved to {FILENAME}")
 
 # print(f"Downloaded file saved to {FILENAME}")
 
