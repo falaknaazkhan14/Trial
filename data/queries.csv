@@ -1,0 +1,11 @@
+Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
+1034,yrdy,PENDING,False,2025-08-12T14:20:17,2025-08-12T14:20:17,,,,2134,Reporting concern about a student
+1036,student pre-merge,PENDING,False,2025-08-12T14:55:48,2025-08-12T14:55:48,,,,1986,Disability - Appointment Request
+1038,Pre merge content,PENDING,False,2025-08-12T14:58:21,2025-08-12T14:58:21,,,,2135,Disability - Appointment Request
+1040,pre-merge,CLOSED,False,2025-08-12T15:17:15,2025-08-12T15:16:03,gtiadmin,gtiadmin,admin,2135,Concern for a student
+1040,Re: pre-merge,CLOSED,False,2025-08-12T15:17:15,2025-08-12T15:16:03,gtiadmin,gtiadmin,admin,2135,Concern for a student
+1042,pre-merge,PENDING,False,2025-08-12T15:16:43,2025-08-12T15:16:43,,,,2135,General Query
+1044,Re: Test opportunities without actual org - Text organisation test,PENDING,False,2025-08-15T06:24:06,2025-08-15T06:24:06,,,,testStudent2010,"CV, application, online profile"
+1046,I need help with my CV,RESPONDED,False,2025-08-28T13:13:51,2025-08-28T13:11:34,gtiadmin,gtiadmin,admin,503,General Query
+1046,Re: I need help with my CV,RESPONDED,False,2025-08-28T13:13:51,2025-08-28T13:11:34,gtiadmin,gtiadmin,admin,503,General Query
+1048,test referral to another partition,PENDING,False,2025-09-10T09:41:35,2025-09-10T09:41:35,,,,testStudent2008,General Query
