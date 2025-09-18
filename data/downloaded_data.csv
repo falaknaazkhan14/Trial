@@ -1,12 +1,11 @@
-{"meta":{"name":"queries","fields":{"Id":"int","Subject":"string","Status":"string","InProgress":"bool","LastModifiedOn":"datetime","CreatedOn":"datetime","OperatorUserId":"string","OperatorFirstName":"string","OperatorLastName":"string","UserId":"string","QueryType":"string"}},"data":[
-{"Id":1034,"Subject":"yrdy","Status":"PENDING","InProgress":false,"LastModifiedOn":"2025-08-12T14:20:17","CreatedOn":"2025-08-12T14:20:17","OperatorUserId":null,"OperatorFirstName":null,"OperatorLastName":null,"UserId":"2134","QueryType":"Reporting concern about a student"},
-{"Id":1036,"Subject":"student pre-merge","Status":"PENDING","InProgress":false,"LastModifiedOn":"2025-08-12T14:55:48","CreatedOn":"2025-08-12T14:55:48","OperatorUserId":null,"OperatorFirstName":null,"OperatorLastName":null,"UserId":"1986","QueryType":"Disability - Appointment Request"},
-{"Id":1038,"Subject":"Pre merge content","Status":"PENDING","InProgress":false,"LastModifiedOn":"2025-08-12T14:58:21","CreatedOn":"2025-08-12T14:58:21","OperatorUserId":null,"OperatorFirstName":null,"OperatorLastName":null,"UserId":"2135","QueryType":"Disability - Appointment Request"},
-{"Id":1040,"Subject":"pre-merge","Status":"CLOSED","InProgress":false,"LastModifiedOn":"2025-08-12T15:17:15","CreatedOn":"2025-08-12T15:16:03","OperatorUserId":"gtiadmin","OperatorFirstName":"gtiadmin","OperatorLastName":"admin","UserId":"2135","QueryType":"Concern for a student"},
-{"Id":1040,"Subject":"Re: pre-merge","Status":"CLOSED","InProgress":false,"LastModifiedOn":"2025-08-12T15:17:15","CreatedOn":"2025-08-12T15:16:03","OperatorUserId":"gtiadmin","OperatorFirstName":"gtiadmin","OperatorLastName":"admin","UserId":"2135","QueryType":"Concern for a student"},
-{"Id":1042,"Subject":"pre-merge","Status":"PENDING","InProgress":false,"LastModifiedOn":"2025-08-12T15:16:43","CreatedOn":"2025-08-12T15:16:43","OperatorUserId":null,"OperatorFirstName":null,"OperatorLastName":null,"UserId":"2135","QueryType":"General Query"},
-{"Id":1044,"Subject":"Re: Test opportunities without actual org - Text organisation test","Status":"PENDING","InProgress":false,"LastModifiedOn":"2025-08-15T06:24:06","CreatedOn":"2025-08-15T06:24:06","OperatorUserId":null,"OperatorFirstName":null,"OperatorLastName":null,"UserId":"testStudent2010","QueryType":"CV, application, online profile"},
-{"Id":1046,"Subject":"I need help with my CV","Status":"RESPONDED","InProgress":false,"LastModifiedOn":"2025-08-28T13:13:51","CreatedOn":"2025-08-28T13:11:34","OperatorUserId":"gtiadmin","OperatorFirstName":"gtiadmin","OperatorLastName":"admin","UserId":"503","QueryType":"General Query"},
-{"Id":1046,"Subject":"Re: I need help with my CV","Status":"RESPONDED","InProgress":false,"LastModifiedOn":"2025-08-28T13:13:51","CreatedOn":"2025-08-28T13:11:34","OperatorUserId":"gtiadmin","OperatorFirstName":"gtiadmin","OperatorLastName":"admin","UserId":"503","QueryType":"General Query"},
-{"Id":1048,"Subject":"test referral to another partition","Status":"PENDING","InProgress":false,"LastModifiedOn":"2025-09-10T09:41:35","CreatedOn":"2025-09-10T09:41:35","OperatorUserId":null,"OperatorFirstName":null,"OperatorLastName":null,"UserId":"testStudent2008","QueryType":"General Query"}
-]}
+Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
+1034,yrdy,PENDING,False,2025-08-12T14:20:17,2025-08-12T14:20:17,,,,2134,Reporting concern about a student
+1036,student pre-merge,PENDING,False,2025-08-12T14:55:48,2025-08-12T14:55:48,,,,1986,Disability - Appointment Request
+1038,Pre merge content,PENDING,False,2025-08-12T14:58:21,2025-08-12T14:58:21,,,,2135,Disability - Appointment Request
+1040,pre-merge,CLOSED,False,2025-08-12T15:17:15,2025-08-12T15:16:03,gtiadmin,gtiadmin,admin,2135,Concern for a student
+1040,Re: pre-merge,CLOSED,False,2025-08-12T15:17:15,2025-08-12T15:16:03,gtiadmin,gtiadmin,admin,2135,Concern for a student
+1042,pre-merge,PENDING,False,2025-08-12T15:16:43,2025-08-12T15:16:43,,,,2135,General Query
+1044,Re: Test opportunities without actual org - Text organisation test,PENDING,False,2025-08-15T06:24:06,2025-08-15T06:24:06,,,,testStudent2010,"CV, application, online profile"
+1046,I need help with my CV,RESPONDED,False,2025-08-28T13:13:51,2025-08-28T13:11:34,gtiadmin,gtiadmin,admin,503,General Query
+1046,Re: I need help with my CV,RESPONDED,False,2025-08-28T13:13:51,2025-08-28T13:11:34,gtiadmin,gtiadmin,admin,503,General Query
+1048,test referral to another partition,PENDING,False,2025-09-10T09:41:35,2025-09-10T09:41:35,,,,testStudent2008,General Query
