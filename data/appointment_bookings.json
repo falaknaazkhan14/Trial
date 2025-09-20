@@ -4956,7 +4956,7 @@
             "ActualOpeningTime": null,
             "ActualClosingTime": null,
             "OperatorUserId": "gtiadmin",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "BookingCreatedDate": "2025-09-17T14:52:05",
             "BookingModifiedDate": "2025-09-19T12:01:10",
             "Actions": null,
