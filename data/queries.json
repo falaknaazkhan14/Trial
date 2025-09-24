@@ -145,6 +145,45 @@
             "OperatorLastName": null,
             "UserId": "testStudent2008",
             "QueryType": "General Query"
+        },
+        {
+            "Id": 1050,
+            "Subject": "hi",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-09-22T10:42:48",
+            "CreatedOn": "2025-09-22T10:42:48",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1457",
+            "QueryType": "Placement Query"
+        },
+        {
+            "Id": 1052,
+            "Subject": "Testing queries",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-09-23T08:57:32",
+            "CreatedOn": "2025-09-23T08:57:32",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1045",
+            "QueryType": "Event Query"
+        },
+        {
+            "Id": 1054,
+            "Subject": "Event 1",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-09-23T11:45:54",
+            "CreatedOn": "2025-09-23T11:45:54",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "714",
+            "QueryType": "Event Query"
         }
     ]
 }
