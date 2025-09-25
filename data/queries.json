@@ -175,13 +175,26 @@
         {
             "Id": 1054,
             "Subject": "Event 1",
-            "Status": "PENDING",
+            "Status": "RESPONDED",
             "InProgress": false,
-            "LastModifiedOn": "2025-09-23T11:45:54",
+            "LastModifiedOn": "2025-09-25T14:29:43",
             "CreatedOn": "2025-09-23T11:45:54",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "714",
+            "QueryType": "Event Query"
+        },
+        {
+            "Id": 1054,
+            "Subject": "Re: Event 1",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2025-09-25T14:29:43",
+            "CreatedOn": "2025-09-23T11:45:54",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
             "UserId": "714",
             "QueryType": "Event Query"
         }
