@@ -1,8 +1,10 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
 455,Re: I'm not sure how I can seek support?,PENDING,False,2020-06-18T12:25:15,2020-06-18T12:25:15,,,,607,Emergency issue
 1046,Re: I need help with my CV,RESPONDED,False,2025-08-28T13:13:51,2025-08-28T13:11:34,gtiadmin,gtiadmin,admin,503,General Query
-1048,test referral to another partition,PENDING,False,2025-09-10T09:41:35,2025-09-10T09:41:35,,,,testStudent2008,General Query
-1050,hi,PENDING,False,2025-09-22T10:42:48,2025-09-22T10:42:48,,,,testStudent1457,Placement Query
+1048,test referral to another partition,PENDING,True,2025-10-31T17:03:11,2025-09-10T09:41:35,1708,Beatriz,Amaro,testStudent2008,General Query
+1048,Re: test referral to another partition,PENDING,True,2025-10-31T17:03:11,2025-09-10T09:41:35,1708,Beatriz,Amaro,testStudent2008,General Query
+1050,hi,RESPONDED,False,2025-10-31T16:04:38,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
+1050,Re: hi,RESPONDED,False,2025-10-31T16:04:38,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1052,Testing queries,PENDING,False,2025-09-23T08:57:32,2025-09-23T08:57:32,,,,1045,Event Query
 1054,Event 1,RESPONDED,False,2025-09-25T14:29:43,2025-09-23T11:45:54,gtiadmin,gtiadmin,admin,714,Event Query
 1054,Re: Event 1,RESPONDED,False,2025-09-25T14:29:43,2025-09-23T11:45:54,gtiadmin,gtiadmin,admin,714,Event Query
