@@ -6,3 +6,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1058,test ,RESPONDED,False,2025-10-14T08:23:20,2025-10-14T08:11:32,gtiadmin,gtiadmin,admin,1538,Question!
 1058,Re: test ,RESPONDED,False,2025-10-14T08:23:20,2025-10-14T08:11:32,gtiadmin,gtiadmin,admin,1538,Question!
 1060,This is a test question,CLOSED,False,2025-10-20T00:27:43,2025-10-20T00:26:45,,,,testStudent2010,General Query
+1062,learning support request,PENDING,False,2025-11-03T10:11:05,2025-11-03T10:11:05,,,,1503,Disability - Learning Support
