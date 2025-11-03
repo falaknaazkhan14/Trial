@@ -106,6 +106,19 @@
             "OperatorLastName": null,
             "UserId": "testStudent2010",
             "QueryType": "General Query"
+        },
+        {
+            "Id": 1062,
+            "Subject": "learning support request",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-11-03T10:11:05",
+            "CreatedOn": "2025-11-03T10:11:05",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1503",
+            "QueryType": "Disability - Learning Support"
         }
     ]
 }
