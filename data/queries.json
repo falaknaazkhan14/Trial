@@ -58,15 +58,41 @@
         {
             "Id": 1050,
             "Subject": "Re: hi",
-            "Status": "RESPONDED",
+            "Status": "PENDING",
             "InProgress": false,
-            "LastModifiedOn": "2025-10-31T16:04:38",
+            "LastModifiedOn": "2025-11-04T12:13:29",
             "CreatedOn": "2025-09-22T10:42:48",
             "OperatorUserId": "gtiadmin",
             "OperatorFirstName": "gtiadmin",
             "OperatorLastName": "admin",
             "UserId": "testStudent1457",
             "QueryType": "Placement Query"
+        },
+        {
+            "Id": 1050,
+            "Subject": "Re: hi",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-11-04T12:13:29",
+            "CreatedOn": "2025-09-22T10:42:48",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent1457",
+            "QueryType": "Placement Query"
+        },
+        {
+            "Id": 1054,
+            "Subject": "Re: Event 1",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2025-11-04T11:49:55",
+            "CreatedOn": "2025-09-23T11:45:54",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "714",
+            "QueryType": "Event Query"
         },
         {
             "Id": 1058,
@@ -119,6 +145,19 @@
             "OperatorLastName": null,
             "UserId": "1503",
             "QueryType": "Disability - Learning Support"
+        },
+        {
+            "Id": 1064,
+            "Subject": "Bea query",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-11-04T12:17:10",
+            "CreatedOn": "2025-11-04T12:15:29",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1457",
+            "QueryType": "Event Query"
         }
     ]
 }
