@@ -158,6 +158,19 @@
             "OperatorLastName": null,
             "UserId": "testStudent1457",
             "QueryType": "Event Query"
+        },
+        {
+            "Id": 1064,
+            "Subject": "Re: Bea query",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-11-04T12:17:10",
+            "CreatedOn": "2025-11-04T12:15:29",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1457",
+            "QueryType": "Event Query"
         }
     ]
 }

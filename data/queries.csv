@@ -10,3 +10,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1060,This is a test question,CLOSED,False,2025-10-20T00:27:43,2025-10-20T00:26:45,,,,testStudent2010,General Query
 1062,learning support request,PENDING,False,2025-11-03T10:11:05,2025-11-03T10:11:05,,,,1503,Disability - Learning Support
 1064,Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
+1064,Re: Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
