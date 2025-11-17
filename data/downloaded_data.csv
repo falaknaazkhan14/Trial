@@ -14,3 +14,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1064,Re: Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
 1066,Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
+1068,CV,PENDING,False,2025-11-17T12:13:19,2025-11-17T12:13:19,,,,1936,General Query
