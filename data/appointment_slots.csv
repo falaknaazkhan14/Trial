@@ -514,8 +514,56 @@ AppointmentSlotId,UserId,AppointmentCategory,AvailableAttendanceMethods,Location
 90342,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-12T10:45:00,2025-11-12T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 90344,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-13T10:45:00,2025-11-13T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 90346,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-14T10:45:00,2025-11-14T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-90348,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-17T10:45:00,2025-11-17T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-90350,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-18T10:45:00,2025-11-18T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90348,1538,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-17T10:45:00,2025-11-17T11:15:00,0,0,00:00:00,1,create,Cancelled,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90350,1538,Careers skills,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Category Test 1 -Teams,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-18T10:45:00,2025-11-18T10:50:00,0,0,00:00:00,1,finished,Booked,Attended,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"    <p class=""MsoNormal"">Hi Mark,</p>
+
+<p class=""MsoNormal"">Thank you for meeting with me for your Placements &amp; Work
+Experience appointment today. Here is a <a href=""https://uolcareers.co.uk/placements-work-experience/"" target=""_blank"" rel=""noopener noreferrer"">link
+to our webpage</a> with further information. Below I have listed the resources
+we looked through together as well as some additional information about our
+Lincoln Award. If you have any questions, please get in touch.&nbsp;&nbsp;</p>
+
+<p class=""MsoNormal""><b>Appointment notes</b>&nbsp;</p>
+
+<p class=""MsoNormal"">Well done on the work on your CV and cover letter for
+Disney. They look great - we discussed some changes you could make to both for
+future applications.</p>
+
+<p class=""MsoNormal"">&nbsp;</p>
+
+<p class=""MsoNormal""><b>Resources</b>&nbsp;</p>
+
+<p class=""MsoNormal""><a href=""https://uolcareers.co.uk/cv-support/"" target=""_blank"" rel=""noopener noreferrer"">CV support page</a> – This is our CV support page where you can
+use our AI tool to upload your CV. This will score your CV out of 100 and
+suggest further changes. You can also book in for a CV review with us as well
+as find the next CV workshop.&nbsp;</p>
+
+<p class=""MsoNormal""><a href=""https://uolcareers.co.uk/wp-content/uploads/CV-and-Cover-Letter-Guide-updated-2025.pdf"" target=""_blank"" rel=""noopener noreferrer"">CV and cover letter guide</a> – This guide includes information
+on creating your CV, there is a really handy example on page 7 of a 2-page CV.
+Cover letter support and information can be found from page 11
+onwards.&nbsp;&nbsp;</p>
+
+<p class=""MsoNormal"">&nbsp;</p>
+
+<p class=""MsoNormal""><b>Did you know that placement/ work experience hours can
+count towards the Lincoln Award?</b>&nbsp;</p>
+
+<p class=""MsoNormal"">If you secure a placement or work experience, hours you work
+can count towards the 40 hours needed in the ‘Develop’ section of your Lincoln
+Award. The Lincoln Award is the University of Lincoln’s employability
+framework, designed to help you feel confident when articulating your skills
+and experiences to future employers. To start your Lincoln Award, <a href=""https://uolcareers.co.uk/students-graduates/lincoln-award/"" target=""_blank"" rel=""noopener noreferrer"">click here</a>!&nbsp;</p>
+
+<p class=""MsoNormal"">&nbsp;</p>
+
+<p class=""MsoNormal"">If you would like to <a href=""https://uolcareers.co.uk/placements-work-experience/"" target=""_blank"" rel=""noopener noreferrer"">book
+another appointment</a>, please feel free to do so.&nbsp;&nbsp;</p>
+
+<p class=""MsoNormal"">Kind regards,</p>
+
+<p class=""MsoNormal"">Millie</p><p class=""MsoNormal""><br></p><p class=""MsoNormal""><br></p>    
+  
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 90352,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-19T10:45:00,2025-11-19T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 90354,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-20T10:45:00,2025-11-20T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 90356,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Flexible Appointment,Category Test 1 -Teams|Max Booking Test - 1 booking every 30 days,2025-11-04T13:44:46,2025-11-21T10:45:00,2025-11-21T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,1742,"Tharby, James I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -733,3 +781,4 @@ AppointmentSlotId,UserId,AppointmentCategory,AvailableAttendanceMethods,Location
 90818,,,"{""methods"": [""MS_TEAMS"", ""PHYSICAL""]}",Aberconwy House,Demo system,Flexible Appointment,Careers Advice|Enterprise Advice Session,2025-11-12T19:15:18,2025-11-12T09:30:00,2025-11-12T10:00:00,0,0,00:00:00,1,create,Not Booked,Available,2200,"James, Jade",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 90820,,,"{""methods"": [""MS_TEAMS"", ""PHYSICAL""]}",Aberconwy House,Demo system,Flexible Appointment,Careers Advice|Enterprise Advice Session,2025-11-12T19:15:18,2025-11-12T10:00:00,2025-11-12T10:30:00,0,0,00:00:00,1,create,Not Booked,Available,2200,"James, Jade",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 90822,,,"{""methods"": [""MS_TEAMS"", ""PHYSICAL""]}",Aberconwy House,Demo system,Flexible Appointment,Careers Advice|Enterprise Advice Session,2025-11-12T19:15:18,2025-11-12T10:30:00,2025-11-12T11:00:00,0,0,00:00:00,1,create,Not Booked,Available,2200,"James, Jade",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+90826,2010,Drop-in,"{""methods"": [""PHYSICAL""]}",,Demo system,Job Shop Drop-in,,2025-11-17T13:29:05,2025-11-17T13:29:05,2025-11-17T13:34:05,0,0,14:45:44,1,allocated,Booked,Booked,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

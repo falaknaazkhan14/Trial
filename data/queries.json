@@ -210,6 +210,19 @@
             "OperatorLastName": "admin",
             "UserId": "2010",
             "QueryType": "Emergency issue"
+        },
+        {
+            "Id": 1068,
+            "Subject": "CV",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-11-17T12:13:19",
+            "CreatedOn": "2025-11-17T12:13:19",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1936",
+            "QueryType": "General Query"
         }
     ]
 }
