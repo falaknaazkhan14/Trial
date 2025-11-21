@@ -1,7 +1,9 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
+373,Re: Junior Programmer - GTI Media,PENDING,False,2019-03-17T19:01:18,2019-03-17T19:01:17,,,,testStudent1014,General Query
 455,Re: I'm not sure how I can seek support?,PENDING,False,2020-06-18T12:25:15,2020-06-18T12:25:15,,,,607,Emergency issue
+946,Re: Test email to queries,PENDING,False,2025-02-10T09:50:08,2025-02-10T09:24:03,1708,Beatriz,Amaro,441,Query team
 1046,Re: I need help with my CV,RESPONDED,False,2025-08-28T13:13:51,2025-08-28T13:11:34,gtiadmin,gtiadmin,admin,503,General Query
-1048,Re: test referral to another partition,PENDING,True,2025-10-31T17:03:11,2025-09-10T09:41:35,1708,Beatriz,Amaro,testStudent2008,General Query
+1048,Re: test referral to another partition,RESPONDED,False,2025-11-21T16:24:22,2025-09-10T09:41:35,gtiadmin,gtiadmin,admin,testStudent2008,General Query
 1050,Re: hi,PENDING,True,2025-11-12T10:50:10,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1050,Re: hi,PENDING,True,2025-11-12T10:50:10,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1050,Re: hi,PENDING,True,2025-11-12T10:50:10,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
