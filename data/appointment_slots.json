@@ -62496,7 +62496,7 @@
             "OpeningTimePeriodDays": 5,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "510",
             "Operator": "Student Services, Head of",
             "OperatorNotes": null,
