@@ -249,6 +249,19 @@
             "OperatorLastName": null,
             "UserId": "1936",
             "QueryType": "General Query"
+        },
+        {
+            "Id": 1070,
+            "Subject": "test",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-11-25T11:32:24",
+            "CreatedOn": "2025-11-25T11:29:12",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1384",
+            "QueryType": "Reporting concern about a student"
         }
     ]
 }
