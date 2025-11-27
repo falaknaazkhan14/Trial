@@ -8,8 +8,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1050,Re: hi,PENDING,True,2025-11-12T10:50:10,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1050,Re: hi,PENDING,True,2025-11-12T10:50:10,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1054,Re: Event 1,RESPONDED,False,2025-11-04T11:49:55,2025-09-23T11:45:54,gtiadmin,gtiadmin,admin,714,Event Query
-1058,test ,RESPONDED,False,2025-10-14T08:23:20,2025-10-14T08:11:32,gtiadmin,gtiadmin,admin,1538,Question!
 1058,Re: test ,RESPONDED,False,2025-10-14T08:23:20,2025-10-14T08:11:32,gtiadmin,gtiadmin,admin,1538,Question!
+1058,test ,RESPONDED,False,2025-10-14T08:23:20,2025-10-14T08:11:32,gtiadmin,gtiadmin,admin,1538,Question!
 1060,This is a test question,CLOSED,False,2025-10-20T00:27:43,2025-10-20T00:26:45,,,,testStudent2010,General Query
 1062,learning support request,PENDING,False,2025-11-03T10:11:05,2025-11-03T10:11:05,,,,1503,Disability - Learning Support
 1064,Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
@@ -17,3 +17,6 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1066,Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1068,CV,PENDING,False,2025-11-17T12:13:19,2025-11-17T12:13:19,,,,1936,General Query
+1070,test,PENDING,True,2025-11-25T11:32:24,2025-11-25T11:29:12,,,,1384,Reporting concern about a student
+1072,vewgyfyg5etr,RESPONDED,False,2025-11-26T17:07:12,2025-11-26T17:06:44,gtiadmin,gtiadmin,admin,1046,General Query
+1072,Re: vewgyfyg5etr,RESPONDED,False,2025-11-26T17:07:12,2025-11-26T17:06:44,gtiadmin,gtiadmin,admin,1046,General Query
