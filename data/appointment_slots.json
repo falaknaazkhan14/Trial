@@ -63478,7 +63478,7 @@
             "OpeningTimePeriodDays": 14,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "504",
             "Operator": "McGrath, Brendan",
             "OperatorNotes": null,
