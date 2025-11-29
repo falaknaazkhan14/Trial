@@ -71132,7 +71132,7 @@
             "OpeningTimePeriodDays": 1,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "1529",
             "Operator": "Williams, Joseph",
             "OperatorNotes": null,

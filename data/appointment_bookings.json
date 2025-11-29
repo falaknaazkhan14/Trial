@@ -10216,7 +10216,7 @@
             "ActualOpeningTime": null,
             "ActualClosingTime": null,
             "OperatorUserId": "1529",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "BookingCreatedDate": "2025-11-26T10:14:39",
             "BookingModifiedDate": "2025-11-27T13:00:52",
             "Actions": null,
