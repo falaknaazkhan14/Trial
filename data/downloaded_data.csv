@@ -4,15 +4,18 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 946,Re: Test email to queries,PENDING,False,2025-02-10T09:50:08,2025-02-10T09:24:03,1708,Beatriz,Amaro,441,Query team
 946,Re: Test email to queries,PENDING,False,2025-02-10T09:50:08,2025-02-10T09:24:03,1708,Beatriz,Amaro,441,Query team
 966,Re: hsh,PENDING,False,2025-02-27T10:11:26,2025-02-27T10:11:26,,,,441,EC form request
+982,Re: Query Vicky is changing,RESPONDED,False,2025-12-03T14:50:51,2025-04-25T11:23:05,gtiadmin,gtiadmin,admin,731,Query team
+982,Re: Query Vicky is changing,RESPONDED,False,2025-12-03T14:50:51,2025-04-25T11:23:05,gtiadmin,gtiadmin,admin,731,Query team
+982,Re: Query Vicky is changing x2,RESPONDED,False,2025-12-03T14:50:51,2025-04-25T11:23:05,gtiadmin,gtiadmin,admin,731,Query team
 988,Re: Query email,PENDING,False,2025-05-01T14:43:54,2025-05-01T14:43:54,,,,731,Query team
 1050,Re: hi,PENDING,False,2025-12-02T14:14:29,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1050,Re: hi,PENDING,False,2025-12-02T14:14:29,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1054,Re: Event 1,RESPONDED,False,2025-11-04T11:49:55,2025-09-23T11:45:54,gtiadmin,gtiadmin,admin,714,Event Query
 1062,learning support request,PENDING,False,2025-11-03T10:11:05,2025-11-03T10:11:05,,,,1503,Disability - Learning Support
-1064,Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
 1064,Re: Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
-1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
+1064,Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
 1066,Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
+1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1068,CV,PENDING,False,2025-11-17T12:13:19,2025-11-17T12:13:19,,,,1936,General Query
 1070,test,PENDING,True,2025-11-25T11:32:24,2025-11-25T11:29:12,,,,1384,Reporting concern about a student
 1072,vewgyfyg5etr,RESPONDED,False,2025-11-26T17:07:12,2025-11-26T17:06:44,gtiadmin,gtiadmin,admin,1046,General Query
