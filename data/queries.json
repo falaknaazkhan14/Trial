@@ -82,6 +82,45 @@
             "QueryType": "EC form request"
         },
         {
+            "Id": 982,
+            "Subject": "Re: Query Vicky is changing",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2025-12-03T14:50:51",
+            "CreatedOn": "2025-04-25T11:23:05",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 982,
+            "Subject": "Re: Query Vicky is changing",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2025-12-03T14:50:51",
+            "CreatedOn": "2025-04-25T11:23:05",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 982,
+            "Subject": "Re: Query Vicky is changing x2",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2025-12-03T14:50:51",
+            "CreatedOn": "2025-04-25T11:23:05",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
             "Id": 988,
             "Subject": "Re: Query email",
             "Status": "PENDING",
@@ -148,19 +187,6 @@
         },
         {
             "Id": 1064,
-            "Subject": "Bea query",
-            "Status": "PENDING",
-            "InProgress": true,
-            "LastModifiedOn": "2025-11-04T12:17:10",
-            "CreatedOn": "2025-11-04T12:15:29",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "testStudent1457",
-            "QueryType": "Event Query"
-        },
-        {
-            "Id": 1064,
             "Subject": "Re: Bea query",
             "Status": "PENDING",
             "InProgress": true,
@@ -173,8 +199,21 @@
             "QueryType": "Event Query"
         },
         {
+            "Id": 1064,
+            "Subject": "Bea query",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-11-04T12:17:10",
+            "CreatedOn": "2025-11-04T12:15:29",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1457",
+            "QueryType": "Event Query"
+        },
+        {
             "Id": 1066,
-            "Subject": "Re: Test Leeds Art",
+            "Subject": "Test Leeds Art",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-11-14T11:13:46",
@@ -187,7 +226,7 @@
         },
         {
             "Id": 1066,
-            "Subject": "Test Leeds Art",
+            "Subject": "Re: Test Leeds Art",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-11-14T11:13:46",
