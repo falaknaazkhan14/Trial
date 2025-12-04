@@ -187,7 +187,7 @@
         },
         {
             "Id": 1064,
-            "Subject": "Re: Bea query",
+            "Subject": "Bea query",
             "Status": "PENDING",
             "InProgress": true,
             "LastModifiedOn": "2025-11-04T12:17:10",
@@ -200,7 +200,7 @@
         },
         {
             "Id": 1064,
-            "Subject": "Bea query",
+            "Subject": "Re: Bea query",
             "Status": "PENDING",
             "InProgress": true,
             "LastModifiedOn": "2025-11-04T12:17:10",
@@ -392,6 +392,32 @@
             "OperatorLastName": null,
             "UserId": "731",
             "QueryType": "Query team"
+        },
+        {
+            "Id": 1086,
+            "Subject": "My query email",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-12-04T11:57:12",
+            "CreatedOn": "2025-12-04T11:57:12",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1088,
+            "Subject": "Bea test to check email integration",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2025-12-04T12:08:14",
+            "CreatedOn": "2025-12-04T12:08:14",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Emergency issue"
         }
     ]
 }
