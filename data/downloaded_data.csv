@@ -14,8 +14,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1062,learning support request,PENDING,False,2025-11-03T10:11:05,2025-11-03T10:11:05,,,,1503,Disability - Learning Support
 1064,Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
 1064,Re: Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
-1066,Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
+1066,Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1068,CV,PENDING,False,2025-11-17T12:13:19,2025-11-17T12:13:19,,,,1936,General Query
 1070,test,PENDING,True,2025-11-25T11:32:24,2025-11-25T11:29:12,,,,1384,Reporting concern about a student
 1072,vewgyfyg5etr,RESPONDED,False,2025-11-26T17:07:12,2025-11-26T17:06:44,gtiadmin,gtiadmin,admin,1046,General Query
@@ -27,6 +27,7 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1078,test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
 1078,Re: test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
 1078,Re: test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
-1084,Support query test to Demo System,PENDING,False,2025-12-02T15:19:47,2025-12-02T15:19:47,,,,731,Query team
+1084,Support query test to Demo System,RESPONDED,False,2025-12-08T14:41:51,2025-12-02T15:19:47,gtiadmin,gtiadmin,admin,731,Query team
+1084,Re: Support query test to Demo System,RESPONDED,False,2025-12-08T14:41:51,2025-12-02T15:19:47,gtiadmin,gtiadmin,admin,731,Query team
 1086,My query email,PENDING,False,2025-12-04T11:57:12,2025-12-04T11:57:12,,,,731,Query team
 1088,Bea test to check email integration,PENDING,False,2025-12-04T12:08:14,2025-12-04T12:08:14,,,,731,Emergency issue
