@@ -57337,7 +57337,7 @@
             "OpeningTimePeriodDays": 30,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "1917",
             "Operator": "Dexter-Lowe, Michelle",
             "OperatorNotes": null,
