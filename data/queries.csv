@@ -8,14 +8,14 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 982,Re: Query Vicky is changing,RESPONDED,False,2025-12-03T14:50:51,2025-04-25T11:23:05,gtiadmin,gtiadmin,admin,731,Query team
 982,Re: Query Vicky is changing x2,RESPONDED,False,2025-12-03T14:50:51,2025-04-25T11:23:05,gtiadmin,gtiadmin,admin,731,Query team
 988,Re: Query email,PENDING,False,2025-05-01T14:43:54,2025-05-01T14:43:54,,,,731,Query team
-1050,Re: hi,PENDING,False,2025-12-02T14:14:29,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
-1050,Re: hi,PENDING,False,2025-12-02T14:14:29,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
+1050,Re: hi,CLOSED,False,2025-12-24T11:44:10,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
+1050,Re: hi,CLOSED,False,2025-12-24T11:44:10,2025-09-22T10:42:48,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1054,Re: Event 1,RESPONDED,False,2025-11-04T11:49:55,2025-09-23T11:45:54,gtiadmin,gtiadmin,admin,714,Event Query
 1062,learning support request,PENDING,False,2025-11-03T10:11:05,2025-11-03T10:11:05,,,,1503,Disability - Learning Support
-1064,Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
-1064,Re: Bea query,PENDING,True,2025-11-04T12:17:10,2025-11-04T12:15:29,,,,testStudent1457,Event Query
-1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
+1064,Bea query,CLOSED,False,2025-12-24T11:43:40,2025-11-04T12:15:29,,,,testStudent1457,Event Query
+1064,Re: Bea query,CLOSED,False,2025-12-24T11:43:40,2025-11-04T12:15:29,,,,testStudent1457,Event Query
 1066,Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
+1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1068,CV,PENDING,False,2025-11-17T12:13:19,2025-11-17T12:13:19,,,,1936,General Query
 1070,test,PENDING,True,2025-11-25T11:32:24,2025-11-25T11:29:12,,,,1384,Reporting concern about a student
 1072,vewgyfyg5etr,RESPONDED,False,2025-11-26T17:07:12,2025-11-26T17:06:44,gtiadmin,gtiadmin,admin,1046,General Query
@@ -31,3 +31,13 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1084,Re: Support query test to Demo System,RESPONDED,False,2025-12-08T14:41:51,2025-12-02T15:19:47,gtiadmin,gtiadmin,admin,731,Query team
 1086,My query email,PENDING,False,2025-12-04T11:57:12,2025-12-04T11:57:12,,,,731,Query team
 1088,Bea test to check email integration,PENDING,False,2025-12-04T12:08:14,2025-12-04T12:08:14,,,,731,Emergency issue
+1090,test,CLOSED,False,2025-12-24T11:49:52,2025-12-24T11:48:46,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
+1092,test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
+1092,Re: test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
+1094,test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
+1094,Re: test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
+1096,test4,CLOSED,False,2025-12-24T11:58:17,2025-12-24T11:56:21,1341,Alex,Bodian,1538,Questions about vacancies
+1096,Re: test4,CLOSED,False,2025-12-24T11:58:17,2025-12-24T11:56:21,1341,Alex,Bodian,1538,Questions about vacancies
+1098,test4,PENDING,True,2025-12-24T12:08:32,2025-12-24T12:07:18,icm,Chris,Masters,1538,EC form request
+1100,aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
+1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
