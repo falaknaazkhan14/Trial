@@ -379,6 +379,84 @@
             "OperatorLastName": null,
             "UserId": "1538",
             "QueryType": "SETU - Disability Registration"
+        },
+        {
+            "Id": 1100,
+            "Subject": "Re: aaaa",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-12-24T12:10:19",
+            "CreatedOn": "2025-12-24T12:09:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1538",
+            "QueryType": "SETU - Disability Registration"
+        },
+        {
+            "Id": 1102,
+            "Subject": "This is a query email",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-08T10:11:57",
+            "CreatedOn": "2026-01-08T09:01:40",
+            "OperatorUserId": "504",
+            "OperatorFirstName": "Brendan",
+            "OperatorLastName": "McGrath",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1104,
+            "Subject": "BSU demo",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-08T09:37:57",
+            "CreatedOn": "2026-01-08T09:27:00",
+            "OperatorUserId": "504",
+            "OperatorFirstName": "Brendan",
+            "OperatorLastName": "McGrath",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1104,
+            "Subject": "Re: BSU demo",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-08T09:37:57",
+            "CreatedOn": "2026-01-08T09:27:00",
+            "OperatorUserId": "504",
+            "OperatorFirstName": "Brendan",
+            "OperatorLastName": "McGrath",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1104,
+            "Subject": "Re: BSU demo",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-08T09:37:57",
+            "CreatedOn": "2026-01-08T09:27:00",
+            "OperatorUserId": "504",
+            "OperatorFirstName": "Brendan",
+            "OperatorLastName": "McGrath",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1106,
+            "Subject": "test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-08T09:28:04",
+            "CreatedOn": "2026-01-08T09:28:04",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "EC form request"
         }
     ]
 }
