@@ -135,7 +135,7 @@
         },
         {
             "Id": 1076,
-            "Subject": "Test",
+            "Subject": "Re: Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-02T10:57:03",
@@ -148,7 +148,7 @@
         },
         {
             "Id": 1076,
-            "Subject": "Re: Test",
+            "Subject": "Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-02T10:57:03",
@@ -265,7 +265,7 @@
         },
         {
             "Id": 1092,
-            "Subject": "test2",
+            "Subject": "Re: test2",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:50:55",
@@ -278,7 +278,7 @@
         },
         {
             "Id": 1092,
-            "Subject": "Re: test2",
+            "Subject": "test2",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:50:55",
@@ -356,33 +356,33 @@
         },
         {
             "Id": 1100,
+            "Subject": "Re: aaaa",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-12-24T12:10:19",
+            "CreatedOn": "2025-12-24T12:09:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1538",
+            "QueryType": "SETU - Disability Registration"
+        },
+        {
+            "Id": 1100,
+            "Subject": "Re: aaaa",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-12-24T12:10:19",
+            "CreatedOn": "2025-12-24T12:09:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1538",
+            "QueryType": "SETU - Disability Registration"
+        },
+        {
+            "Id": 1100,
             "Subject": "aaaa",
-            "Status": "PENDING",
-            "InProgress": true,
-            "LastModifiedOn": "2025-12-24T12:10:19",
-            "CreatedOn": "2025-12-24T12:09:40",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "1538",
-            "QueryType": "SETU - Disability Registration"
-        },
-        {
-            "Id": 1100,
-            "Subject": "Re: aaaa",
-            "Status": "PENDING",
-            "InProgress": true,
-            "LastModifiedOn": "2025-12-24T12:10:19",
-            "CreatedOn": "2025-12-24T12:09:40",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "1538",
-            "QueryType": "SETU - Disability Registration"
-        },
-        {
-            "Id": 1100,
-            "Subject": "Re: aaaa",
             "Status": "PENDING",
             "InProgress": true,
             "LastModifiedOn": "2025-12-24T12:10:19",
@@ -409,9 +409,9 @@
         {
             "Id": 1104,
             "Subject": "BSU demo",
-            "Status": "PENDING",
+            "Status": "CLOSED",
             "InProgress": false,
-            "LastModifiedOn": "2026-01-08T09:37:57",
+            "LastModifiedOn": "2026-01-09T08:58:09",
             "CreatedOn": "2026-01-08T09:27:00",
             "OperatorUserId": "504",
             "OperatorFirstName": "Brendan",
@@ -422,9 +422,9 @@
         {
             "Id": 1104,
             "Subject": "Re: BSU demo",
-            "Status": "PENDING",
+            "Status": "CLOSED",
             "InProgress": false,
-            "LastModifiedOn": "2026-01-08T09:37:57",
+            "LastModifiedOn": "2026-01-09T08:58:09",
             "CreatedOn": "2026-01-08T09:27:00",
             "OperatorUserId": "504",
             "OperatorFirstName": "Brendan",
@@ -435,9 +435,9 @@
         {
             "Id": 1104,
             "Subject": "Re: BSU demo",
-            "Status": "PENDING",
+            "Status": "CLOSED",
             "InProgress": false,
-            "LastModifiedOn": "2026-01-08T09:37:57",
+            "LastModifiedOn": "2026-01-09T08:58:09",
             "CreatedOn": "2026-01-08T09:27:00",
             "OperatorUserId": "504",
             "OperatorFirstName": "Brendan",
@@ -457,6 +457,32 @@
             "OperatorLastName": null,
             "UserId": "731",
             "QueryType": "EC form request"
+        },
+        {
+            "Id": 1108,
+            "Subject": "Senate Appeal request",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-09T08:56:42",
+            "CreatedOn": "2026-01-09T08:56:42",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Senate Appeal Request"
+        },
+        {
+            "Id": 1110,
+            "Subject": "I want to appeal",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-09T10:15:09",
+            "CreatedOn": "2026-01-09T10:15:09",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1384",
+            "QueryType": "Senate Appeal Request"
         }
     ]
 }
