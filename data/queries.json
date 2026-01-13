@@ -483,6 +483,19 @@
             "OperatorLastName": null,
             "UserId": "1384",
             "QueryType": "Senate Appeal Request"
+        },
+        {
+            "Id": 1114,
+            "Subject": "Re: I need support with me CV",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-12T11:00:46",
+            "CreatedOn": "2026-01-12T11:00:46",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "General Query"
         }
     ]
 }
