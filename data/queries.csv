@@ -6,10 +6,11 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 982,Re: Query Vicky is changing,RESPONDED,False,2025-12-03T14:50:51,2025-04-25T11:23:05,gtiadmin,gtiadmin,admin,731,Query team
 982,Re: Query Vicky is changing x2,RESPONDED,False,2025-12-03T14:50:51,2025-04-25T11:23:05,gtiadmin,gtiadmin,admin,731,Query team
 988,Re: Query email,PENDING,False,2025-05-01T14:43:54,2025-05-01T14:43:54,,,,731,Query team
+1070,Re: test,PENDING,True,2025-11-25T11:32:24,2025-11-25T11:29:12,,,,1384,Reporting concern about a student
 1074,Test blank query,RESPONDED,False,2025-12-02T12:12:55,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
 1074,Re: Test blank query,RESPONDED,False,2025-12-02T12:12:55,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
-1076,Test,RESPONDED,False,2025-12-02T10:57:03,2025-12-02T10:49:36,gtiadmin,gtiadmin,admin,1538,Question!
 1076,Re: Test,RESPONDED,False,2025-12-02T10:57:03,2025-12-02T10:49:36,gtiadmin,gtiadmin,admin,1538,Question!
+1076,Test,RESPONDED,False,2025-12-02T10:57:03,2025-12-02T10:49:36,gtiadmin,gtiadmin,admin,1538,Question!
 1078,test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
 1078,Re: test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
 1078,Re: test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
@@ -18,16 +19,16 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1086,My query email,PENDING,False,2025-12-04T11:57:12,2025-12-04T11:57:12,,,,731,Query team
 1088,Bea test to check email integration,PENDING,False,2025-12-04T12:08:14,2025-12-04T12:08:14,,,,731,Emergency issue
 1090,test,CLOSED,False,2025-12-24T11:49:52,2025-12-24T11:48:46,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
-1092,test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
 1092,Re: test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
+1092,test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
 1094,test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
 1094,Re: test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
 1096,test4,CLOSED,False,2025-12-24T11:58:17,2025-12-24T11:56:21,1341,Alex,Bodian,1538,Questions about vacancies
 1096,Re: test4,CLOSED,False,2025-12-24T11:58:17,2025-12-24T11:56:21,1341,Alex,Bodian,1538,Questions about vacancies
 1098,test4,PENDING,True,2025-12-24T12:08:32,2025-12-24T12:07:18,icm,Chris,Masters,1538,EC form request
+1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
+1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
 1100,aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
-1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
-1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
 1102,This is a query email,PENDING,False,2026-01-08T10:11:57,2026-01-08T09:01:40,504,Brendan,McGrath,731,Query team
 1104,BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
 1104,Re: BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
