@@ -161,7 +161,7 @@
         },
         {
             "Id": 1076,
-            "Subject": "Test",
+            "Subject": "Re: Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-02T10:57:03",
@@ -174,7 +174,7 @@
         },
         {
             "Id": 1076,
-            "Subject": "Re: Test",
+            "Subject": "Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-02T10:57:03",
@@ -291,7 +291,7 @@
         },
         {
             "Id": 1092,
-            "Subject": "Re: test2",
+            "Subject": "test2",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:50:55",
@@ -304,7 +304,7 @@
         },
         {
             "Id": 1092,
-            "Subject": "test2",
+            "Subject": "Re: test2",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:50:55",
@@ -382,33 +382,33 @@
         },
         {
             "Id": 1100,
-            "Subject": "Re: aaaa",
-            "Status": "PENDING",
-            "InProgress": true,
-            "LastModifiedOn": "2025-12-24T12:10:19",
-            "CreatedOn": "2025-12-24T12:09:40",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "1538",
-            "QueryType": "SETU - Disability Registration"
-        },
-        {
-            "Id": 1100,
-            "Subject": "Re: aaaa",
-            "Status": "PENDING",
-            "InProgress": true,
-            "LastModifiedOn": "2025-12-24T12:10:19",
-            "CreatedOn": "2025-12-24T12:09:40",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "1538",
-            "QueryType": "SETU - Disability Registration"
-        },
-        {
-            "Id": 1100,
             "Subject": "aaaa",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-12-24T12:10:19",
+            "CreatedOn": "2025-12-24T12:09:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1538",
+            "QueryType": "SETU - Disability Registration"
+        },
+        {
+            "Id": 1100,
+            "Subject": "Re: aaaa",
+            "Status": "PENDING",
+            "InProgress": true,
+            "LastModifiedOn": "2025-12-24T12:10:19",
+            "CreatedOn": "2025-12-24T12:09:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1538",
+            "QueryType": "SETU - Disability Registration"
+        },
+        {
+            "Id": 1100,
+            "Subject": "Re: aaaa",
             "Status": "PENDING",
             "InProgress": true,
             "LastModifiedOn": "2025-12-24T12:10:19",
@@ -535,6 +535,45 @@
             "OperatorLastName": null,
             "UserId": "731",
             "QueryType": "Query team"
+        },
+        {
+            "Id": 1118,
+            "Subject": "Application help",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-23T14:34:15",
+            "CreatedOn": "2026-01-23T14:13:52",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1954",
+            "QueryType": "Application help"
+        },
+        {
+            "Id": 1118,
+            "Subject": "Re: Application help",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-23T14:34:15",
+            "CreatedOn": "2026-01-23T14:13:52",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1954",
+            "QueryType": "Application help"
+        },
+        {
+            "Id": 1120,
+            "Subject": "What are your opening hours?",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-23T14:15:36",
+            "CreatedOn": "2026-01-23T14:15:36",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1954",
+            "QueryType": "General Query"
         }
     ]
 }
