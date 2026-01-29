@@ -10,8 +10,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1070,Re: test,PENDING,True,2025-11-25T11:32:24,2025-11-25T11:29:12,,,,1384,Reporting concern about a student
 1074,Test blank query,RESPONDED,False,2025-12-02T12:12:55,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
 1074,Re: Test blank query,RESPONDED,False,2025-12-02T12:12:55,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
-1076,Re: Test,RESPONDED,False,2025-12-02T10:57:03,2025-12-02T10:49:36,gtiadmin,gtiadmin,admin,1538,Question!
 1076,Test,RESPONDED,False,2025-12-02T10:57:03,2025-12-02T10:49:36,gtiadmin,gtiadmin,admin,1538,Question!
+1076,Re: Test,RESPONDED,False,2025-12-02T10:57:03,2025-12-02T10:49:36,gtiadmin,gtiadmin,admin,1538,Question!
 1078,test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
 1078,Re: test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
 1078,Re: test (5 minute),RESPONDED,False,2025-12-02T11:03:30,2025-12-02T10:56:12,gtiadmin,gtiadmin,admin,1538,Question!
@@ -20,8 +20,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1086,My query email,PENDING,False,2025-12-04T11:57:12,2025-12-04T11:57:12,,,,731,Query team
 1088,Bea test to check email integration,PENDING,False,2025-12-04T12:08:14,2025-12-04T12:08:14,,,,731,Emergency issue
 1090,test,CLOSED,False,2025-12-24T11:49:52,2025-12-24T11:48:46,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
-1092,Re: test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
 1092,test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
+1092,Re: test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
 1094,test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
 1094,Re: test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
 1096,test4,CLOSED,False,2025-12-24T11:58:17,2025-12-24T11:56:21,1341,Alex,Bodian,1538,Questions about vacancies
@@ -31,9 +31,9 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
 1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
 1102,This is a query email,PENDING,False,2026-01-08T10:11:57,2026-01-08T09:01:40,504,Brendan,McGrath,731,Query team
-1104,Re: BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
-1104,Re: BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
 1104,BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
+1104,Re: BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
+1104,Re: BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
 1106,test,PENDING,False,2026-01-08T09:28:04,2026-01-08T09:28:04,,,,731,EC form request
 1108,Senate Appeal request,PENDING,False,2026-01-09T08:56:42,2026-01-09T08:56:42,,,,731,Senate Appeal Request
 1110,I want to appeal,PENDING,False,2026-01-09T10:15:09,2026-01-09T10:15:09,,,,1384,Senate Appeal Request
@@ -43,3 +43,6 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1118,Re: Application help,RESPONDED,False,2026-01-23T14:34:15,2026-01-23T14:13:52,gtiadmin,gtiadmin,admin,1954,Application help
 1120,What are your opening hours?,PENDING,False,2026-01-23T14:15:36,2026-01-23T14:15:36,,,,1954,General Query
 1122,Can I still attend?,PENDING,False,2026-01-26T11:28:18,2026-01-26T11:28:18,,,,1940,Event Query
+1124,I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
+1124,Re: I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
+1126,twaeta,PENDING,False,2026-01-29T16:06:10,2026-01-29T16:06:10,,,,1335,Timetable issue
