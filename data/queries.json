@@ -161,7 +161,7 @@
         },
         {
             "Id": 1076,
-            "Subject": "Re: Test",
+            "Subject": "Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-02T10:57:03",
@@ -174,7 +174,7 @@
         },
         {
             "Id": 1076,
-            "Subject": "Test",
+            "Subject": "Re: Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-02T10:57:03",
@@ -291,7 +291,7 @@
         },
         {
             "Id": 1092,
-            "Subject": "Re: test2",
+            "Subject": "test2",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:50:55",
@@ -304,7 +304,7 @@
         },
         {
             "Id": 1092,
-            "Subject": "test2",
+            "Subject": "Re: test2",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:50:55",
@@ -434,33 +434,33 @@
         },
         {
             "Id": 1104,
-            "Subject": "Re: BSU demo",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-01-09T08:58:09",
-            "CreatedOn": "2026-01-08T09:27:00",
-            "OperatorUserId": "504",
-            "OperatorFirstName": "Brendan",
-            "OperatorLastName": "McGrath",
-            "UserId": "731",
-            "QueryType": "Query team"
-        },
-        {
-            "Id": 1104,
-            "Subject": "Re: BSU demo",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-01-09T08:58:09",
-            "CreatedOn": "2026-01-08T09:27:00",
-            "OperatorUserId": "504",
-            "OperatorFirstName": "Brendan",
-            "OperatorLastName": "McGrath",
-            "UserId": "731",
-            "QueryType": "Query team"
-        },
-        {
-            "Id": 1104,
             "Subject": "BSU demo",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-09T08:58:09",
+            "CreatedOn": "2026-01-08T09:27:00",
+            "OperatorUserId": "504",
+            "OperatorFirstName": "Brendan",
+            "OperatorLastName": "McGrath",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1104,
+            "Subject": "Re: BSU demo",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-09T08:58:09",
+            "CreatedOn": "2026-01-08T09:27:00",
+            "OperatorUserId": "504",
+            "OperatorFirstName": "Brendan",
+            "OperatorLastName": "McGrath",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1104,
+            "Subject": "Re: BSU demo",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-01-09T08:58:09",
@@ -587,6 +587,45 @@
             "OperatorLastName": null,
             "UserId": "1940",
             "QueryType": "Event Query"
+        },
+        {
+            "Id": 1124,
+            "Subject": "I have a clash",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-29T15:23:38",
+            "CreatedOn": "2026-01-29T15:23:38",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1384",
+            "QueryType": "Timetable issue"
+        },
+        {
+            "Id": 1124,
+            "Subject": "Re: I have a clash",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-29T15:23:38",
+            "CreatedOn": "2026-01-29T15:23:38",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1384",
+            "QueryType": "Timetable issue"
+        },
+        {
+            "Id": 1126,
+            "Subject": "twaeta",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-29T16:06:10",
+            "CreatedOn": "2026-01-29T16:06:10",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1335",
+            "QueryType": "Timetable issue"
         }
     ]
 }
