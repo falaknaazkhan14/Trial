@@ -22,8 +22,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1090,test,CLOSED,False,2025-12-24T11:49:52,2025-12-24T11:48:46,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
 1092,test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
 1092,Re: test2,CLOSED,False,2025-12-24T11:50:55,2025-12-24T11:50:17,gtiadmin,gtiadmin,admin,1538,Questions about vacancies
-1094,test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
 1094,Re: test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
+1094,test3,CLOSED,False,2025-12-24T11:54:11,2025-12-24T11:51:11,gtiadmin,gtiadmin,admin,1538,"CV, application, online profile"
 1096,test4,CLOSED,False,2025-12-24T11:58:17,2025-12-24T11:56:21,1341,Alex,Bodian,1538,Questions about vacancies
 1096,Re: test4,CLOSED,False,2025-12-24T11:58:17,2025-12-24T11:56:21,1341,Alex,Bodian,1538,Questions about vacancies
 1098,test4,PENDING,True,2025-12-24T12:08:32,2025-12-24T12:07:18,icm,Chris,Masters,1538,EC form request
@@ -46,3 +46,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1124,I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
 1124,Re: I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
 1126,twaeta,PENDING,False,2026-01-29T16:06:10,2026-01-29T16:06:10,,,,1335,Timetable issue
+1128,ggg,PENDING,False,2026-01-30T12:19:10,2026-01-30T12:19:10,,,,testStudent1457,Placement Query
