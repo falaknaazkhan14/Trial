@@ -317,7 +317,7 @@
         },
         {
             "Id": 1094,
-            "Subject": "test3",
+            "Subject": "Re: test3",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:54:11",
@@ -330,7 +330,7 @@
         },
         {
             "Id": 1094,
-            "Subject": "Re: test3",
+            "Subject": "test3",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2025-12-24T11:54:11",
@@ -626,6 +626,19 @@
             "OperatorLastName": null,
             "UserId": "1335",
             "QueryType": "Timetable issue"
+        },
+        {
+            "Id": 1128,
+            "Subject": "ggg",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-01-30T12:19:10",
+            "CreatedOn": "2026-01-30T12:19:10",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1457",
+            "QueryType": "Placement Query"
         }
     ]
 }
