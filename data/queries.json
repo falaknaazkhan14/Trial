@@ -275,6 +275,32 @@
             "OperatorLastName": null,
             "UserId": "testStudent1457",
             "QueryType": "Placement Query"
+        },
+        {
+            "Id": 1130,
+            "Subject": "test",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-03T14:23:41",
+            "CreatedOn": "2026-02-03T10:17:44",
+            "OperatorUserId": "510",
+            "OperatorFirstName": "Head of",
+            "OperatorLastName": "Student Services",
+            "UserId": "731",
+            "QueryType": "Disability - Appointment Request"
+        },
+        {
+            "Id": 1130,
+            "Subject": "Re: test",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-03T14:23:41",
+            "CreatedOn": "2026-02-03T10:17:44",
+            "OperatorUserId": "510",
+            "OperatorFirstName": "Head of",
+            "OperatorLastName": "Student Services",
+            "UserId": "731",
+            "QueryType": "Disability - Appointment Request"
         }
     ]
 }
