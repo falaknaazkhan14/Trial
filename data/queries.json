@@ -266,9 +266,9 @@
         {
             "Id": 1128,
             "Subject": "ggg",
-            "Status": "PENDING",
+            "Status": "DELETED",
             "InProgress": false,
-            "LastModifiedOn": "2026-01-30T12:19:10",
+            "LastModifiedOn": "2026-02-04T17:17:30",
             "CreatedOn": "2026-01-30T12:19:10",
             "OperatorUserId": null,
             "OperatorFirstName": null,
@@ -301,6 +301,32 @@
             "OperatorLastName": "Student Services",
             "UserId": "731",
             "QueryType": "Disability - Appointment Request"
+        },
+        {
+            "Id": 1132,
+            "Subject": "testing",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-04T17:15:13",
+            "CreatedOn": "2026-02-04T17:14:33",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent1457",
+            "QueryType": "Placement Query"
+        },
+        {
+            "Id": 1132,
+            "Subject": "Re: testing",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-04T17:15:13",
+            "CreatedOn": "2026-02-04T17:14:33",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent1457",
+            "QueryType": "Placement Query"
         }
     ]
 }

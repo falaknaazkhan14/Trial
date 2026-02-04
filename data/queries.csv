@@ -18,6 +18,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1124,I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
 1124,Re: I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
 1126,twaeta,PENDING,False,2026-01-29T16:06:10,2026-01-29T16:06:10,,,,1335,Timetable issue
-1128,ggg,PENDING,False,2026-01-30T12:19:10,2026-01-30T12:19:10,,,,testStudent1457,Placement Query
+1128,ggg,DELETED,False,2026-02-04T17:17:30,2026-01-30T12:19:10,,,,testStudent1457,Placement Query
 1130,test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
+1132,testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
+1132,Re: testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
