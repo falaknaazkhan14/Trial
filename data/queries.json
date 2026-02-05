@@ -43,6 +43,19 @@
             "QueryType": "Reporting concern about a student"
         },
         {
+            "Id": 1074,
+            "Subject": "Re: Test blank query",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-05T07:50:38",
+            "CreatedOn": "2025-12-02T02:03:58",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2010",
+            "QueryType": "Query team"
+        },
+        {
             "Id": 1100,
             "Subject": "Re: aaaa",
             "Status": "PENDING",
