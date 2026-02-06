@@ -187,7 +187,7 @@
         },
         {
             "Id": 1118,
-            "Subject": "Application help",
+            "Subject": "Re: Application help",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-01-23T14:34:15",
@@ -200,7 +200,7 @@
         },
         {
             "Id": 1118,
-            "Subject": "Re: Application help",
+            "Subject": "Application help",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-01-23T14:34:15",
@@ -340,6 +340,45 @@
             "OperatorLastName": "admin",
             "UserId": "testStudent1457",
             "QueryType": "Placement Query"
+        },
+        {
+            "Id": 1134,
+            "Subject": "Re: I can't attend the event",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-06T01:26:03",
+            "CreatedOn": "2026-02-06T01:24:20",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2010",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1134,
+            "Subject": "Re: I can't attend the event",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-06T01:26:03",
+            "CreatedOn": "2026-02-06T01:24:20",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2010",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1134,
+            "Subject": "Re: I can't attend the event",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-06T01:26:03",
+            "CreatedOn": "2026-02-06T01:24:20",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2010",
+            "QueryType": "CV, application, online profile"
         }
     ]
 }

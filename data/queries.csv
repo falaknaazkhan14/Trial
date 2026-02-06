@@ -12,8 +12,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1110,I want to appeal,PENDING,False,2026-01-09T10:15:09,2026-01-09T10:15:09,,,,1384,Senate Appeal Request
 1114,Re: I need support with me CV,PENDING,False,2026-01-12T11:00:46,2026-01-12T11:00:46,,,,731,General Query
 1116,My query,PENDING,False,2026-01-19T11:48:26,2026-01-19T11:48:26,,,,731,Query team
-1118,Application help,RESPONDED,False,2026-01-23T14:34:15,2026-01-23T14:13:52,gtiadmin,gtiadmin,admin,1954,Application help
 1118,Re: Application help,RESPONDED,False,2026-01-23T14:34:15,2026-01-23T14:13:52,gtiadmin,gtiadmin,admin,1954,Application help
+1118,Application help,RESPONDED,False,2026-01-23T14:34:15,2026-01-23T14:13:52,gtiadmin,gtiadmin,admin,1954,Application help
 1120,What are your opening hours?,PENDING,False,2026-01-23T14:15:36,2026-01-23T14:15:36,,,,1954,General Query
 1122,Can I still attend?,PENDING,False,2026-01-26T11:28:18,2026-01-26T11:28:18,,,,1940,Event Query
 1124,I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
@@ -24,3 +24,6 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1132,testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1132,Re: testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
+1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
+1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
+1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
