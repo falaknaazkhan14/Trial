@@ -187,7 +187,7 @@
         },
         {
             "Id": 1118,
-            "Subject": "Re: Application help",
+            "Subject": "Application help",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-01-23T14:34:15",
@@ -200,7 +200,7 @@
         },
         {
             "Id": 1118,
-            "Subject": "Application help",
+            "Subject": "Re: Application help",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-01-23T14:34:15",
@@ -378,6 +378,71 @@
             "OperatorFirstName": "gtiadmin",
             "OperatorLastName": "admin",
             "UserId": "testStudent2010",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1136,
+            "Subject": "Queries email",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-10T13:24:25",
+            "CreatedOn": "2026-02-10T13:22:27",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1136,
+            "Subject": "Re: Queries email",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-10T13:24:25",
+            "CreatedOn": "2026-02-10T13:22:27",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1138,
+            "Subject": "query 2",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-10T13:28:41",
+            "CreatedOn": "2026-02-10T13:28:41",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1140,
+            "Subject": "I need help with my finances",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-10T14:17:24",
+            "CreatedOn": "2026-02-10T14:16:35",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "551",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1140,
+            "Subject": "Re: I need help with my finances",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-10T14:17:24",
+            "CreatedOn": "2026-02-10T14:16:35",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "551",
             "QueryType": "CV, application, online profile"
         }
     ]
