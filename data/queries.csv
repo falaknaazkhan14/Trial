@@ -29,6 +29,6 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
 1136,Queries email,RESPONDED,False,2026-02-10T13:24:25,2026-02-10T13:22:27,gtiadmin,gtiadmin,admin,731,Query team
 1136,Re: Queries email,RESPONDED,False,2026-02-10T13:24:25,2026-02-10T13:22:27,gtiadmin,gtiadmin,admin,731,Query team
-1138,query 2,PENDING,False,2026-02-10T13:28:41,2026-02-10T13:28:41,,,,731,Query team
+1138,query 2,PENDING,False,2026-02-11T09:23:56,2026-02-10T13:28:41,gtiadmin,gtiadmin,admin,731,Query team
 1140,I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
 1140,Re: I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
