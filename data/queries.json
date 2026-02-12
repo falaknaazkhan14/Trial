@@ -444,6 +444,19 @@
             "OperatorLastName": "admin",
             "UserId": "551",
             "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1142,
+            "Subject": "I need help on....",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-12T14:35:30",
+            "CreatedOn": "2026-02-12T14:35:30",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent2008",
+            "QueryType": "General Query"
         }
     ]
 }

@@ -32,3 +32,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1138,query 2,PENDING,False,2026-02-11T09:23:56,2026-02-10T13:28:41,gtiadmin,gtiadmin,admin,731,Query team
 1140,I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
 1140,Re: I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
+1142,I need help on....,PENDING,False,2026-02-12T14:35:30,2026-02-12T14:35:30,,,,testStudent2008,General Query
