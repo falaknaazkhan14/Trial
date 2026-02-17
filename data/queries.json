@@ -267,8 +267,8 @@
             "Id": 1126,
             "Subject": "twaeta",
             "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-01-29T16:06:10",
+            "InProgress": true,
+            "LastModifiedOn": "2026-02-17T15:16:42",
             "CreatedOn": "2026-01-29T16:06:10",
             "OperatorUserId": null,
             "OperatorFirstName": null,
@@ -456,6 +456,19 @@
             "OperatorFirstName": null,
             "OperatorLastName": null,
             "UserId": "testStudent2008",
+            "QueryType": "General Query"
+        },
+        {
+            "Id": 1146,
+            "Subject": "a",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-17T13:37:50",
+            "CreatedOn": "2026-02-17T13:37:50",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "934",
             "QueryType": "General Query"
         }
     ]

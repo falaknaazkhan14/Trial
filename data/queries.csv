@@ -18,7 +18,7 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1122,Can I still attend?,PENDING,False,2026-01-26T11:28:18,2026-01-26T11:28:18,,,,1940,Event Query
 1124,I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
 1124,Re: I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
-1126,twaeta,PENDING,False,2026-01-29T16:06:10,2026-01-29T16:06:10,,,,1335,Timetable issue
+1126,twaeta,PENDING,True,2026-02-17T15:16:42,2026-01-29T16:06:10,,,,1335,Timetable issue
 1128,ggg,DELETED,False,2026-02-04T17:17:30,2026-01-30T12:19:10,,,,testStudent1457,Placement Query
 1130,test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
@@ -33,3 +33,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1140,I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
 1140,Re: I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
 1142,I need help on....,PENDING,False,2026-02-12T14:35:30,2026-02-12T14:35:30,,,,testStudent2008,General Query
+1146,a,PENDING,False,2026-02-17T13:37:50,2026-02-17T13:37:50,,,,934,General Query
