@@ -268,11 +268,11 @@
             "Subject": "twaeta",
             "Status": "PENDING",
             "InProgress": true,
-            "LastModifiedOn": "2026-02-17T15:16:42",
+            "LastModifiedOn": "2026-02-19T14:25:30",
             "CreatedOn": "2026-01-29T16:06:10",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
+            "OperatorUserId": "240",
+            "OperatorFirstName": "Ben ",
+            "OperatorLastName": "Titford",
             "UserId": "1335",
             "QueryType": "Timetable issue"
         },
@@ -382,7 +382,7 @@
         },
         {
             "Id": 1136,
-            "Subject": "Queries email",
+            "Subject": "Re: Queries email",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T13:24:25",
@@ -395,7 +395,7 @@
         },
         {
             "Id": 1136,
-            "Subject": "Re: Queries email",
+            "Subject": "Queries email",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T13:24:25",
@@ -461,15 +461,67 @@
         {
             "Id": 1146,
             "Subject": "a",
-            "Status": "PENDING",
+            "Status": "DELETED",
             "InProgress": false,
-            "LastModifiedOn": "2026-02-17T13:37:50",
+            "LastModifiedOn": "2026-02-19T16:36:22",
             "CreatedOn": "2026-02-17T13:37:50",
             "OperatorUserId": null,
             "OperatorFirstName": null,
             "OperatorLastName": null,
             "UserId": "934",
             "QueryType": "General Query"
+        },
+        {
+            "Id": 1148,
+            "Subject": "I need help with study skills",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-19T10:46:16",
+            "CreatedOn": "2026-02-19T10:44:34",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1899",
+            "QueryType": "General Query"
+        },
+        {
+            "Id": 1148,
+            "Subject": "I need help with study skills",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-19T10:46:16",
+            "CreatedOn": "2026-02-19T10:44:34",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1899",
+            "QueryType": "General Query"
+        },
+        {
+            "Id": 1150,
+            "Subject": "Test",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-19T12:00:43",
+            "CreatedOn": "2026-02-19T11:36:38",
+            "OperatorUserId": "1708",
+            "OperatorFirstName": "Beatriz",
+            "OperatorLastName": "Amaro",
+            "UserId": "1899",
+            "QueryType": "Event Query"
+        },
+        {
+            "Id": 1150,
+            "Subject": "Re: Test",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-19T12:00:43",
+            "CreatedOn": "2026-02-19T11:36:38",
+            "OperatorUserId": "1708",
+            "OperatorFirstName": "Beatriz",
+            "OperatorLastName": "Amaro",
+            "UserId": "1899",
+            "QueryType": "Event Query"
         }
     ]
 }
