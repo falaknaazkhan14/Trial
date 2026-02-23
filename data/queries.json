@@ -291,7 +291,7 @@
         },
         {
             "Id": 1130,
-            "Subject": "test",
+            "Subject": "Re: test",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-03T14:23:41",
@@ -304,7 +304,7 @@
         },
         {
             "Id": 1130,
-            "Subject": "Re: test",
+            "Subject": "test",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-03T14:23:41",
@@ -382,7 +382,7 @@
         },
         {
             "Id": 1136,
-            "Subject": "Re: Queries email",
+            "Subject": "Queries email",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T13:24:25",
@@ -395,7 +395,7 @@
         },
         {
             "Id": 1136,
-            "Subject": "Queries email",
+            "Subject": "Re: Queries email",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T13:24:25",
@@ -522,6 +522,32 @@
             "OperatorLastName": "admin",
             "UserId": "1899",
             "QueryType": "Event Query"
+        },
+        {
+            "Id": 1152,
+            "Subject": "Test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-23T14:02:52",
+            "CreatedOn": "2026-02-23T14:02:52",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1022",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1154,
+            "Subject": "Test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-23T16:20:45",
+            "CreatedOn": "2026-02-23T16:20:45",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent2001",
+            "QueryType": "Queries for JT Test Group"
         }
     ]
 }

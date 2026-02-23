@@ -20,15 +20,15 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1124,Re: I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
 1126,twaeta,PENDING,True,2026-02-19T14:25:30,2026-01-29T16:06:10,240,Ben ,Titford,1335,Timetable issue
 1128,ggg,DELETED,False,2026-02-04T17:17:30,2026-01-30T12:19:10,,,,testStudent1457,Placement Query
-1130,test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
+1130,test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1132,testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1132,Re: testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
 1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
 1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
-1136,Re: Queries email,RESPONDED,False,2026-02-10T13:24:25,2026-02-10T13:22:27,gtiadmin,gtiadmin,admin,731,Query team
 1136,Queries email,RESPONDED,False,2026-02-10T13:24:25,2026-02-10T13:22:27,gtiadmin,gtiadmin,admin,731,Query team
+1136,Re: Queries email,RESPONDED,False,2026-02-10T13:24:25,2026-02-10T13:22:27,gtiadmin,gtiadmin,admin,731,Query team
 1138,query 2,PENDING,False,2026-02-11T09:23:56,2026-02-10T13:28:41,gtiadmin,gtiadmin,admin,731,Query team
 1140,I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
 1140,Re: I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
@@ -38,3 +38,5 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1148,I need help with study skills,RESPONDED,False,2026-02-19T10:46:16,2026-02-19T10:44:34,gtiadmin,gtiadmin,admin,1899,General Query
 1150,Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
 1150,Re: Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
+1152,Test,PENDING,False,2026-02-23T14:02:52,2026-02-23T14:02:52,,,,1022,"CV, application, online profile"
+1154,Test,PENDING,False,2026-02-23T16:20:45,2026-02-23T16:20:45,,,,testStudent2001,Queries for JT Test Group
