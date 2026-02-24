@@ -291,7 +291,7 @@
         },
         {
             "Id": 1130,
-            "Subject": "Re: test",
+            "Subject": "test",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-03T14:23:41",
@@ -304,7 +304,7 @@
         },
         {
             "Id": 1130,
-            "Subject": "test",
+            "Subject": "Re: test",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-03T14:23:41",
@@ -421,7 +421,7 @@
         },
         {
             "Id": 1140,
-            "Subject": "I need help with my finances",
+            "Subject": "Re: I need help with my finances",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T14:17:24",
@@ -434,7 +434,7 @@
         },
         {
             "Id": 1140,
-            "Subject": "Re: I need help with my finances",
+            "Subject": "I need help with my finances",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T14:17:24",
@@ -548,6 +548,19 @@
             "OperatorLastName": null,
             "UserId": "testStudent2001",
             "QueryType": "Queries for JT Test Group"
+        },
+        {
+            "Id": 1156,
+            "Subject": "This is a test query and only visible to Administrators",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-24T01:40:40",
+            "CreatedOn": "2026-02-24T01:37:32",
+            "OperatorUserId": "2262",
+            "OperatorFirstName": "Query test",
+            "OperatorLastName": "For Jo",
+            "UserId": "testStudent2010",
+            "QueryType": "Question!"
         }
     ]
 }
