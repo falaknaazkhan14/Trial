@@ -317,7 +317,7 @@
         },
         {
             "Id": 1132,
-            "Subject": "Re: testing",
+            "Subject": "testing",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-04T17:15:13",
@@ -330,7 +330,7 @@
         },
         {
             "Id": 1132,
-            "Subject": "testing",
+            "Subject": "Re: testing",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-04T17:15:13",
@@ -499,7 +499,7 @@
         },
         {
             "Id": 1150,
-            "Subject": "Test",
+            "Subject": "Re: Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-20T11:30:49",
@@ -512,7 +512,7 @@
         },
         {
             "Id": 1150,
-            "Subject": "Re: Test",
+            "Subject": "Test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-20T11:30:49",
@@ -639,6 +639,32 @@
             "OperatorLastName": "admin",
             "UserId": "testStudent2010",
             "QueryType": "Question!"
+        },
+        {
+            "Id": 1160,
+            "Subject": "test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-26T10:42:50",
+            "CreatedOn": "2026-02-26T10:42:50",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2264",
+            "QueryType": "General Counselling Question"
+        },
+        {
+            "Id": 1160,
+            "Subject": "Re: test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-26T10:42:50",
+            "CreatedOn": "2026-02-26T10:42:50",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2264",
+            "QueryType": "General Counselling Question"
         }
     ]
 }
