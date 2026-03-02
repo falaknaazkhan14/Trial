@@ -1,25 +1,5 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
-1056,Re: test,PENDING,False,2025-09-26T09:15:02,2025-09-26T09:15:02,,,,731,Financial Hardship - Emergency Support
-1070,Re: test,PENDING,True,2025-11-25T11:32:24,2025-11-25T11:29:12,,,,1384,Reporting concern about a student
 1074,Re: Test blank query,PENDING,False,2026-02-05T07:50:38,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
-1100,Re: aaaa,PENDING,True,2025-12-24T12:10:19,2025-12-24T12:09:40,,,,1538,SETU - Disability Registration
-1102,This is a query email,PENDING,False,2026-01-08T10:11:57,2026-01-08T09:01:40,504,Brendan,McGrath,731,Query team
-1104,BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
-1104,Re: BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
-1104,Re: BSU demo,CLOSED,False,2026-01-09T08:58:09,2026-01-08T09:27:00,504,Brendan,McGrath,731,Query team
-1106,test,PENDING,False,2026-01-08T09:28:04,2026-01-08T09:28:04,,,,731,EC form request
-1108,Senate Appeal request,PENDING,False,2026-01-09T08:56:42,2026-01-09T08:56:42,,,,731,Senate Appeal Request
-1110,I want to appeal,PENDING,False,2026-01-09T10:15:09,2026-01-09T10:15:09,,,,1384,Senate Appeal Request
-1114,Re: I need support with me CV,PENDING,False,2026-01-12T11:00:46,2026-01-12T11:00:46,,,,731,General Query
-1116,My query,PENDING,False,2026-01-19T11:48:26,2026-01-19T11:48:26,,,,731,Query team
-1118,Application help,RESPONDED,False,2026-01-23T14:34:15,2026-01-23T14:13:52,gtiadmin,gtiadmin,admin,1954,Application help
-1118,Re: Application help,RESPONDED,False,2026-01-23T14:34:15,2026-01-23T14:13:52,gtiadmin,gtiadmin,admin,1954,Application help
-1120,What are your opening hours?,PENDING,False,2026-01-23T14:15:36,2026-01-23T14:15:36,,,,1954,General Query
-1122,Can I still attend?,PENDING,False,2026-01-26T11:28:18,2026-01-26T11:28:18,,,,1940,Event Query
-1124,I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
-1124,Re: I have a clash,PENDING,False,2026-01-29T15:23:38,2026-01-29T15:23:38,,,,1384,Timetable issue
-1126,twaeta,PENDING,True,2026-02-19T14:25:30,2026-01-29T16:06:10,240,Ben ,Titford,1335,Timetable issue
-1128,ggg,DELETED,False,2026-02-04T17:17:30,2026-01-30T12:19:10,,,,testStudent1457,Placement Query
 1130,test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1132,testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
@@ -36,8 +16,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1146,a,DELETED,False,2026-02-19T16:36:22,2026-02-17T13:37:50,,,,934,General Query
 1148,I need help with study skills,RESPONDED,False,2026-02-19T10:46:16,2026-02-19T10:44:34,gtiadmin,gtiadmin,admin,1899,General Query
 1148,I need help with study skills,RESPONDED,False,2026-02-19T10:46:16,2026-02-19T10:44:34,gtiadmin,gtiadmin,admin,1899,General Query
-1150,Re: Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
 1150,Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
+1150,Re: Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
 1152,Test,PENDING,False,2026-02-23T14:02:52,2026-02-23T14:02:52,,,,1022,"CV, application, online profile"
 1154,Test,PENDING,False,2026-02-23T16:20:45,2026-02-23T16:20:45,,,,testStudent2001,Queries for JT Test Group
 1156,This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
