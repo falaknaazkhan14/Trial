@@ -1,4 +1,5 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
+751,Re: Hello?,RESPONDED,False,2026-03-03T07:46:50,2023-05-30T10:58:19,gtiadmin,gtiadmin,admin,testStudent2001,Question!
 1074,Re: Test blank query,PENDING,False,2026-02-05T07:50:38,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
 1130,test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
@@ -20,12 +21,15 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1150,Re: Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
 1152,Test,PENDING,False,2026-02-23T14:02:52,2026-02-23T14:02:52,,,,1022,"CV, application, online profile"
 1154,Test,PENDING,False,2026-02-23T16:20:45,2026-02-23T16:20:45,,,,testStudent2001,Queries for JT Test Group
+1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
+1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
+1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1156,This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1158,Discharge,CLOSED,False,2026-02-25T06:14:40,2026-02-25T06:02:48,gtiadmin,gtiadmin,admin,testStudent2010,Question!
 1158,Re: Discharge,CLOSED,False,2026-02-25T06:14:40,2026-02-25T06:02:48,gtiadmin,gtiadmin,admin,testStudent2010,Question!
 1158,Re: Discharge,CLOSED,False,2026-02-25T06:14:40,2026-02-25T06:02:48,gtiadmin,gtiadmin,admin,testStudent2010,Question!
-1160,test,PENDING,False,2026-02-26T10:42:50,2026-02-26T10:42:50,,,,2264,General Counselling Question
-1160,Re: test,PENDING,False,2026-02-26T10:42:50,2026-02-26T10:42:50,,,,2264,General Counselling Question
+1160,test,PENDING,False,2026-03-03T16:57:01,2026-02-26T10:42:50,gtiadmin,gtiadmin,admin,2264,General Counselling Question
+1160,Re: test,PENDING,False,2026-03-03T16:57:01,2026-02-26T10:42:50,gtiadmin,gtiadmin,admin,2264,General Counselling Question
+1162,#692189_ANU_TEST,PENDING,False,2026-03-03T07:48:45,2026-03-03T07:48:45,,,,testStudent2010,Queries for JT Test Group
+1164,#692189_ANU_TEST,PENDING,False,2026-03-03T07:49:13,2026-03-03T07:49:13,,,,testStudent2010,Question!
+1166,Queries email,PENDING,False,2026-03-03T14:51:02,2026-03-03T14:51:02,,,,2051,Finance Support Application
