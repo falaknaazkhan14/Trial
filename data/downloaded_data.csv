@@ -1,8 +1,9 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
 751,Re: Hello?,RESPONDED,False,2026-03-03T07:46:50,2023-05-30T10:58:19,gtiadmin,gtiadmin,admin,testStudent2001,Question!
 1074,Re: Test blank query,PENDING,False,2026-02-05T07:50:38,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
-1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
+1120,What are your opening hours?,RESPONDED,False,2026-03-11T09:40:48,2026-01-23T14:15:36,2033,Beth,Emery,1954,General Query
 1130,test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
+1130,Re: test,CLOSED,False,2026-02-03T14:23:41,2026-02-03T10:17:44,510,Head of,Student Services,731,Disability - Appointment Request
 1132,testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1132,Re: testing,RESPONDED,False,2026-02-04T17:15:13,2026-02-04T17:14:33,gtiadmin,gtiadmin,admin,testStudent1457,Placement Query
 1134,Re: I can't attend the event,PENDING,False,2026-02-06T01:26:03,2026-02-06T01:24:20,gtiadmin,gtiadmin,admin,testStudent2010,"CV, application, online profile"
