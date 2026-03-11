@@ -43,8 +43,21 @@
             "QueryType": "Query team"
         },
         {
+            "Id": 1120,
+            "Subject": "What are your opening hours?",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-03-11T09:40:48",
+            "CreatedOn": "2026-01-23T14:15:36",
+            "OperatorUserId": "2033",
+            "OperatorFirstName": "Beth",
+            "OperatorLastName": "Emery",
+            "UserId": "1954",
+            "QueryType": "General Query"
+        },
+        {
             "Id": 1130,
-            "Subject": "Re: test",
+            "Subject": "test",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-03T14:23:41",
@@ -57,7 +70,7 @@
         },
         {
             "Id": 1130,
-            "Subject": "test",
+            "Subject": "Re: test",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-03T14:23:41",
