@@ -22,9 +22,9 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1150,Re: Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
 1152,Test,PENDING,False,2026-03-18T17:18:18,2026-02-23T14:02:52,1529,Joseph,Williams,1022,"CV, application, online profile"
 1154,Test,PENDING,False,2026-02-23T16:20:45,2026-02-23T16:20:45,,,,testStudent2001,Queries for JT Test Group
+1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
+1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1156,This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1158,Discharge,CLOSED,False,2026-02-25T06:14:40,2026-02-25T06:02:48,gtiadmin,gtiadmin,admin,testStudent2010,Question!
 1158,Re: Discharge,CLOSED,False,2026-02-25T06:14:40,2026-02-25T06:02:48,gtiadmin,gtiadmin,admin,testStudent2010,Question!
@@ -39,10 +39,13 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1172,test Teams query,PENDING,False,2026-03-09T12:38:20,2026-03-05T16:15:23,1341,Alex,Bodian,731,General CMH
 1174,test message,RESPONDED,False,2026-03-09T12:41:10,2026-03-09T11:53:10,gtiadmin,gtiadmin,admin,731,Disability - Appointment Request
 1174,test message,RESPONDED,False,2026-03-09T12:41:10,2026-03-09T11:53:10,gtiadmin,gtiadmin,admin,731,Disability - Appointment Request
-1176,clash,PENDING,False,2026-03-09T12:43:46,2026-03-09T12:43:46,,,,731,Timetable issue
+1176,clash,PENDING,False,2026-03-19T15:47:52,2026-03-09T12:43:46,240,Ben ,Titford,731,Timetable issue
 1178,Bea to check responses,RESPONDED,False,2026-03-09T14:13:40,2026-03-09T14:11:11,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1178,Bea to check responses,RESPONDED,False,2026-03-09T14:13:40,2026-03-09T14:11:11,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1178,Re: Bea to check responses,RESPONDED,False,2026-03-09T14:13:40,2026-03-09T14:11:11,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1180,Fiona's Question,PENDING,False,2026-03-17T08:28:16,2026-03-17T08:27:10,,,,2010,General Query
 1182,Test FM,CLOSED,False,2026-03-17T15:11:14,2026-03-17T14:09:10,1708,Beatriz,Amaro,2010,Placement Query
 1182,Test FM,CLOSED,False,2026-03-17T15:11:14,2026-03-17T14:09:10,1708,Beatriz,Amaro,2010,Placement Query
+1184,Location of Economics lecture on 1903,PENDING,False,2026-03-19T13:06:14,2026-03-19T13:06:14,,,,865,General Query
+1186,This is a disability question,CLOSED,False,2026-03-19T15:49:31,2026-03-19T15:43:12,gtiadmin,gtiadmin,admin,731,Disability - Learning Support
+1186,This is a disability question,CLOSED,False,2026-03-19T15:49:31,2026-03-19T15:43:12,gtiadmin,gtiadmin,admin,731,Disability - Learning Support
