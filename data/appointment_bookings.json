@@ -6093,7 +6093,7 @@
             "ActualOpeningTime": null,
             "ActualClosingTime": null,
             "OperatorUserId": "1866",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "BookingCreatedDate": "2026-03-17T15:39:17",
             "BookingModifiedDate": "2026-03-18T14:00:39",
             "Actions": null,

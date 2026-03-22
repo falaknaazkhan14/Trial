@@ -25941,7 +25941,7 @@
             "OpeningTimePeriodDays": 5,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "1866",
             "Operator": "Elnakib, Shadwa",
             "OperatorNotes": "",
