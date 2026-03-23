@@ -17,6 +17,19 @@
     },
     "data": [
         {
+            "Id": 217,
+            "Subject": "Question about C...",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2017-07-05T12:16:24",
+            "CreatedOn": "2017-07-05T12:16:24",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1022",
+            "QueryType": "General Query/Help"
+        },
+        {
             "Id": 751,
             "Subject": "Re: Hello?",
             "Status": "RESPONDED",
@@ -665,6 +678,58 @@
             "OperatorLastName": "admin",
             "UserId": "731",
             "QueryType": "Disability - Learning Support"
+        },
+        {
+            "Id": 1188,
+            "Subject": "JT Test Group should not display this initially > pass it to JT",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-03-23T03:43:26",
+            "CreatedOn": "2026-03-23T03:32:37",
+            "OperatorUserId": "2262",
+            "OperatorFirstName": "Query test",
+            "OperatorLastName": "For Jo",
+            "UserId": "testStudent2010",
+            "QueryType": "Question!"
+        },
+        {
+            "Id": 1188,
+            "Subject": "JT Test Group should not display this initially > pass it to JT",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-03-23T03:43:26",
+            "CreatedOn": "2026-03-23T03:32:37",
+            "OperatorUserId": "2262",
+            "OperatorFirstName": "Query test",
+            "OperatorLastName": "For Jo",
+            "UserId": "testStudent2010",
+            "QueryType": "Question!"
+        },
+        {
+            "Id": 1190,
+            "Subject": "Testing how this works",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-03-23T10:23:00",
+            "CreatedOn": "2026-03-23T10:23:00",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1161",
+            "QueryType": "General Query"
+        },
+        {
+            "Id": 1192,
+            "Subject": "Paul will see this",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-03-23T11:42:50",
+            "CreatedOn": "2026-03-23T11:42:50",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Teams test category"
         }
     ]
 }

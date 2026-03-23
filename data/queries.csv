@@ -1,4 +1,5 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
+217,Question about C...,PENDING,False,2017-07-05T12:16:24,2017-07-05T12:16:24,,,,testStudent1022,General Query/Help
 751,Re: Hello?,RESPONDED,False,2026-03-03T07:46:50,2023-05-30T10:58:19,gtiadmin,gtiadmin,admin,testStudent2001,Question!
 1074,Re: Test blank query,PENDING,False,2026-02-05T07:50:38,2025-12-02T02:03:58,gtiadmin,gtiadmin,admin,testStudent2010,Query team
 1120,What are your opening hours?,RESPONDED,False,2026-03-11T09:40:48,2026-01-23T14:15:36,2033,Beth,Emery,1954,General Query
@@ -49,3 +50,7 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1184,Location of Economics lecture on 1903,PENDING,False,2026-03-19T13:06:14,2026-03-19T13:06:14,,,,865,General Query
 1186,This is a disability question,CLOSED,False,2026-03-19T15:49:31,2026-03-19T15:43:12,gtiadmin,gtiadmin,admin,731,Disability - Learning Support
 1186,This is a disability question,CLOSED,False,2026-03-19T15:49:31,2026-03-19T15:43:12,gtiadmin,gtiadmin,admin,731,Disability - Learning Support
+1188,JT Test Group should not display this initially > pass it to JT,RESPONDED,False,2026-03-23T03:43:26,2026-03-23T03:32:37,2262,Query test,For Jo,testStudent2010,Question!
+1188,JT Test Group should not display this initially > pass it to JT,RESPONDED,False,2026-03-23T03:43:26,2026-03-23T03:32:37,2262,Query test,For Jo,testStudent2010,Question!
+1190,Testing how this works,PENDING,False,2026-03-23T10:23:00,2026-03-23T10:23:00,,,,1161,General Query
+1192,Paul will see this,PENDING,False,2026-03-23T11:42:50,2026-03-23T11:42:50,,,,731,Teams test category
