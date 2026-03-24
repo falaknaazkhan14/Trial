@@ -13,8 +13,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1136,Queries email,RESPONDED,False,2026-02-10T13:24:25,2026-02-10T13:22:27,gtiadmin,gtiadmin,admin,731,Query team
 1136,Re: Queries email,RESPONDED,False,2026-02-10T13:24:25,2026-02-10T13:22:27,gtiadmin,gtiadmin,admin,731,Query team
 1138,query 2,PENDING,False,2026-02-11T09:23:56,2026-02-10T13:28:41,gtiadmin,gtiadmin,admin,731,Query team
-1140,I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
 1140,Re: I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
+1140,I need help with my finances,RESPONDED,False,2026-02-10T14:17:24,2026-02-10T14:16:35,gtiadmin,gtiadmin,admin,551,"CV, application, online profile"
 1142,I need help on....,PENDING,False,2026-02-12T14:35:30,2026-02-12T14:35:30,,,,testStudent2008,General Query
 1146,a,DELETED,False,2026-02-19T16:36:22,2026-02-17T13:37:50,,,,934,General Query
 1148,I need help with study skills,RESPONDED,False,2026-02-19T10:46:16,2026-02-19T10:44:34,gtiadmin,gtiadmin,admin,1899,General Query
@@ -23,9 +23,9 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1150,Re: Test,RESPONDED,False,2026-02-20T11:30:49,2026-02-19T11:36:38,gtiadmin,gtiadmin,admin,1899,Event Query
 1152,Test,PENDING,False,2026-03-18T17:18:18,2026-02-23T14:02:52,1529,Joseph,Williams,1022,"CV, application, online profile"
 1154,Test,PENDING,False,2026-02-23T16:20:45,2026-02-23T16:20:45,,,,testStudent2001,Queries for JT Test Group
-1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1156,This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
+1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
+1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1156,Re: This is a test query and only visible to Administrators,RESPONDED,False,2026-02-25T06:10:58,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
 1158,Discharge,CLOSED,False,2026-02-25T06:14:40,2026-02-25T06:02:48,gtiadmin,gtiadmin,admin,testStudent2010,Question!
 1158,Re: Discharge,CLOSED,False,2026-02-25T06:14:40,2026-02-25T06:02:48,gtiadmin,gtiadmin,admin,testStudent2010,Question!
@@ -42,8 +42,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1174,test message,RESPONDED,False,2026-03-09T12:41:10,2026-03-09T11:53:10,gtiadmin,gtiadmin,admin,731,Disability - Appointment Request
 1176,clash,PENDING,False,2026-03-19T15:47:52,2026-03-09T12:43:46,240,Ben ,Titford,731,Timetable issue
 1178,Bea to check responses,RESPONDED,False,2026-03-09T14:13:40,2026-03-09T14:11:11,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
-1178,Bea to check responses,RESPONDED,False,2026-03-09T14:13:40,2026-03-09T14:11:11,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1178,Re: Bea to check responses,RESPONDED,False,2026-03-09T14:13:40,2026-03-09T14:11:11,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
+1178,Bea to check responses,RESPONDED,False,2026-03-09T14:13:40,2026-03-09T14:11:11,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1180,Fiona's Question,PENDING,False,2026-03-17T08:28:16,2026-03-17T08:27:10,,,,2010,General Query
 1182,Test FM,CLOSED,False,2026-03-17T15:11:14,2026-03-17T14:09:10,1708,Beatriz,Amaro,2010,Placement Query
 1182,Test FM,CLOSED,False,2026-03-17T15:11:14,2026-03-17T14:09:10,1708,Beatriz,Amaro,2010,Placement Query
@@ -54,3 +54,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1188,JT Test Group should not display this initially > pass it to JT,RESPONDED,False,2026-03-23T03:43:26,2026-03-23T03:32:37,2262,Query test,For Jo,testStudent2010,Question!
 1190,Testing how this works,PENDING,False,2026-03-23T10:23:00,2026-03-23T10:23:00,,,,1161,General Query
 1192,Paul will see this,PENDING,False,2026-03-23T11:42:50,2026-03-23T11:42:50,,,,731,Teams test category
+1194,Will it change my name to xxx?,PENDING,True,2026-03-24T07:22:12,2026-03-24T07:20:22,2266,Jo,Densing,2274,Question!
