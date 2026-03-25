@@ -200,7 +200,7 @@
         },
         {
             "Id": 1140,
-            "Subject": "Re: I need help with my finances",
+            "Subject": "I need help with my finances",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T14:17:24",
@@ -213,7 +213,7 @@
         },
         {
             "Id": 1140,
-            "Subject": "I need help with my finances",
+            "Subject": "Re: I need help with my finances",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-10T14:17:24",
@@ -382,33 +382,33 @@
         },
         {
             "Id": 1158,
+            "Subject": "Re: Discharge",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-25T06:14:40",
+            "CreatedOn": "2026-02-25T06:02:48",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2010",
+            "QueryType": "Question!"
+        },
+        {
+            "Id": 1158,
+            "Subject": "Re: Discharge",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-02-25T06:14:40",
+            "CreatedOn": "2026-02-25T06:02:48",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2010",
+            "QueryType": "Question!"
+        },
+        {
+            "Id": 1158,
             "Subject": "Discharge",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-02-25T06:14:40",
-            "CreatedOn": "2026-02-25T06:02:48",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "testStudent2010",
-            "QueryType": "Question!"
-        },
-        {
-            "Id": 1158,
-            "Subject": "Re: Discharge",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-02-25T06:14:40",
-            "CreatedOn": "2026-02-25T06:02:48",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "testStudent2010",
-            "QueryType": "Question!"
-        },
-        {
-            "Id": 1158,
-            "Subject": "Re: Discharge",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-02-25T06:14:40",
@@ -564,7 +564,7 @@
         },
         {
             "Id": 1178,
-            "Subject": "Bea to check responses",
+            "Subject": "Re: Bea to check responses",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-03-09T14:13:40",
@@ -577,7 +577,7 @@
         },
         {
             "Id": 1178,
-            "Subject": "Re: Bea to check responses",
+            "Subject": "Bea to check responses",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-03-09T14:13:40",
@@ -743,6 +743,32 @@
             "OperatorLastName": "Densing",
             "UserId": "2274",
             "QueryType": "Question!"
+        },
+        {
+            "Id": 1196,
+            "Subject": "Re: Academic skills intro",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-03-25T09:34:49",
+            "CreatedOn": "2026-03-25T09:28:50",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Teams test category"
+        },
+        {
+            "Id": 1196,
+            "Subject": "Re: Academic skills intro",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-03-25T09:34:49",
+            "CreatedOn": "2026-03-25T09:28:50",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Teams test category"
         }
     ]
 }
