@@ -40,3 +40,6 @@ AppointmentSlotId,AppointmentBookingId,UserId,SessionType,SessionCategory,Select
   ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93418,10512,1022,Careers Guidance - In Person,Careers Guidance,PHYSICAL,2026-04-01T15:49:19,2026-04-02T10:30:00,2026-04-02T11:00:00,2026-04-01T15:49:44,2026-04-01T15:49:56,1866,Attended,2026-04-01T15:49:31,2026-04-01T15:49:31,,,Aberconwy House,,,0,1,08:30:10,22,24,,,,,,,,,,,,,,False,,,"    
   ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93446,10514,testStudent1457,Careers Advice,General Guidance ,PHYSICAL,2026-04-02T16:07:56,2026-04-03T07:45:00,2026-04-03T08:15:00,2026-04-02T16:09:00,2026-04-02T16:10:44,gtiadmin,Attended,2026-04-02T16:08:54,2026-04-02T16:08:54,,,Aberconwy House,,,1680,0,00:00:35,20,24,,,,,,,,,,,,,,,,,"        
+  
+  ",,,,,,,,,,,Face to face,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Job search,,,,,,,,,,,,

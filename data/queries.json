@@ -470,6 +470,19 @@
             "OperatorLastName": null,
             "UserId": "testStudent1457",
             "QueryType": "Event Query"
+        },
+        {
+            "Id": 1206,
+            "Subject": "This is for CV advisers",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-04-02T03:01:34",
+            "CreatedOn": "2026-04-02T02:16:00",
+            "OperatorUserId": "2284",
+            "OperatorFirstName": "CV",
+            "OperatorLastName": "Adviser2",
+            "UserId": "testStudent2010",
+            "QueryType": "queries for CV advisers"
         }
     ]
 }

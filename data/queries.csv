@@ -34,3 +34,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1200,xxxx,RESPONDED,False,2026-03-31T08:43:03,2026-03-31T08:39:48,gtiadmin,gtiadmin,admin,2279,EC form request
 1202,test,PENDING,False,2026-03-31T10:53:46,2026-03-31T10:53:46,,,,1019,Disability - Learning Support
 1204,asdfghjk,PENDING,False,2026-04-01T10:32:01,2026-04-01T10:32:01,,,,testStudent1457,Event Query
+1206,This is for CV advisers,PENDING,False,2026-04-02T03:01:34,2026-04-02T02:16:00,2284,CV,Adviser2,testStudent2010,queries for CV advisers
