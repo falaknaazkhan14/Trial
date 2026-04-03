@@ -11811,7 +11811,7 @@
             "OpeningTimePeriodDays": 5,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "516",
             "Operator": "Hooper, James",
             "OperatorNotes": null,
