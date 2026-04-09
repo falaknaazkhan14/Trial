@@ -483,6 +483,19 @@
             "OperatorLastName": "Adviser2",
             "UserId": "testStudent2010",
             "QueryType": "queries for CV advisers"
+        },
+        {
+            "Id": 1208,
+            "Subject": "Assign this to CV Adviser2",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-04-08T00:29:36",
+            "CreatedOn": "2026-04-08T00:29:06",
+            "OperatorUserId": "2284",
+            "OperatorFirstName": "CV",
+            "OperatorLastName": "Adviser2",
+            "UserId": "testStudent2010",
+            "QueryType": "Question!"
         }
     ]
 }
