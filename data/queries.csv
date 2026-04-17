@@ -2,6 +2,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 126,Re: General Question,RESPONDED,False,2026-03-31T08:41:14,2014-09-10T11:06:13,gtiadmin,gtiadmin,admin,23,General Counselling Question
 217,Question about C...,PENDING,False,2017-07-05T12:16:24,2017-07-05T12:16:24,,,,testStudent1022,General Query/Help
 751,Re: Hello?,RESPONDED,False,2026-03-03T07:46:50,2023-05-30T10:58:19,gtiadmin,gtiadmin,admin,testStudent2001,Question!
+1014,My query with support,PENDING,False,2026-04-17T13:43:59,2025-06-03T10:56:00,gtiadmin,gtiadmin,admin,731,Query team
+1014,Re: My query with support,PENDING,False,2026-04-17T13:43:59,2025-06-03T10:56:00,gtiadmin,gtiadmin,admin,731,Query team
 1120,What are your opening hours?,RESPONDED,False,2026-03-11T09:40:48,2026-01-23T14:15:36,2033,Beth,Emery,1954,General Query
 1162,#692189_ANU_TEST,PENDING,False,2026-03-03T07:48:45,2026-03-03T07:48:45,,,,testStudent2010,Queries for JT Test Group
 1164,#692189_ANU_TEST,PENDING,False,2026-03-04T08:09:09,2026-03-03T07:49:13,1742,James I,Tharby,testStudent2010,Question!
@@ -36,3 +38,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1204,asdfghjk,PENDING,False,2026-04-13T13:41:45,2026-04-01T10:32:01,1341,Alex,Bodian,testStudent1457,Event Query
 1206,This is for CV advisers,PENDING,False,2026-04-02T03:01:34,2026-04-02T02:16:00,2284,CV,Adviser2,testStudent2010,queries for CV advisers
 1208,Assign this to CV Adviser2,PENDING,False,2026-04-08T00:29:36,2026-04-08T00:29:06,2284,CV,Adviser2,testStudent2010,Question!
+1210,I have a query about disability support,PENDING,False,2026-04-17T14:04:40,2026-04-17T14:04:40,,,,731,Test category

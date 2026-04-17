@@ -273,7 +273,7 @@ AppointmentSlotId,UserId,AppointmentCategory,AvailableAttendanceMethods,Location
 93448,2010,Careers skills,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,CV and/or cover letter check,,2026-04-08T12:09:20,2026-04-08T13:15:00,2026-04-08T13:45:00,0,1,08:00:00,60,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",Appointment notes - added document Blank - Copy while writing the notes,Requires further help,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93450,,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,688708,,2026-04-13T14:52:24,2026-04-14T07:45:00,2026-04-14T08:05:00,0,0,00:00:00,1,create,Not Booked,Available,559,"Ludgate, Mark",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93452,731,Disability,"{""methods"": [""VIRTUAL""]}",,Student Support Service,Disability - Initial Consultation,,2026-04-14T10:49:53,2026-04-14T11:45:00,2026-04-14T12:15:00,0,0,00:00:00,1,finished,Booked,Attended,705,"Adebayo, Grace",These are the appointment notes.These are the appointment notes.These are the appointment notes.,Anxiety relating to course/exams,,test,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Physical disability,,,,,Chaplaincy,,,,,,Take the 87% wellbeing assessment,,,,,,,test,,,,,,,,,
-93454,731,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-04-14T14:56:46,2026-04-14T15:15:00,2026-04-14T15:45:00,480,1,00:00:00,5,allocated,Booked,Booked,516,"Hooper, James",,,,"                
+93454,731,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-04-14T14:56:46,2026-04-14T15:15:00,2026-04-14T15:45:00,480,1,00:00:00,5,allocated,Booked,Missed,516,"Hooper, James",,,,"                
   
   
   
@@ -284,3 +284,10 @@ AppointmentSlotId,UserId,AppointmentCategory,AvailableAttendanceMethods,Location
   ",,,,,,,,,
 93456,,General Guidance ,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,Careers Advice,,2026-04-15T15:05:30,2026-04-16T09:30:00,2026-04-16T10:00:00,1680,0,00:00:35,20,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93458,,,"{""methods"": [""MS_TEAMS"", ""PHYSICAL"", ""TELEPHONE""]}",Aberconwy House,Demo system,Enterprise Advice Session,,2026-04-15T15:06:53,2026-04-17T08:45:00,2026-04-17T09:15:00,0,0,00:00:00,1,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93460,testStudent2010,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,688708,,2026-04-17T05:34:19,2026-04-17T14:00:00,2026-04-17T14:20:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin","#699501 - appointment notes add to case 1
+#699501 - This edit is from classic casebook",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93462,testStudent2010,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Fallback appointment,,2026-04-17T06:01:22,2026-04-17T09:30:00,2026-04-17T09:50:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin","#699501 - This is an appointment note.
+#699501 - This is the 2nd appointment note written on classic casebook",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93464,731,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-04-17T15:16:29,2026-04-17T15:00:00,2026-04-17T15:30:00,480,1,00:00:00,5,finished,Booked,Attended,516,"Hooper, James",test - appointment owner v creator/booker in casebook notes?NEW NOTE CONTENT ADDED,,,"    test
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sexual abuse,,,,,,,,,,,Apply for hardship funding,,,,,,,"    test
+  ",,,,,,,,,

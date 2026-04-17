@@ -56,6 +56,32 @@
             "QueryType": "Question!"
         },
         {
+            "Id": 1014,
+            "Subject": "My query with support",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-04-17T13:43:59",
+            "CreatedOn": "2025-06-03T10:56:00",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
+            "Id": 1014,
+            "Subject": "Re: My query with support",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-04-17T13:43:59",
+            "CreatedOn": "2025-06-03T10:56:00",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
             "Id": 1120,
             "Subject": "What are your opening hours?",
             "Status": "RESPONDED",
@@ -496,6 +522,19 @@
             "OperatorLastName": "Adviser2",
             "UserId": "testStudent2010",
             "QueryType": "Question!"
+        },
+        {
+            "Id": 1210,
+            "Subject": "I have a query about disability support",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-04-17T14:04:40",
+            "CreatedOn": "2026-04-17T14:04:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Test category"
         }
     ]
 }
