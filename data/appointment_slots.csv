@@ -288,7 +288,13 @@ AppointmentSlotId,UserId,AppointmentCategory,AvailableAttendanceMethods,Location
 #699501 - This edit is from classic casebook",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93462,testStudent2010,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,Fallback appointment,,2026-04-17T06:01:22,2026-04-17T09:30:00,2026-04-17T09:50:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin","#699501 - This is an appointment note.
 #699501 - This is the 2nd appointment note written on classic casebook",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93464,731,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-04-17T15:16:29,2026-04-17T15:00:00,2026-04-17T15:30:00,480,1,00:00:00,5,finished,Booked,Attended,516,"Hooper, James",test - appointment owner v creator/booker in casebook notes?NEW NOTE CONTENT ADDED,,,"    test
+93464,731,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-04-17T15:16:29,2026-04-17T15:00:00,2026-04-17T15:30:00,480,1,00:00:00,5,finished,Booked,Attended,516,"Hooper, James","test - appointment owner v creator/booker in casebook notes?
+
+THIS IS ANOTHER UPDATE IN THE NEW UI
+
+THIS CONTENT WAS ADDED IN THE NEW UI
+
+NEW NOTE CONTENT ADDED",,,"    test
   ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sexual abuse,,,,,,,,,,,Apply for hardship funding,,,,,,,"    test
   ",,,,,,,,,
 93466,2001,,"{""methods"": [""VIRTUAL""]}",,TC Support team,Appointment type with Long Text Field,,2026-04-20T11:10:20,2026-04-23T09:45:00,2026-04-23T10:30:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",These are my original notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

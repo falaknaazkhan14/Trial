@@ -23874,7 +23874,7 @@
             "ResolvedState": "Attended",
             "OperatorUserId": "516",
             "Operator": "Hooper, James",
-            "OperatorNotes": "test - appointment owner v creator/booker in casebook notes?NEW NOTE CONTENT ADDED",
+            "OperatorNotes": "test - appointment owner v creator/booker in casebook notes?\n\nTHIS IS ANOTHER UPDATE IN THE NEW UI\n\nTHIS CONTENT WAS ADDED IN THE NEW UI\n\nNEW NOTE CONTENT ADDED",
             "Outcome": null,
             "Action plan for operators": null,
             "Additional details": "    test\r\n  ",
