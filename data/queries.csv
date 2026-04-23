@@ -20,7 +20,7 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1180,Fiona's Question,PENDING,False,2026-03-17T08:28:16,2026-03-17T08:27:10,,,,2010,General Query
 1182,Test FM,CLOSED,False,2026-03-17T15:11:14,2026-03-17T14:09:10,1708,Beatriz,Amaro,2010,Placement Query
 1182,Test FM,CLOSED,False,2026-03-17T15:11:14,2026-03-17T14:09:10,1708,Beatriz,Amaro,2010,Placement Query
-1184,Location of Economics lecture on 1903,PENDING,False,2026-03-19T13:06:14,2026-03-19T13:06:14,,,,865,General Query
+1184,Location of Economics lecture on 1903,PENDING,False,2026-04-23T11:17:33,2026-03-19T13:06:14,,,,865,Finance Support Application
 1186,This is a disability question,CLOSED,False,2026-03-19T15:49:31,2026-03-19T15:43:12,gtiadmin,gtiadmin,admin,731,Disability - Learning Support
 1186,This is a disability question,CLOSED,False,2026-03-19T15:49:31,2026-03-19T15:43:12,gtiadmin,gtiadmin,admin,731,Disability - Learning Support
 1188,JT Test Group should not display this initially > pass it to JT,RESPONDED,False,2026-03-23T03:43:26,2026-03-23T03:32:37,2262,Query test,For Jo,testStudent2010,Question!
@@ -38,4 +38,4 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1204,asdfghjk,PENDING,False,2026-04-13T13:41:45,2026-04-01T10:32:01,1341,Alex,Bodian,testStudent1457,Event Query
 1206,This is for CV advisers,PENDING,False,2026-04-02T03:01:34,2026-04-02T02:16:00,2284,CV,Adviser2,testStudent2010,queries for CV advisers
 1208,Assign this to CV Adviser2,PENDING,False,2026-04-08T00:29:36,2026-04-08T00:29:06,2284,CV,Adviser2,testStudent2010,Question!
-1210,I have a query about disability support,PENDING,False,2026-04-17T14:04:40,2026-04-17T14:04:40,,,,731,Test category
+1210,I have a query about disability support,PENDING,False,2026-04-23T11:16:13,2026-04-17T14:04:40,,,,731,Emergency issue

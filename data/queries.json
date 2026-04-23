@@ -294,13 +294,13 @@
             "Subject": "Location of Economics lecture on 1903",
             "Status": "PENDING",
             "InProgress": false,
-            "LastModifiedOn": "2026-03-19T13:06:14",
+            "LastModifiedOn": "2026-04-23T11:17:33",
             "CreatedOn": "2026-03-19T13:06:14",
             "OperatorUserId": null,
             "OperatorFirstName": null,
             "OperatorLastName": null,
             "UserId": "865",
-            "QueryType": "General Query"
+            "QueryType": "Finance Support Application"
         },
         {
             "Id": 1186,
@@ -528,13 +528,13 @@
             "Subject": "I have a query about disability support",
             "Status": "PENDING",
             "InProgress": false,
-            "LastModifiedOn": "2026-04-17T14:04:40",
+            "LastModifiedOn": "2026-04-23T11:16:13",
             "CreatedOn": "2026-04-17T14:04:40",
             "OperatorUserId": null,
             "OperatorFirstName": null,
             "OperatorLastName": null,
             "UserId": "731",
-            "QueryType": "Test category"
+            "QueryType": "Emergency issue"
         }
     ]
 }
