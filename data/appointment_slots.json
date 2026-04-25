@@ -24861,7 +24861,7 @@
             "OpeningTimePeriodDays": 20,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "1341",
             "Operator": "Bodian, Alex",
             "OperatorNotes": null,
