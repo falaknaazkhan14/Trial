@@ -19551,7 +19551,7 @@
             "OpeningTimePeriodDays": 20,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "2307",
             "Operator": "permission, NoCasebook",
             "OperatorNotes": null,
