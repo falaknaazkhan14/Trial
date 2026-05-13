@@ -184,6 +184,19 @@
             "OperatorLastName": "Bodian",
             "UserId": "731",
             "QueryType": "Disability - Appointment Request"
+        },
+        {
+            "Id": 1220,
+            "Subject": "Testing query",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-05-13T09:15:24",
+            "CreatedOn": "2026-05-13T09:15:24",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "979",
+            "QueryType": "General Query"
         }
     ]
 }
