@@ -3930,7 +3930,7 @@
             "ActualOpeningTime": null,
             "ActualClosingTime": null,
             "OperatorUserId": "gtiadmin",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "BookingCreatedDate": "2026-05-11T13:38:37",
             "BookingModifiedDate": "2026-05-11T13:38:37",
             "Actions": null,

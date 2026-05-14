@@ -52,4 +52,4 @@ AppointmentSlotId,AppointmentBookingId,UserId,SessionType,SessionCategory,Select
 93704,10580,1009,Careers Advice,General Guidance ,PHYSICAL,2026-05-11T13:09:41,2026-05-11T14:00:00,2026-05-11T14:30:00,,,2307,Missed,2026-05-11T13:10:15,2026-05-11T13:10:15,,,jo_test,,,1680,0,00:00:35,20,24,,,,,,,,,,,,,,,,,"        
   
   ",,,,,,,,,,,Face to face,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Job search,,,,,,,,,,,,
-93644,10582,2233,Careers Advice,,VIRTUAL,2026-05-06T14:18:30,2026-05-13T09:15:00,2026-05-13T10:15:00,,,gtiadmin,Booked,2026-05-11T13:38:37,2026-05-11T13:38:37,,,Student Services Building 1,,,0,1,00:00:00,30,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application help,,,,,,,,,,,,
+93644,10582,2233,Careers Advice,,VIRTUAL,2026-05-06T14:18:30,2026-05-13T09:15:00,2026-05-13T10:15:00,,,gtiadmin,Missed,2026-05-11T13:38:37,2026-05-11T13:38:37,,,Student Services Building 1,,,0,1,00:00:00,30,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application help,,,,,,,,,,,,
