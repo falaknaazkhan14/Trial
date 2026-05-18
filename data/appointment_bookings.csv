@@ -56,3 +56,6 @@ AppointmentSlotId,AppointmentBookingId,UserId,SessionType,SessionCategory,Select
 93692,10584,testStudent1457,JW 1/2 day bookings (Counsellor A),,PHYSICAL,2026-05-11T11:27:56,2026-05-15T09:00:00,2026-05-15T09:10:00,2026-05-15T12:23:19,2026-05-15T12:23:24,1529,Attended,2026-05-15T12:23:09,2026-05-15T12:23:09,,,Child location 2 Aberconwy House,,,0,0,00:00:00,1,24,,,,,,,,"        
   
   ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Utility Bill,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93712,10586,1538,Careers Advice,General Guidance ,PHYSICAL,2026-05-18T09:30:23,2026-05-19T09:30:00,2026-05-19T10:00:00,2026-05-18T13:47:36,2026-05-18T13:47:48,2309,Attended,2026-05-18T13:47:14,2026-05-18T13:47:14,,,Meeting Room 1,,,1680,0,00:00:35,20,24,,,,,,,,,False,,,,,,,,"        
+  
+  ",,,,,,,,,,,Telephone,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CV review,,,,,,,,,,,,
