@@ -1,15 +1,6 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
-1014,My query with support,PENDING,False,2026-04-17T13:43:59,2025-06-03T10:56:00,gtiadmin,gtiadmin,admin,731,Query team
-1014,Re: My query with support,PENDING,False,2026-04-17T13:43:59,2025-06-03T10:56:00,gtiadmin,gtiadmin,admin,731,Query team
-1142,I need help on....,CLOSED,False,2026-04-28T12:45:32,2026-02-12T14:35:30,240,Ben ,Titford,testStudent2008,General Query
 1156,Re: This is a test query and only visible to Administrators,CLOSED,False,2026-05-08T06:25:08,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1204,asdfghjk,PENDING,False,2026-04-13T13:41:45,2026-04-01T10:32:01,1341,Alex,Bodian,testStudent1457,Event Query
 1206,This is for CV advisers,CLOSED,False,2026-05-08T06:17:08,2026-04-02T02:16:00,gtiadmin,gtiadmin,admin,testStudent2010,queries for CV advisers
-1206,This is for CV advisers,CLOSED,False,2026-05-08T06:17:08,2026-04-02T02:16:00,gtiadmin,gtiadmin,admin,testStudent2010,queries for CV advisers
-1208,Assign this to CV Adviser2,CLOSED,False,2026-05-08T06:21:34,2026-04-08T00:29:06,2284,CV,Adviser2,testStudent2010,Question!
-1210,I have a query about disability support,PENDING,False,2026-04-23T11:16:13,2026-04-17T14:04:40,,,,731,Emergency issue
-1212,test,PENDING,False,2026-05-05T13:59:46,2026-04-28T11:00:53,2033,Beth,Emery,731,Disability - Learning Support
-1214,a,PENDING,False,2026-04-29T10:04:09,2026-04-29T10:04:09,,,,2194,"CV, application, online profile"
 1216,WIll this display under Questions panel?,PENDING,False,2026-05-04T07:14:31,2026-05-04T07:14:31,,,,testStudent2010,Question!
 1218,test,PENDING,False,2026-05-06T10:45:19,2026-05-06T10:43:59,1341,Alex,Bodian,731,Disability - Appointment Request
 1220,Testing query,PENDING,False,2026-05-13T09:15:24,2026-05-13T09:15:24,,,,979,General Query

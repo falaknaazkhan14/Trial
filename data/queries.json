@@ -17,45 +17,6 @@
     },
     "data": [
         {
-            "Id": 1014,
-            "Subject": "My query with support",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-04-17T13:43:59",
-            "CreatedOn": "2025-06-03T10:56:00",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "731",
-            "QueryType": "Query team"
-        },
-        {
-            "Id": 1014,
-            "Subject": "Re: My query with support",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-04-17T13:43:59",
-            "CreatedOn": "2025-06-03T10:56:00",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "731",
-            "QueryType": "Query team"
-        },
-        {
-            "Id": 1142,
-            "Subject": "I need help on....",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-04-28T12:45:32",
-            "CreatedOn": "2026-02-12T14:35:30",
-            "OperatorUserId": "240",
-            "OperatorFirstName": "Ben ",
-            "OperatorLastName": "Titford",
-            "UserId": "testStudent2008",
-            "QueryType": "General Query"
-        },
-        {
             "Id": 1156,
             "Subject": "Re: This is a test query and only visible to Administrators",
             "Status": "CLOSED",
@@ -69,19 +30,6 @@
             "QueryType": "Question!"
         },
         {
-            "Id": 1204,
-            "Subject": "asdfghjk",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-04-13T13:41:45",
-            "CreatedOn": "2026-04-01T10:32:01",
-            "OperatorUserId": "1341",
-            "OperatorFirstName": "Alex",
-            "OperatorLastName": "Bodian",
-            "UserId": "testStudent1457",
-            "QueryType": "Event Query"
-        },
-        {
             "Id": 1206,
             "Subject": "This is for CV advisers",
             "Status": "CLOSED",
@@ -93,71 +41,6 @@
             "OperatorLastName": "admin",
             "UserId": "testStudent2010",
             "QueryType": "queries for CV advisers"
-        },
-        {
-            "Id": 1206,
-            "Subject": "This is for CV advisers",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-08T06:17:08",
-            "CreatedOn": "2026-04-02T02:16:00",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "testStudent2010",
-            "QueryType": "queries for CV advisers"
-        },
-        {
-            "Id": 1208,
-            "Subject": "Assign this to CV Adviser2",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-08T06:21:34",
-            "CreatedOn": "2026-04-08T00:29:06",
-            "OperatorUserId": "2284",
-            "OperatorFirstName": "CV",
-            "OperatorLastName": "Adviser2",
-            "UserId": "testStudent2010",
-            "QueryType": "Question!"
-        },
-        {
-            "Id": 1210,
-            "Subject": "I have a query about disability support",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-04-23T11:16:13",
-            "CreatedOn": "2026-04-17T14:04:40",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "731",
-            "QueryType": "Emergency issue"
-        },
-        {
-            "Id": 1212,
-            "Subject": "test",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-05T13:59:46",
-            "CreatedOn": "2026-04-28T11:00:53",
-            "OperatorUserId": "2033",
-            "OperatorFirstName": "Beth",
-            "OperatorLastName": "Emery",
-            "UserId": "731",
-            "QueryType": "Disability - Learning Support"
-        },
-        {
-            "Id": 1214,
-            "Subject": "a",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-04-29T10:04:09",
-            "CreatedOn": "2026-04-29T10:04:09",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "2194",
-            "QueryType": "CV, application, online profile"
         },
         {
             "Id": 1216,
