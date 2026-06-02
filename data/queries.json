@@ -17,6 +17,19 @@
     },
     "data": [
         {
+            "Id": 1014,
+            "Subject": "Re: My query with support",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-02T14:14:24",
+            "CreatedOn": "2025-06-03T10:56:00",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "731",
+            "QueryType": "Query team"
+        },
+        {
             "Id": 1156,
             "Subject": "Re: This is a test query and only visible to Administrators",
             "Status": "CLOSED",
@@ -41,6 +54,19 @@
             "OperatorLastName": "admin",
             "UserId": "testStudent2010",
             "QueryType": "queries for CV advisers"
+        },
+        {
+            "Id": 1214,
+            "Subject": "a",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-02T14:16:22",
+            "CreatedOn": "2026-04-29T10:04:09",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2194",
+            "QueryType": "CV, application, online profile"
         },
         {
             "Id": 1216,
@@ -86,26 +112,26 @@
             "Subject": "etstest",
             "Status": "PENDING",
             "InProgress": false,
-            "LastModifiedOn": "2026-05-21T09:34:16",
+            "LastModifiedOn": "2026-06-02T13:54:43",
             "CreatedOn": "2026-05-21T09:32:21",
-            "OperatorUserId": "2294",
-            "OperatorFirstName": "appointmentestop701008",
-            "OperatorLastName": "appointmentestop701008",
+            "OperatorUserId": "272",
+            "OperatorFirstName": "David",
+            "OperatorLastName": "Johnson",
             "UserId": "2312",
-            "QueryType": "Concern for a colleague"
+            "QueryType": "Financial Hardship - Grants"
         },
         {
             "Id": 1222,
             "Subject": "etstest",
             "Status": "PENDING",
             "InProgress": false,
-            "LastModifiedOn": "2026-05-21T09:34:16",
+            "LastModifiedOn": "2026-06-02T13:54:43",
             "CreatedOn": "2026-05-21T09:32:21",
-            "OperatorUserId": "2294",
-            "OperatorFirstName": "appointmentestop701008",
-            "OperatorLastName": "appointmentestop701008",
+            "OperatorUserId": "272",
+            "OperatorFirstName": "David",
+            "OperatorLastName": "Johnson",
             "UserId": "2312",
-            "QueryType": "Concern for a colleague"
+            "QueryType": "Financial Hardship - Grants"
         }
     ]
 }
