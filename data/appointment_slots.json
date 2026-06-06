@@ -14871,7 +14871,7 @@
             "OpeningTimePeriodDays": 20,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "gtiadmin",
             "Operator": "admin, gtiadmin",
             "OperatorNotes": null,
