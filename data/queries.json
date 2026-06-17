@@ -134,6 +134,45 @@
             "QueryType": "Question!"
         },
         {
+            "Id": 1202,
+            "Subject": null,
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-17T09:30:52",
+            "CreatedOn": "2026-03-31T10:53:46",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1019",
+            "QueryType": "Disability - Appointment Request"
+        },
+        {
+            "Id": 1202,
+            "Subject": "Change of Message category",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-17T09:30:52",
+            "CreatedOn": "2026-03-31T10:53:46",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1019",
+            "QueryType": "Disability - Appointment Request"
+        },
+        {
+            "Id": 1202,
+            "Subject": "test",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-17T09:30:52",
+            "CreatedOn": "2026-03-31T10:53:46",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1019",
+            "QueryType": "Disability - Appointment Request"
+        },
+        {
             "Id": 1206,
             "Subject": "This is for CV advisers",
             "Status": "CLOSED",
