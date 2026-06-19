@@ -123,7 +123,7 @@ Yes it is!",,,"<p data-pm-slice=""1 1 []"">Is this the ""Finance"" case that doe
 93768,,,"{""methods"": [""MS_TEAMS"", ""PHYSICAL"", ""TELEPHONE""]}",Guidance Room 3,University Demo,Careers Advice,,2026-05-29T09:56:51,2026-05-29T16:45:00,2026-05-29T17:15:00,0,1,00:00:00,30,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93770,,,"{""methods"": [""MS_TEAMS"", ""PHYSICAL"", ""TELEPHONE""]}",Guidance Room 3,University Demo,Careers Advice,,2026-05-29T09:56:51,2026-05-29T17:15:00,2026-05-29T17:45:00,0,1,00:00:00,30,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93776,testStudent2008,Careers skills,"{""methods"": [""MS_TEAMS"", ""PHYSICAL""]}",Aberconwy House,Demo system,CV and/or cover letter check,Careers Advice|CV and/or cover letter check,2026-06-01T15:34:23,2026-06-03T09:45:00,2026-06-03T09:55:00,0,1,08:00:00,60,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93778,testStudent2010,,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 3,TC Support team,is scheduled - No,,2026-06-02T05:41:02,2026-06-03T08:45:00,2026-06-03T09:30:00,0,0,00:00:00,1,create,Cancelled,Available,2262,"For Jo, Query test",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93778,testStudent2001,,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 3,TC Support team,is scheduled - No,,2026-06-02T05:41:02,2026-06-03T10:45:00,2026-06-03T11:30:00,0,0,00:00:00,1,allocated,Booked,Missed,2262,"For Jo, Query test",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93780,testStudent2010,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,is scheduled - No,,2026-06-02T06:48:04,2026-06-03T08:15:00,2026-06-03T08:45:00,0,0,00:00:00,1,create,Cancelled,Available,2262,"For Jo, Query test",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93800,,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-08T10:30:00,2026-06-08T11:00:00,480,1,00:00:00,5,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93802,,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-08T11:15:00,2026-06-08T11:45:00,480,1,00:00:00,5,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -193,9 +193,9 @@ Yes it is!",,,"<p data-pm-slice=""1 1 []"">Is this the ""Finance"" case that doe
 93964,1945,,"{""methods"": [""TELEPHONE""]}",,Demo system,CV Advice - Referral Test,,2026-06-12T11:22:10,2026-06-15T09:45:00,2026-06-15T10:00:00,0,0,00:00:00,1,allocated,Booked,Missed,240,"Titford, Ben ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93966,,General Guidance ,"{""methods"": [""TELEPHONE""]}",,Demo system,Careers Advice,,2026-06-12T11:26:08,2026-06-16T10:15:00,2026-06-16T10:45:00,1680,0,00:00:35,20,create,Not Booked,Available,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93968,,,"{""methods"": [""TELEPHONE""]}",,Demo system,CV Advice - Referral Test,,2026-06-12T11:32:16,2026-06-16T11:45:00,2026-06-16T12:00:00,0,0,00:00:00,1,create,Not Booked,Available,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93970,1945,Careers Guidance,"{""methods"": [""TELEPHONE""]}",,Demo system,Careers Guidance - Virtual meeting,,2026-06-12T11:42:00,2026-06-18T11:00:00,2026-06-18T11:30:00,0,0,00:00:00,1,allocated,Booked,Booked,1240,"appTest, appTest",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93972,1974,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Meeting Room 1,Demo system,Careers Guidance - Virtual meeting,,2026-06-12T11:44:40,2026-06-18T11:45:00,2026-06-18T12:15:00,0,0,00:00:00,1,allocated,Booked,Booked,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93974,2218,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Apostrophe's Central's,Demo system,Careers Guidance - Virtual meeting,,2026-06-12T11:46:13,2026-06-18T13:00:00,2026-06-18T13:30:00,0,0,00:00:00,1,allocated,Booked,Booked,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93970,1945,Careers Guidance,"{""methods"": [""TELEPHONE""]}",,Demo system,Careers Guidance - Virtual meeting,,2026-06-12T11:42:00,2026-06-18T11:00:00,2026-06-18T11:30:00,0,0,00:00:00,1,allocated,Booked,Missed,1240,"appTest, appTest",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93972,1974,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Meeting Room 1,Demo system,Careers Guidance - Virtual meeting,,2026-06-12T11:44:40,2026-06-18T11:45:00,2026-06-18T12:15:00,0,0,00:00:00,1,allocated,Booked,Missed,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93974,2218,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Apostrophe's Central's,Demo system,Careers Guidance - Virtual meeting,,2026-06-12T11:46:13,2026-06-18T13:00:00,2026-06-18T13:30:00,0,0,00:00:00,1,allocated,Booked,Missed,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93976,,Careers Guidance,"{""methods"": [""TELEPHONE""]}",,Demo system,Careers Guidance - Virtual meeting,,2026-06-12T11:48:30,2026-06-17T10:45:00,2026-06-17T11:15:00,0,0,00:00:00,1,create,Not Booked,Available,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93978,,General Guidance ,"{""methods"": [""EMAIL""]}",,Demo system,Careers Advice,,2026-06-12T11:48:42,2026-06-17T12:15:00,2026-06-17T12:45:00,1680,0,00:00:35,20,create,Not Booked,Available,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93980,testStudent1457,,"{""methods"": [""EMAIL""]}",,Demo system,CV Advice - Referral Test,,2026-06-12T11:48:51,2026-06-17T13:00:00,2026-06-17T13:15:00,0,0,00:00:00,1,create,Cancelled,Available,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -204,3 +204,29 @@ Yes it is!",,,"<p data-pm-slice=""1 1 []"">Is this the ""Finance"" case that doe
 93986,testStudent1457,General Guidance ,"{""methods"": [""EMAIL""]}",,Demo system,Careers Advice,,2026-06-12T13:36:45,2026-06-12T09:00:00,2026-06-12T09:30:00,1680,0,00:00:35,20,create,Cancelled,Available,240,"Titford, Ben ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93988,2010,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,Careers Guidance - In Person,,2026-06-15T07:38:26,2026-06-15T10:00:00,2026-06-15T10:30:00,0,1,08:30:10,22,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93990,1354,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Aber test,Demo system,Careers Guidance - In Person,,2026-06-15T15:56:48,2026-06-16T09:30:00,2026-06-16T10:00:00,0,1,08:30:10,22,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94002,testStudent2001,,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 3,TC Support team,designated advisors Appointment 1,designated advisors Appointment 1|designated advisors appointment 2,2026-06-19T11:58:56,2026-06-16T08:40:00,2026-06-16T09:00:00,0,0,00:00:00,1,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94004,1538,,"{""methods"": [""TELEPHONE""]}",,Demo system,All custom field test,,2026-06-19T15:47:06,2026-06-23T10:15:00,2026-06-23T10:45:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin","This is an ""All Custom Field Test"" test",,,,,,,,,,,,,,,,,,,,,,,,,,"            
+  
+  
+  ",,,,,"            
+  
+  
+  ","        
+  
+  ",,,,,,,"            
+  
+  
+  ","            
+  
+  
+  ",,,"        
+  
+  ","            
+  
+  
+  ",,,,,,,,,,,,,,,,,,,,"            
+  
+  
+  ",,,,"        
+  
+  "
