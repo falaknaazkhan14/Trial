@@ -135,7 +135,7 @@
         },
         {
             "Id": 1202,
-            "Subject": null,
+            "Subject": "Change of Message category",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-17T09:30:52",
@@ -161,7 +161,7 @@
         },
         {
             "Id": 1202,
-            "Subject": "Change of Message category",
+            "Subject": null,
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-17T09:30:52",
@@ -239,7 +239,7 @@
         },
         {
             "Id": 1222,
-            "Subject": "etstest",
+            "Subject": null,
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-06-11T15:08:56",
@@ -252,7 +252,7 @@
         },
         {
             "Id": 1222,
-            "Subject": null,
+            "Subject": "etstest",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-06-11T15:08:56",
@@ -470,6 +470,19 @@
             "OperatorLastName": "Williams",
             "UserId": "1561",
             "QueryType": "Events"
+        },
+        {
+            "Id": 1244,
+            "Subject": "test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-22T15:38:24",
+            "CreatedOn": "2026-06-22T15:38:24",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1864",
+            "QueryType": "CV, application, online profile"
         }
     ]
 }
