@@ -125,8 +125,8 @@ Yes it is!",,,"<p data-pm-slice=""1 1 []"">Is this the ""Finance"" case that doe
 93776,testStudent2008,Careers skills,"{""methods"": [""MS_TEAMS"", ""PHYSICAL""]}",Aberconwy House,Demo system,CV and/or cover letter check,Careers Advice|CV and/or cover letter check,2026-06-01T15:34:23,2026-06-03T09:45:00,2026-06-03T09:55:00,0,1,08:00:00,60,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93778,testStudent2001,,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 3,TC Support team,is scheduled - No,,2026-06-02T05:41:02,2026-06-03T10:45:00,2026-06-03T11:30:00,0,0,00:00:00,1,allocated,Booked,Missed,2262,"For Jo, Query test",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93780,testStudent2010,,"{""methods"": [""PHYSICAL""]}",Guidance Room 3,TC Support team,is scheduled - No,,2026-06-02T06:48:04,2026-06-03T08:15:00,2026-06-03T08:45:00,0,0,00:00:00,1,create,Cancelled,Available,2262,"For Jo, Query test",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93800,,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-08T10:30:00,2026-06-08T11:00:00,480,1,00:00:00,5,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-93802,,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-08T11:15:00,2026-06-08T11:45:00,480,1,00:00:00,5,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93800,980,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-08T10:30:00,2026-06-08T11:00:00,480,1,00:00:00,5,arrived,Booked,Arrived,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93802,731,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-08T11:15:00,2026-06-08T11:45:00,480,1,00:00:00,5,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93804,,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-08T12:00:00,2026-06-08T12:30:00,480,1,00:00:00,5,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93806,,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-09T10:30:00,2026-06-09T11:00:00,480,1,00:00:00,5,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93808,,General Guidance ,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 8,Student Support Service,First Appointment,,2026-06-04T11:25:39,2026-06-09T11:15:00,2026-06-09T11:45:00,480,1,00:00:00,5,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -205,33 +205,31 @@ Yes it is!",,,"<p data-pm-slice=""1 1 []"">Is this the ""Finance"" case that doe
 93988,2010,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,Careers Guidance - In Person,,2026-06-15T07:38:26,2026-06-15T10:00:00,2026-06-15T10:30:00,0,1,08:30:10,22,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 93990,1354,Careers Guidance,"{""methods"": [""PHYSICAL""]}",Aber test,Demo system,Careers Guidance - In Person,,2026-06-15T15:56:48,2026-06-16T09:30:00,2026-06-16T10:00:00,0,1,08:30:10,22,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 94002,testStudent2001,,"{""methods"": [""PHYSICAL"", ""VIRTUAL""]}",Guidance Room 3,TC Support team,designated advisors Appointment 1,designated advisors Appointment 1|designated advisors appointment 2,2026-06-19T11:58:56,2026-06-16T08:40:00,2026-06-16T09:00:00,0,0,00:00:00,1,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-94004,1538,,"{""methods"": [""TELEPHONE""]}",,Demo system,All custom field test,,2026-06-19T15:47:06,2026-06-23T10:15:00,2026-06-23T10:45:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin","This is an ""All Custom Field Test"" test",,,,,,,,,,,,,,,,,,,,,,,,,,"            
+94004,1538,,"{""methods"": [""TELEPHONE""]}",,Demo system,All custom field test,,2026-06-19T15:47:06,2026-06-23T10:15:00,2026-06-23T10:45:00,0,0,00:00:00,1,allocated,Booked,Booked,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,"        
   
-  
-  ",,,,,"            
-  
+  ",,,,,"        
   
   ","        
   
-  ",,,,,,,"            
+  ",,,,,,,"        
   
-  
-  ","            
-  
+  ","        
   
   ",,,"        
   
-  ","            
+  ","        
   
-  
-  ",,,,,,,,,,,,,,,,,,,,"            
-  
+  ",,,,,,,,,,,,,,,,,,,,"        
   
   ",,,,"        
   
   "
 94006,2197,,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,Appointment test translations English,,2026-06-20T15:14:56,2026-06-17T10:45:00,2026-06-17T11:15:00,0,0,00:00:00,1,allocated,Booked,Missed,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 94008,2197,,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,Appointment test translations English,,2026-06-20T15:16:16,2026-06-22T09:30:00,2026-06-22T10:00:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",zxd gesdbtrurtujtyj7tryjtryjtyuyhjnytughmtyujhb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-94010,1974,General Guidance ,"{""methods"": [""MS_TEAMS"", ""PHYSICAL"", ""TELEPHONE""]}",Guidance Room 3,Demo system,Careers Advice,,2026-06-22T13:54:42,2026-06-23T10:30:00,2026-06-23T11:00:00,1680,0,00:00:35,20,allocated,Booked,Booked,2328,"Amaro app, Beatriz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-94012,1974,Employability Award,"{""methods"": [""MS_TEAMS"", ""PHYSICAL""]}",Guidance Room 3,Demo system,Interview,,2026-06-22T14:01:06,2026-06-24T10:45:00,2026-06-24T11:00:00,0,0,08:50:31,0,allocated,Booked,Booked,2328,"Amaro app, Beatriz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94010,1974,General Guidance ,"{""methods"": [""MS_TEAMS"", ""PHYSICAL"", ""TELEPHONE""]}",Guidance Room 3,Demo system,Careers Advice,,2026-06-22T13:54:42,2026-06-23T10:30:00,2026-06-23T11:00:00,1680,0,00:00:35,20,finished,Booked,Attended,2328,"Amaro app, Beatriz",Job search supportStudent has been applying for graduate roles for three months without success. We reviewed their approach — applications were broad and CV wasn't being tailored. Agreed a more focused strategy targeting 5–8 roles in the sustainability sector. Discussed how to use LinkedIn to identify contacts at target employers.,Self-driven work allocated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94012,1974,Employability Award,"{""methods"": [""MS_TEAMS"", ""PHYSICAL""]}",Guidance Room 3,Demo system,Interview,,2026-06-22T14:01:06,2026-06-24T10:45:00,2026-06-24T11:00:00,0,0,08:50:31,0,finished,Booked,Attended,2328,"Amaro app, Beatriz",Job search supportStudent has been applying for graduate roles for three months without success. We reviewed their approach — applications were broad and CV wasn't being tailored. Agreed a more focused strategy targeting 5–8 roles in the sustainability sector. Discussed how to use LinkedIn to identify contacts at target employers.CV reviewReviewed draft CV ahead of applications. Good experience overall but work history section was too descriptive — we reframed bullet points to lead with impact and action. Discussed tailoring the skills section per role. Student will send a revised version by end of week for a second look.,Referred,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 94014,,,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,General Meeting,,2026-06-22T15:35:27,2026-06-29T07:30:00,2026-06-29T08:00:00,0,0,10:00:00,1,create,Not Booked,Available,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94016,,General Guidance ,"{""methods"": [""PHYSICAL"", ""TELEPHONE""]}",Guidance Room 3,Demo system,Careers Advice,,2026-06-23T09:15:55,2026-06-24T10:30:00,2026-06-24T11:00:00,1680,0,00:00:35,20,create,Not Booked,Available,2008,"test, Bea appointment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94018,731,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-06-23T09:18:17,2026-06-22T10:00:00,2026-06-22T10:30:00,480,1,00:00:00,5,allocated,Booked,Booked,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94020,1384,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-06-23T09:21:28,2026-06-22T11:00:00,2026-06-22T11:30:00,480,1,00:00:00,5,allocated,Booked,Booked,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94022,testStudent1457,,"{""methods"": [""TELEPHONE"", ""EMAIL""]}",,Demo system,Flexible Appointment,Adviser Drop-In|Careers Advice|General Meeting,2026-06-23T10:38:16,2026-06-25T09:15:00,2026-06-25T09:45:00,0,0,00:00:00,1,create,Cancelled,Available,2328,"Amaro app, Beatriz",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

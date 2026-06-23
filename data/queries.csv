@@ -29,8 +29,9 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1234,Re: Bea ,PENDING,False,2026-06-11T18:49:17,2026-06-11T18:49:17,,,,1811,Events
 1236,Re:  3 day Web Seminar,PENDING,False,2026-06-11T18:50:36,2026-06-11T18:50:36,,,,1811,Events
 1238,Re: Test job - GTI Limited,CLOSED,False,2026-06-11T18:53:03,2026-06-11T18:51:36,gtiadmin,gtiadmin,admin,testStudent1457,Event Query
-1240,test query ,PENDING,False,2026-06-18T09:07:56,2026-06-18T09:07:56,,,,testStudent1864,"CV, application, online profile"
-1240,Added to casebook,PENDING,False,2026-06-18T09:07:56,2026-06-18T09:07:56,,,,testStudent1864,"CV, application, online profile"
+1240,test query ,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
+1240,Added to casebook,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
+1240,test query,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
 1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
 1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
 1242,Re: Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
