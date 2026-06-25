@@ -135,7 +135,7 @@
         },
         {
             "Id": 1202,
-            "Subject": "Change of Message category",
+            "Subject": "test",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-17T09:30:52",
@@ -148,7 +148,7 @@
         },
         {
             "Id": 1202,
-            "Subject": "test",
+            "Subject": "Change of Message category",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-17T09:30:52",
@@ -239,33 +239,33 @@
         },
         {
             "Id": 1222,
+            "Subject": "etstest",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-11T15:08:56",
+            "CreatedOn": "2026-05-21T09:32:21",
+            "OperatorUserId": "272",
+            "OperatorFirstName": "David",
+            "OperatorLastName": "Johnson",
+            "UserId": "2312",
+            "QueryType": "Financial Hardship - Grants"
+        },
+        {
+            "Id": 1222,
+            "Subject": "etstest",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-11T15:08:56",
+            "CreatedOn": "2026-05-21T09:32:21",
+            "OperatorUserId": "272",
+            "OperatorFirstName": "David",
+            "OperatorLastName": "Johnson",
+            "UserId": "2312",
+            "QueryType": "Financial Hardship - Grants"
+        },
+        {
+            "Id": 1222,
             "Subject": null,
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-11T15:08:56",
-            "CreatedOn": "2026-05-21T09:32:21",
-            "OperatorUserId": "272",
-            "OperatorFirstName": "David",
-            "OperatorLastName": "Johnson",
-            "UserId": "2312",
-            "QueryType": "Financial Hardship - Grants"
-        },
-        {
-            "Id": 1222,
-            "Subject": "etstest",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-11T15:08:56",
-            "CreatedOn": "2026-05-21T09:32:21",
-            "OperatorUserId": "272",
-            "OperatorFirstName": "David",
-            "OperatorLastName": "Johnson",
-            "UserId": "2312",
-            "QueryType": "Financial Hardship - Grants"
-        },
-        {
-            "Id": 1222,
-            "Subject": "etstest",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-06-11T15:08:56",
@@ -304,7 +304,7 @@
         },
         {
             "Id": 1226,
-            "Subject": "Re: Bea to check responses",
+            "Subject": null,
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-11T17:28:27",
@@ -317,7 +317,7 @@
         },
         {
             "Id": 1226,
-            "Subject": null,
+            "Subject": "Re: Bea to check responses",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-11T17:28:27",
@@ -421,7 +421,7 @@
         },
         {
             "Id": 1240,
-            "Subject": "Added to casebook",
+            "Subject": "test query",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-23T12:59:56",
@@ -434,7 +434,7 @@
         },
         {
             "Id": 1240,
-            "Subject": "test query",
+            "Subject": "Added to casebook",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-23T12:59:56",
@@ -495,6 +495,45 @@
             "OperatorFirstName": null,
             "OperatorLastName": null,
             "UserId": "testStudent1864",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1246,
+            "Subject": "Toggle HTML Source test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-24T05:34:45",
+            "CreatedOn": "2026-06-24T05:34:45",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent2010",
+            "QueryType": "Question!"
+        },
+        {
+            "Id": 1248,
+            "Subject": "Re: June careers fair",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-24T16:20:31",
+            "CreatedOn": "2026-06-24T16:19:57",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1173",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1248,
+            "Subject": "Re: June careers fair",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-24T16:20:31",
+            "CreatedOn": "2026-06-24T16:19:57",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "1173",
             "QueryType": "CV, application, online profile"
         }
     ]

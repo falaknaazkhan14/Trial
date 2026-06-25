@@ -8,21 +8,21 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1124,Added to casebook,RESPONDED,False,2026-06-16T15:12:05,2026-01-29T15:23:38,gtiadmin,gtiadmin,admin,1384,Timetable issue
 1124,I have a clash,RESPONDED,False,2026-06-16T15:12:05,2026-01-29T15:23:38,gtiadmin,gtiadmin,admin,1384,Timetable issue
 1156,Re: This is a test query and only visible to Administrators,CLOSED,False,2026-05-08T06:25:08,2026-02-24T01:37:32,2262,Query test,For Jo,testStudent2010,Question!
-1202,Change of Message category,RESPONDED,False,2026-06-17T09:30:52,2026-03-31T10:53:46,gtiadmin,gtiadmin,admin,1019,Disability - Appointment Request
 1202,test,RESPONDED,False,2026-06-17T09:30:52,2026-03-31T10:53:46,gtiadmin,gtiadmin,admin,1019,Disability - Appointment Request
+1202,Change of Message category,RESPONDED,False,2026-06-17T09:30:52,2026-03-31T10:53:46,gtiadmin,gtiadmin,admin,1019,Disability - Appointment Request
 1202,,RESPONDED,False,2026-06-17T09:30:52,2026-03-31T10:53:46,gtiadmin,gtiadmin,admin,1019,Disability - Appointment Request
 1206,This is for CV advisers,CLOSED,False,2026-05-08T06:17:08,2026-04-02T02:16:00,gtiadmin,gtiadmin,admin,testStudent2010,queries for CV advisers
 1214,a,PENDING,True,2026-06-10T11:52:06,2026-04-29T10:04:09,1529,Joseph,Williams,2194,"CV, application, online profile"
 1216,WIll this display under Questions panel?,PENDING,False,2026-05-04T07:14:31,2026-05-04T07:14:31,,,,testStudent2010,Question!
 1218,test,PENDING,False,2026-05-06T10:45:19,2026-05-06T10:43:59,1341,Alex,Bodian,731,Disability - Appointment Request
 1220,Testing query,PENDING,False,2026-05-13T09:15:24,2026-05-13T09:15:24,,,,979,General Query
+1222,etstest,PENDING,False,2026-06-11T15:08:56,2026-05-21T09:32:21,272,David,Johnson,2312,Financial Hardship - Grants
+1222,etstest,PENDING,False,2026-06-11T15:08:56,2026-05-21T09:32:21,272,David,Johnson,2312,Financial Hardship - Grants
 1222,,PENDING,False,2026-06-11T15:08:56,2026-05-21T09:32:21,272,David,Johnson,2312,Financial Hardship - Grants
-1222,etstest,PENDING,False,2026-06-11T15:08:56,2026-05-21T09:32:21,272,David,Johnson,2312,Financial Hardship - Grants
-1222,etstest,PENDING,False,2026-06-11T15:08:56,2026-05-21T09:32:21,272,David,Johnson,2312,Financial Hardship - Grants
 1224,Testing query email integration,PENDING,False,2026-06-11T10:45:26,2026-06-11T10:45:26,,,,2082,General Query
 1226,Re: Bea to check responses,RESPONDED,False,2026-06-11T17:28:27,2026-06-11T17:23:16,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
-1226,Re: Bea to check responses,RESPONDED,False,2026-06-11T17:28:27,2026-06-11T17:23:16,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1226,,RESPONDED,False,2026-06-11T17:28:27,2026-06-11T17:23:16,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
+1226,Re: Bea to check responses,RESPONDED,False,2026-06-11T17:28:27,2026-06-11T17:23:16,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1228,Re:  3 day Web Seminar,PENDING,False,2026-06-11T17:43:41,2026-06-11T17:43:41,,,,865,Event Query
 1230,Hello,PENDING,False,2026-06-11T18:38:36,2026-06-11T18:38:36,,,,1022,"CV, application, online profile"
 1232,vb,PENDING,False,2026-06-11T18:42:13,2026-06-11T18:42:13,,,,1920,Events
@@ -30,9 +30,12 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1236,Re:  3 day Web Seminar,PENDING,False,2026-06-11T18:50:36,2026-06-11T18:50:36,,,,1811,Events
 1238,Re: Test job - GTI Limited,CLOSED,False,2026-06-11T18:53:03,2026-06-11T18:51:36,gtiadmin,gtiadmin,admin,testStudent1457,Event Query
 1240,test query ,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
-1240,Added to casebook,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
 1240,test query,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
+1240,Added to casebook,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
 1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
 1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
 1242,Re: Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
 1244,test,PENDING,False,2026-06-22T15:38:24,2026-06-22T15:38:24,,,,testStudent1864,"CV, application, online profile"
+1246,Toggle HTML Source test,PENDING,False,2026-06-24T05:34:45,2026-06-24T05:34:45,,,,testStudent2010,Question!
+1248,Re: June careers fair,RESPONDED,False,2026-06-24T16:20:31,2026-06-24T16:19:57,gtiadmin,gtiadmin,admin,1173,"CV, application, online profile"
+1248,Re: June careers fair,RESPONDED,False,2026-06-24T16:20:31,2026-06-24T16:19:57,gtiadmin,gtiadmin,admin,1173,"CV, application, online profile"
