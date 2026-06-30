@@ -561,6 +561,19 @@
             "OperatorLastName": null,
             "UserId": "1022",
             "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1252,
+            "Subject": "rygety",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-30T10:02:06",
+            "CreatedOn": "2026-06-30T10:02:06",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1457",
+            "QueryType": "EC form request"
         }
     ]
 }
