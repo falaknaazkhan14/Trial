@@ -121,19 +121,6 @@
             "QueryType": "Timetable issue"
         },
         {
-            "Id": 1156,
-            "Subject": "Re: This is a test query and only visible to Administrators",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-08T06:25:08",
-            "CreatedOn": "2026-02-24T01:37:32",
-            "OperatorUserId": "2262",
-            "OperatorFirstName": "Query test",
-            "OperatorLastName": "For Jo",
-            "UserId": "testStudent2010",
-            "QueryType": "Question!"
-        },
-        {
             "Id": 1202,
             "Subject": "test",
             "Status": "RESPONDED",
@@ -186,19 +173,6 @@
             "QueryType": "Disability - Appointment Request"
         },
         {
-            "Id": 1206,
-            "Subject": "This is for CV advisers",
-            "Status": "CLOSED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-08T06:17:08",
-            "CreatedOn": "2026-04-02T02:16:00",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "testStudent2010",
-            "QueryType": "queries for CV advisers"
-        },
-        {
             "Id": 1214,
             "Subject": "a",
             "Status": "PENDING",
@@ -210,71 +184,6 @@
             "OperatorLastName": "Williams",
             "UserId": "2194",
             "QueryType": "CV, application, online profile"
-        },
-        {
-            "Id": 1216,
-            "Subject": "WIll this display under Questions panel?",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-04T07:14:31",
-            "CreatedOn": "2026-05-04T07:14:31",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "testStudent2010",
-            "QueryType": "Question!"
-        },
-        {
-            "Id": 1218,
-            "Subject": "test",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-06T10:45:19",
-            "CreatedOn": "2026-05-06T10:43:59",
-            "OperatorUserId": "1341",
-            "OperatorFirstName": "Alex",
-            "OperatorLastName": "Bodian",
-            "UserId": "731",
-            "QueryType": "Disability - Appointment Request"
-        },
-        {
-            "Id": 1220,
-            "Subject": "Testing query",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-05-13T09:15:24",
-            "CreatedOn": "2026-05-13T09:15:24",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "979",
-            "QueryType": "General Query"
-        },
-        {
-            "Id": 1222,
-            "Subject": "etstest",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-11T15:08:56",
-            "CreatedOn": "2026-05-21T09:32:21",
-            "OperatorUserId": "272",
-            "OperatorFirstName": "David",
-            "OperatorLastName": "Johnson",
-            "UserId": "2312",
-            "QueryType": "Financial Hardship - Grants"
-        },
-        {
-            "Id": 1222,
-            "Subject": "etstest",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-11T15:08:56",
-            "CreatedOn": "2026-05-21T09:32:21",
-            "OperatorUserId": "272",
-            "OperatorFirstName": "David",
-            "OperatorLastName": "Johnson",
-            "UserId": "2312",
-            "QueryType": "Financial Hardship - Grants"
         },
         {
             "Id": 1222,
@@ -317,7 +226,7 @@
         },
         {
             "Id": 1226,
-            "Subject": null,
+            "Subject": "Re: Bea to check responses",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-11T17:28:27",
@@ -330,7 +239,7 @@
         },
         {
             "Id": 1226,
-            "Subject": "Re: Bea to check responses",
+            "Subject": null,
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-11T17:28:27",
@@ -421,6 +330,19 @@
         },
         {
             "Id": 1240,
+            "Subject": "test query ",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-23T12:59:56",
+            "CreatedOn": "2026-06-18T09:07:56",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent1864",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1240,
             "Subject": "Added to casebook",
             "Status": "RESPONDED",
             "InProgress": false,
@@ -446,32 +368,6 @@
             "QueryType": "CV, application, online profile"
         },
         {
-            "Id": 1240,
-            "Subject": "test query ",
-            "Status": "RESPONDED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-23T12:59:56",
-            "CreatedOn": "2026-06-18T09:07:56",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "testStudent1864",
-            "QueryType": "CV, application, online profile"
-        },
-        {
-            "Id": 1242,
-            "Subject": "Query about employer event booking",
-            "Status": "RESPONDED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-19T12:31:09",
-            "CreatedOn": "2026-06-19T12:30:42",
-            "OperatorUserId": "1529",
-            "OperatorFirstName": "Joseph",
-            "OperatorLastName": "Williams",
-            "UserId": "1561",
-            "QueryType": "Events"
-        },
-        {
             "Id": 1242,
             "Subject": "Query about employer event booking",
             "Status": "RESPONDED",
@@ -487,6 +383,19 @@
         {
             "Id": 1242,
             "Subject": "Re: Query about employer event booking",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-19T12:31:09",
+            "CreatedOn": "2026-06-19T12:30:42",
+            "OperatorUserId": "1529",
+            "OperatorFirstName": "Joseph",
+            "OperatorLastName": "Williams",
+            "UserId": "1561",
+            "QueryType": "Events"
+        },
+        {
+            "Id": 1242,
+            "Subject": "Query about employer event booking",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-19T12:31:09",
