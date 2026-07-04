@@ -9576,7 +9576,7 @@
             "OpeningTimePeriodDays": 1,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "559",
             "Operator": "Ludgate, Mark",
             "OperatorNotes": null,
