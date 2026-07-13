@@ -26,9 +26,9 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1240,test query ,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
 1240,Added to casebook,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
 1240,test query,RESPONDED,False,2026-06-23T12:59:56,2026-06-18T09:07:56,gtiadmin,gtiadmin,admin,testStudent1864,"CV, application, online profile"
+1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
+1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
 1242,Re: Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
-1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
-1242,Query about employer event booking,RESPONDED,False,2026-06-19T12:31:09,2026-06-19T12:30:42,1529,Joseph,Williams,1561,Events
 1244,test,PENDING,False,2026-06-22T15:38:24,2026-06-22T15:38:24,,,,testStudent1864,"CV, application, online profile"
 1246,Toggle HTML Source test,PENDING,False,2026-06-24T05:34:45,2026-06-24T05:34:45,,,,testStudent2010,Question!
 1248,Re: June careers fair,RESPONDED,False,2026-07-10T15:18:10,2026-06-24T16:19:57,gtiadmin,gtiadmin,admin,1173,"CV, application, online profile"
@@ -37,3 +37,6 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1250,query alt test,PENDING,False,2026-06-29T17:03:30,2026-06-29T17:03:30,,,,1022,"CV, application, online profile"
 1252,rygety,RESPONDED,False,2026-07-10T15:05:40,2026-06-30T10:02:06,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1252,rygety,RESPONDED,False,2026-07-10T15:05:40,2026-06-30T10:02:06,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
+1254,test,PENDING,False,2026-07-13T15:48:37,2026-07-13T09:55:04,240,Ben ,Titford,1954,CV Help
+1254,Added to casebook,PENDING,False,2026-07-13T15:48:37,2026-07-13T09:55:04,240,Ben ,Titford,1954,CV Help
+1256,Deatils here,PENDING,False,2026-07-13T15:56:40,2026-07-13T15:56:40,,,,1954,General Query

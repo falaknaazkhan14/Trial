@@ -369,33 +369,33 @@
         },
         {
             "Id": 1242,
+            "Subject": "Query about employer event booking",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-19T12:31:09",
+            "CreatedOn": "2026-06-19T12:30:42",
+            "OperatorUserId": "1529",
+            "OperatorFirstName": "Joseph",
+            "OperatorLastName": "Williams",
+            "UserId": "1561",
+            "QueryType": "Events"
+        },
+        {
+            "Id": 1242,
+            "Subject": "Query about employer event booking",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-06-19T12:31:09",
+            "CreatedOn": "2026-06-19T12:30:42",
+            "OperatorUserId": "1529",
+            "OperatorFirstName": "Joseph",
+            "OperatorLastName": "Williams",
+            "UserId": "1561",
+            "QueryType": "Events"
+        },
+        {
+            "Id": 1242,
             "Subject": "Re: Query about employer event booking",
-            "Status": "RESPONDED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-19T12:31:09",
-            "CreatedOn": "2026-06-19T12:30:42",
-            "OperatorUserId": "1529",
-            "OperatorFirstName": "Joseph",
-            "OperatorLastName": "Williams",
-            "UserId": "1561",
-            "QueryType": "Events"
-        },
-        {
-            "Id": 1242,
-            "Subject": "Query about employer event booking",
-            "Status": "RESPONDED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-06-19T12:31:09",
-            "CreatedOn": "2026-06-19T12:30:42",
-            "OperatorUserId": "1529",
-            "OperatorFirstName": "Joseph",
-            "OperatorLastName": "Williams",
-            "UserId": "1561",
-            "QueryType": "Events"
-        },
-        {
-            "Id": 1242,
-            "Subject": "Query about employer event booking",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-06-19T12:31:09",
@@ -509,6 +509,45 @@
             "OperatorLastName": "admin",
             "UserId": "testStudent1457",
             "QueryType": "EC form request"
+        },
+        {
+            "Id": 1254,
+            "Subject": "test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-07-13T15:48:37",
+            "CreatedOn": "2026-07-13T09:55:04",
+            "OperatorUserId": "240",
+            "OperatorFirstName": "Ben ",
+            "OperatorLastName": "Titford",
+            "UserId": "1954",
+            "QueryType": "CV Help"
+        },
+        {
+            "Id": 1254,
+            "Subject": "Added to casebook",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-07-13T15:48:37",
+            "CreatedOn": "2026-07-13T09:55:04",
+            "OperatorUserId": "240",
+            "OperatorFirstName": "Ben ",
+            "OperatorLastName": "Titford",
+            "UserId": "1954",
+            "QueryType": "CV Help"
+        },
+        {
+            "Id": 1256,
+            "Subject": "Deatils here",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-07-13T15:56:40",
+            "CreatedOn": "2026-07-13T15:56:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1954",
+            "QueryType": "General Query"
         }
     ]
 }
