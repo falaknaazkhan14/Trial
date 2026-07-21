@@ -138,3 +138,4 @@ AppointmentSlotId,AppointmentBookingId,UserId,SessionType,SessionCategory,Select
 94154,10770,1384,Counselling - Initial Consultation,Wellbeing,VIRTUAL,2026-07-07T15:42:37,2026-07-17T12:25:00,2026-07-17T12:55:00,,,463,Missed,2026-07-16T15:34:16,2026-07-17T11:00:27,,,Student Services Building 1,,,480,0,00:00:00,1,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,False,,,,,"    
   ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"    
   ",,,,,,,,
+94340,10772,1538,Careers Advice,General Guidance ,PHYSICAL,2026-07-14T16:15:35,2026-07-27T10:00:00,2026-07-27T10:30:00,,,gtiadmin,Booked,2026-07-21T15:56:18,2026-07-21T15:56:18,,,Aberconwy House,,,1680,0,00:00:35,20,24,asdf,,,,,,,,False,,,,,,,,<p>asdf</p>,,,false,,,,,,,,,Face to face,,,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Application help,,,,,,,,,,,,

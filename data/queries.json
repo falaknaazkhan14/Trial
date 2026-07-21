@@ -561,6 +561,19 @@
             "OperatorLastName": null,
             "UserId": "1954",
             "QueryType": "General Query"
+        },
+        {
+            "Id": 1258,
+            "Subject": "fdyhujyul",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-07-21T11:43:25",
+            "CreatedOn": "2026-07-21T11:43:25",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1936",
+            "QueryType": "Financial Hardship - Grants"
         }
     ]
 }
