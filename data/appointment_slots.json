@@ -27958,7 +27958,7 @@
             "OpeningTimePeriodDays": 1,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "1549",
             "Operator": "Densing, Jo",
             "OperatorNotes": null,
