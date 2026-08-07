@@ -18,7 +18,7 @@
     "data": [
         {
             "Id": 1192,
-            "Subject": "Message access updated",
+            "Subject": "Paul will see this",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-07-29T09:14:54",
@@ -31,7 +31,7 @@
         },
         {
             "Id": 1192,
-            "Subject": "Paul will see this",
+            "Subject": "Message access updated",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-07-29T09:14:54",
@@ -122,19 +122,6 @@
         },
         {
             "Id": 1258,
-            "Subject": "fdyhujyul",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-07-29T13:22:37",
-            "CreatedOn": "2026-07-21T11:43:25",
-            "OperatorUserId": "240",
-            "OperatorFirstName": "Ben ",
-            "OperatorLastName": "Titford",
-            "UserId": "1936",
-            "QueryType": "Financial Hardship - Grants"
-        },
-        {
-            "Id": 1258,
             "Subject": null,
             "Status": "PENDING",
             "InProgress": false,
@@ -149,6 +136,19 @@
         {
             "Id": 1258,
             "Subject": "Added to casebook",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-07-29T13:22:37",
+            "CreatedOn": "2026-07-21T11:43:25",
+            "OperatorUserId": "240",
+            "OperatorFirstName": "Ben ",
+            "OperatorLastName": "Titford",
+            "UserId": "1936",
+            "QueryType": "Financial Hardship - Grants"
+        },
+        {
+            "Id": 1258,
+            "Subject": "fdyhujyul",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-07-29T13:22:37",
@@ -201,15 +201,54 @@
         {
             "Id": 1261,
             "Subject": "sd raised",
-            "Status": "PENDING",
+            "Status": "RESPONDED",
             "InProgress": false,
-            "LastModifiedOn": "2026-07-28T12:43:49",
+            "LastModifiedOn": "2026-08-06T15:10:41",
             "CreatedOn": "2026-07-28T12:43:49",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
             "UserId": "testStudent2008",
-            "QueryType": "EC form request"
+            "QueryType": "Event Query"
+        },
+        {
+            "Id": 1261,
+            "Subject": "sd raised",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-08-06T15:10:41",
+            "CreatedOn": "2026-07-28T12:43:49",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2008",
+            "QueryType": "Event Query"
+        },
+        {
+            "Id": 1261,
+            "Subject": null,
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-08-06T15:10:41",
+            "CreatedOn": "2026-07-28T12:43:49",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2008",
+            "QueryType": "Event Query"
+        },
+        {
+            "Id": 1261,
+            "Subject": "sd raised",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-08-06T15:10:41",
+            "CreatedOn": "2026-07-28T12:43:49",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "testStudent2008",
+            "QueryType": "Event Query"
         }
     ]
 }
