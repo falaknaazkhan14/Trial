@@ -1,16 +1,19 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
-1192,Message access updated,RESPONDED,False,2026-07-29T09:14:54,2026-03-23T11:42:50,gtiadmin,gtiadmin,admin,731,Financial Hardship - Emergency Support
 1192,Paul will see this,RESPONDED,False,2026-07-29T09:14:54,2026-03-23T11:42:50,gtiadmin,gtiadmin,admin,731,Financial Hardship - Emergency Support
+1192,Message access updated,RESPONDED,False,2026-07-29T09:14:54,2026-03-23T11:42:50,gtiadmin,gtiadmin,admin,731,Financial Hardship - Emergency Support
 1202,Message access updated,RESPONDED,False,2026-07-20T13:47:43,2026-03-31T10:53:46,240,Ben ,Titford,1019,Disability - Appointment Request
 1248,Re: June careers fair,RESPONDED,False,2026-07-10T15:18:10,2026-06-24T16:19:57,gtiadmin,gtiadmin,admin,1173,"CV, application, online profile"
 1252,rygety,RESPONDED,False,2026-07-10T15:05:40,2026-06-30T10:02:06,gtiadmin,gtiadmin,admin,testStudent1457,EC form request
 1254,test,PENDING,False,2026-07-13T15:48:37,2026-07-13T09:55:04,240,Ben ,Titford,1954,CV Help
 1254,Added to casebook,PENDING,False,2026-07-13T15:48:37,2026-07-13T09:55:04,240,Ben ,Titford,1954,CV Help
 1256,Deatils here,PENDING,False,2026-07-13T15:56:40,2026-07-13T15:56:40,,,,1954,General Query
-1258,fdyhujyul,PENDING,False,2026-07-29T13:22:37,2026-07-21T11:43:25,240,Ben ,Titford,1936,Financial Hardship - Grants
 1258,,PENDING,False,2026-07-29T13:22:37,2026-07-21T11:43:25,240,Ben ,Titford,1936,Financial Hardship - Grants
 1258,Added to casebook,PENDING,False,2026-07-29T13:22:37,2026-07-21T11:43:25,240,Ben ,Titford,1936,Financial Hardship - Grants
+1258,fdyhujyul,PENDING,False,2026-07-29T13:22:37,2026-07-21T11:43:25,240,Ben ,Titford,1936,Financial Hardship - Grants
 1259,Where can I get support for starting a business?,CLOSED,False,2026-07-28T11:58:57,2026-07-28T11:53:08,gtiadmin,gtiadmin,admin,1384,General Query/Help
 1259,Where can I get support for starting a business?,CLOSED,False,2026-07-28T11:58:57,2026-07-28T11:53:08,gtiadmin,gtiadmin,admin,1384,General Query/Help
 1259,Added to casebook,CLOSED,False,2026-07-28T11:58:57,2026-07-28T11:53:08,gtiadmin,gtiadmin,admin,1384,General Query/Help
-1261,sd raised,PENDING,False,2026-07-28T12:43:49,2026-07-28T12:43:49,,,,testStudent2008,EC form request
+1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
+1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
+1261,,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
+1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
