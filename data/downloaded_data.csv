@@ -1,4 +1,6 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
+123,,RESPONDED,False,2026-08-26T10:33:04,2014-03-05T16:21:54,240,Ben ,Titford,testStudent1001,General Query/Help
+128,Moved Message,PENDING,False,2026-08-26T10:35:11,2014-09-10T11:10:18,,,,23,Graduate Query
 818,Re: Testing Queries,RESPONDED,False,2026-08-19T16:41:54,2024-01-10T17:22:55,1529,Joseph,Williams,865,Questions about vacancies
 1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1192,Message access updated,CLOSED,False,2026-08-11T08:56:01,2026-03-23T11:42:50,gtiadmin,gtiadmin,admin,731,Financial Hardship - Emergency Support
@@ -20,13 +22,13 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
 1261,,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
 1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
+1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
+1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,Re: My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
-1265,Re: My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
-1265,Added to casebook,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
-1265,Change of Message category,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
-1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
-1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
+1265,Change of Message category,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
+1265,Added to casebook,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
+1265,Re: My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1269,My disability query,PENDING,False,2026-08-11T14:58:33,2026-08-11T14:58:33,,,,2001,General Counselling Question
 1271,BHam Question,RESPONDED,False,2026-08-19T10:51:21,2026-08-19T10:28:55,gtiadmin,gtiadmin,admin,2010,Finance Support Application
 1271,BHam Question,RESPONDED,False,2026-08-19T10:51:21,2026-08-19T10:28:55,gtiadmin,gtiadmin,admin,2010,Finance Support Application
