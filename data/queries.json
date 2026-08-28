@@ -17,6 +17,32 @@
     },
     "data": [
         {
+            "Id": 123,
+            "Subject": null,
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-08-26T10:33:04",
+            "CreatedOn": "2014-03-05T16:21:54",
+            "OperatorUserId": "240",
+            "OperatorFirstName": "Ben ",
+            "OperatorLastName": "Titford",
+            "UserId": "testStudent1001",
+            "QueryType": "General Query/Help"
+        },
+        {
+            "Id": 128,
+            "Subject": "Moved Message",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-08-26T10:35:11",
+            "CreatedOn": "2014-09-10T11:10:18",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "23",
+            "QueryType": "Graduate Query"
+        },
+        {
             "Id": 818,
             "Subject": "Re: Testing Queries",
             "Status": "RESPONDED",
@@ -291,7 +317,20 @@
         },
         {
             "Id": 1265,
-            "Subject": "Re: My friend won't leave their room",
+            "Subject": "My friend won't leave their room",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-08-11T13:38:29",
+            "CreatedOn": "2026-08-11T13:26:30",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2051",
+            "QueryType": "Concern for a colleague"
+        },
+        {
+            "Id": 1265,
+            "Subject": "My friend won't leave their room",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-08-11T13:38:29",
@@ -305,32 +344,6 @@
         {
             "Id": 1265,
             "Subject": "Re: My friend won't leave their room",
-            "Status": "RESPONDED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-08-11T13:38:29",
-            "CreatedOn": "2026-08-11T13:26:30",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "2051",
-            "QueryType": "Concern for a colleague"
-        },
-        {
-            "Id": 1265,
-            "Subject": "Added to casebook",
-            "Status": "RESPONDED",
-            "InProgress": false,
-            "LastModifiedOn": "2026-08-11T13:38:29",
-            "CreatedOn": "2026-08-11T13:26:30",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "2051",
-            "QueryType": "Concern for a colleague"
-        },
-        {
-            "Id": 1265,
-            "Subject": "Change of Message category",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-08-11T13:38:29",
@@ -356,7 +369,7 @@
         },
         {
             "Id": 1265,
-            "Subject": "My friend won't leave their room",
+            "Subject": "Change of Message category",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-08-11T13:38:29",
@@ -369,7 +382,20 @@
         },
         {
             "Id": 1265,
-            "Subject": "My friend won't leave their room",
+            "Subject": "Added to casebook",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-08-11T13:38:29",
+            "CreatedOn": "2026-08-11T13:26:30",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2051",
+            "QueryType": "Concern for a colleague"
+        },
+        {
+            "Id": 1265,
+            "Subject": "Re: My friend won't leave their room",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-08-11T13:38:29",
