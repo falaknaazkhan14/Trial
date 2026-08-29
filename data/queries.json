@@ -43,6 +43,19 @@
             "QueryType": "Graduate Query"
         },
         {
+            "Id": 217,
+            "Subject": "Added to casebook",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2017-07-05T12:16:24",
+            "CreatedOn": "2017-07-05T12:16:24",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent1022",
+            "QueryType": "General Query/Help"
+        },
+        {
             "Id": 818,
             "Subject": "Re: Testing Queries",
             "Status": "RESPONDED",
@@ -226,7 +239,7 @@
         },
         {
             "Id": 1259,
-            "Subject": "Added to casebook",
+            "Subject": "Where can I get support for starting a business?",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-07-28T11:58:57",
@@ -239,7 +252,7 @@
         },
         {
             "Id": 1259,
-            "Subject": "Where can I get support for starting a business?",
+            "Subject": "Added to casebook",
             "Status": "CLOSED",
             "InProgress": false,
             "LastModifiedOn": "2026-07-28T11:58:57",
