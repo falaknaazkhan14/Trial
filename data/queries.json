@@ -288,6 +288,32 @@
             "OperatorLastName": null,
             "UserId": "testStudent1457",
             "QueryType": "EC form request"
+        },
+        {
+            "Id": 1275,
+            "Subject": "Re: SK Test placement 180801  - SK Organisation",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-08T11:00:50",
+            "CreatedOn": "2026-09-08T11:00:50",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2384",
+            "QueryType": "CV, application, online profile"
+        },
+        {
+            "Id": 1277,
+            "Subject": "Test query 0809 15:03",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-08T14:03:59",
+            "CreatedOn": "2026-09-08T14:03:59",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2384",
+            "QueryType": "Emergency issue"
         }
     ]
 }
