@@ -9,12 +9,12 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
 1261,,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
 1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
-1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
+1265,Change of Message category,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,Re: My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,Added to casebook,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
-1265,Change of Message category,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,Re: My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
+1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1269,My disability query,PENDING,False,2026-08-11T14:58:33,2026-08-11T14:58:33,,,,2001,General Counselling Question
 1271,BHam Question,RESPONDED,False,2026-08-19T10:51:21,2026-08-19T10:28:55,gtiadmin,gtiadmin,admin,2010,Finance Support Application
@@ -22,3 +22,8 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1273,otra cosa mas que probar,PENDING,False,2026-08-19T15:46:54,2026-08-19T15:46:54,,,,testStudent1457,EC form request
 1275,Re: SK Test placement 180801  - SK Organisation,PENDING,False,2026-09-08T11:00:50,2026-09-08T11:00:50,,,,2384,"CV, application, online profile"
 1277,Test query 0809 15:03,PENDING,False,2026-09-08T14:03:59,2026-09-08T14:03:59,,,,2384,Emergency issue
+1279,New doc from student,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,New doc from student,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,Message access updated,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,Added to casebook,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,New doc from student,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
