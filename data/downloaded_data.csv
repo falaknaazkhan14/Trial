@@ -3,6 +3,7 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 128,Moved Message,PENDING,False,2026-08-26T10:35:11,2014-09-10T11:10:18,,,,23,Graduate Query
 217,Re: Question about C...,RESPONDED,False,2026-09-03T15:01:07,2017-07-05T12:16:24,gtiadmin,gtiadmin,admin,testStudent1022,General Query/Help
 217,Added to casebook,RESPONDED,False,2026-09-03T15:01:07,2017-07-05T12:16:24,gtiadmin,gtiadmin,admin,testStudent1022,General Query/Help
+553,Message access updated,PENDING,False,2026-09-10T13:28:43,2022-01-20T09:47:06,,,,testStudent2001,Mental health - appointment request
 818,Re: Testing Queries,RESPONDED,False,2026-08-19T16:41:54,2024-01-10T17:22:55,1529,Joseph,Williams,865,Questions about vacancies
 1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1258,fdyhujyul,RESPONDED,False,2026-08-13T09:54:15,2026-07-21T11:43:25,gtiadmin,gtiadmin,admin,1936,Financial Hardship - Grants
@@ -22,8 +23,9 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1273,otra cosa mas que probar,PENDING,False,2026-08-19T15:46:54,2026-08-19T15:46:54,,,,testStudent1457,EC form request
 1275,Re: SK Test placement 180801  - SK Organisation,PENDING,False,2026-09-08T11:00:50,2026-09-08T11:00:50,,,,2384,"CV, application, online profile"
 1277,Test query 0809 15:03,PENDING,False,2026-09-08T14:03:59,2026-09-08T14:03:59,,,,2384,Emergency issue
-1279,New doc from student,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,New doc from student,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,Message access updated,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,Added to casebook,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,New doc from student,RESPONDED,False,2026-09-09T09:57:08,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,Message access updated,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,Added to casebook,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
