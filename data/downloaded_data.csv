@@ -4,14 +4,18 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 217,Re: Question about C...,RESPONDED,False,2026-09-03T15:01:07,2017-07-05T12:16:24,gtiadmin,gtiadmin,admin,testStudent1022,General Query/Help
 217,Added to casebook,RESPONDED,False,2026-09-03T15:01:07,2017-07-05T12:16:24,gtiadmin,gtiadmin,admin,testStudent1022,General Query/Help
 553,Message access updated,PENDING,False,2026-09-10T13:28:43,2022-01-20T09:47:06,,,,testStudent2001,Mental health - appointment request
+739,Message access updated,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
+739,I need help with my studies,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
+739,Added to casebook,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
+739,Moved Message,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
 818,Re: Testing Queries,RESPONDED,False,2026-08-19T16:41:54,2024-01-10T17:22:55,1529,Joseph,Williams,865,Questions about vacancies
 1066,Re: Test Leeds Art,RESPONDED,False,2025-11-14T11:13:46,2025-11-13T10:30:44,gtiadmin,gtiadmin,admin,2010,Emergency issue
 1258,fdyhujyul,RESPONDED,False,2026-08-13T09:54:15,2026-07-21T11:43:25,gtiadmin,gtiadmin,admin,1936,Financial Hardship - Grants
 1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
 1261,,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
 1261,sd raised,RESPONDED,False,2026-08-06T15:10:41,2026-07-28T12:43:49,gtiadmin,gtiadmin,admin,testStudent2008,Event Query
-1265,Added to casebook,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,Re: My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
+1265,Added to casebook,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,Change of Message category,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,Re: My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
 1265,My friend won't leave their room,RESPONDED,False,2026-08-11T13:38:29,2026-08-11T13:26:30,gtiadmin,gtiadmin,admin,2051,Concern for a colleague
@@ -25,9 +29,11 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1277,Test query 0809 15:03,PENDING,False,2026-09-08T14:03:59,2026-09-08T14:03:59,,,,2384,Emergency issue
 1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
 1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,Message access updated,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,Added to casebook,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
 1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,Added to casebook,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,Message access updated,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
 1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
 1281,Test,PENDING,False,2026-09-11T16:23:05,2026-09-11T16:22:53,gtiadmin,gtiadmin,admin,1952,Concern for a colleague
 1281,Added to casebook,PENDING,False,2026-09-11T16:23:05,2026-09-11T16:22:53,gtiadmin,gtiadmin,admin,1952,Concern for a colleague
+1283,test,PENDING,False,2026-09-16T13:39:45,2026-09-16T13:39:45,,,,1503,Disability - Learning Support
+1285,Test,PENDING,False,2026-09-16T13:49:22,2026-09-16T13:49:22,,,,1300,General Query/Help
