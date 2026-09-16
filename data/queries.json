@@ -82,6 +82,58 @@
             "QueryType": "Mental health - appointment request"
         },
         {
+            "Id": 739,
+            "Subject": "Message access updated",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-16T13:48:12",
+            "CreatedOn": "2023-03-29T12:41:21",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Employment issues"
+        },
+        {
+            "Id": 739,
+            "Subject": "I need help with my studies",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-16T13:48:12",
+            "CreatedOn": "2023-03-29T12:41:21",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Employment issues"
+        },
+        {
+            "Id": 739,
+            "Subject": "Added to casebook",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-16T13:48:12",
+            "CreatedOn": "2023-03-29T12:41:21",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Employment issues"
+        },
+        {
+            "Id": 739,
+            "Subject": "Moved Message",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-16T13:48:12",
+            "CreatedOn": "2023-03-29T12:41:21",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "731",
+            "QueryType": "Employment issues"
+        },
+        {
             "Id": 818,
             "Subject": "Re: Testing Queries",
             "Status": "RESPONDED",
@@ -161,7 +213,7 @@
         },
         {
             "Id": 1265,
-            "Subject": "Added to casebook",
+            "Subject": "Re: My friend won't leave their room",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-08-11T13:38:29",
@@ -174,7 +226,7 @@
         },
         {
             "Id": 1265,
-            "Subject": "Re: My friend won't leave their room",
+            "Subject": "Added to casebook",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-08-11T13:38:29",
@@ -356,7 +408,7 @@
         },
         {
             "Id": 1279,
-            "Subject": "Message access updated",
+            "Subject": "New doc from student",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-09-10T13:31:06",
@@ -382,7 +434,7 @@
         },
         {
             "Id": 1279,
-            "Subject": "New doc from student",
+            "Subject": "Message access updated",
             "Status": "RESPONDED",
             "InProgress": false,
             "LastModifiedOn": "2026-09-10T13:31:06",
@@ -431,6 +483,32 @@
             "OperatorLastName": "admin",
             "UserId": "1952",
             "QueryType": "Concern for a colleague"
+        },
+        {
+            "Id": 1283,
+            "Subject": "test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-16T13:39:45",
+            "CreatedOn": "2026-09-16T13:39:45",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1503",
+            "QueryType": "Disability - Learning Support"
+        },
+        {
+            "Id": 1285,
+            "Subject": "Test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-16T13:49:22",
+            "CreatedOn": "2026-09-16T13:49:22",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1300",
+            "QueryType": "General Query/Help"
         }
     ]
 }
