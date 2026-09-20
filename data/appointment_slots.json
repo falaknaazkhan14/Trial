@@ -13361,7 +13361,7 @@
             "OpeningTimePeriodDays": 5,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "272",
             "Operator": "Johnson, David",
             "OperatorNotes": null,
