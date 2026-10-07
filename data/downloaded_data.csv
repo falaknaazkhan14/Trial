@@ -10,21 +10,23 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1277,Test query 0809 15:03,PENDING,False,2026-09-08T14:03:59,2026-09-08T14:03:59,,,,2384,Emergency issue
 1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
 1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,Message access updated,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
 1279,Added to casebook,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
+1279,Message access updated,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
 1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1279,New doc from student,RESPONDED,False,2026-09-10T13:31:06,2026-09-09T09:41:22,gtiadmin,gtiadmin,admin,1384,Disability - Learning Support
-1281,Added to casebook,PENDING,False,2026-09-11T16:23:05,2026-09-11T16:22:53,gtiadmin,gtiadmin,admin,1952,Concern for a colleague
 1281,Test,PENDING,False,2026-09-11T16:23:05,2026-09-11T16:22:53,gtiadmin,gtiadmin,admin,1952,Concern for a colleague
-1283,test,PENDING,False,2026-09-16T13:39:45,2026-09-16T13:39:45,,,,1503,Disability - Learning Support
+1281,Added to casebook,PENDING,False,2026-09-11T16:23:05,2026-09-11T16:22:53,gtiadmin,gtiadmin,admin,1952,Concern for a colleague
+1283,test,RESPONDED,False,2026-10-06T13:52:50,2026-09-16T13:39:45,gtiadmin,gtiadmin,admin,1503,Disability - Learning Support
+1283,test,RESPONDED,False,2026-10-06T13:52:50,2026-09-16T13:39:45,gtiadmin,gtiadmin,admin,1503,Disability - Learning Support
+1283,test,RESPONDED,False,2026-10-06T13:52:50,2026-09-16T13:39:45,gtiadmin,gtiadmin,admin,1503,Disability - Learning Support
 1285,Test,PENDING,False,2026-09-16T13:49:22,2026-09-16T13:49:22,,,,1300,General Query/Help
 1287,I need help with my disability,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
-1287,Moved Message,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
-1287,Added to casebook,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
 1287,I need help with my disability,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
 1287,Message access updated,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
 1287,I need help with my disability,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
+1287,Added to casebook,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
 1287,I need help with my disability,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
+1287,Moved Message,PENDING,False,2026-09-23T13:19:17,2026-09-23T12:57:40,,,,2399,General Query
 1289,Where do I pay my hall fees?,PENDING,False,2026-09-30T11:24:03,2026-09-30T10:58:49,240,Ben ,Titford,2370,Financial Payments
 1291,I think I have ADHD,PENDING,False,2026-09-30T11:35:23,2026-09-30T11:16:23,gtiadmin,gtiadmin,admin,2370,Disability - Learning Support
 1291,Message access updated,PENDING,False,2026-09-30T11:35:23,2026-09-30T11:16:23,gtiadmin,gtiadmin,admin,2370,Disability - Learning Support
