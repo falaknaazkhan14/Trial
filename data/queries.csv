@@ -1,10 +1,10 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
 217,Re: Question about C...,RESPONDED,False,2026-09-03T15:01:07,2017-07-05T12:16:24,gtiadmin,gtiadmin,admin,testStudent1022,General Query/Help
 553,Message access updated,PENDING,False,2026-09-10T13:28:43,2022-01-20T09:47:06,,,,testStudent2001,Mental health - appointment request
-739,Message access updated,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
-739,I need help with my studies,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
-739,Added to casebook,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
-739,Moved Message,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,731,Employment issues
+739,Message access updated,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,2405,Employment issues
+739,I need help with my studies,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,2405,Employment issues
+739,Added to casebook,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,2405,Employment issues
+739,Moved Message,PENDING,False,2026-09-16T13:48:12,2023-03-29T12:41:21,,,,2405,Employment issues
 1042,Added to casebook,PENDING,False,2025-08-12T15:16:43,2025-08-12T15:16:43,,,,2135,General Query
 1275,Re: SK Test placement 180801  - SK Organisation,PENDING,False,2026-09-08T11:00:50,2026-09-08T11:00:50,,,,2384,"CV, application, online profile"
 1277,Test query 0809 15:03,PENDING,False,2026-09-08T14:03:59,2026-09-08T14:03:59,,,,2384,Emergency issue
