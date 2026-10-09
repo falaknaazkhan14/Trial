@@ -131,3 +131,15 @@ AppointmentSlotId,UserId,AppointmentCategory,AvailableAttendanceMethods,Location
 94935,1940,General Guidance ,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,Careers Advice,,2026-10-06T13:32:58,2026-10-07T09:15:00,2026-10-07T09:45:00,1680,0,00:00:35,20,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",notea dnanoinoBN\B\ E oif oen hfoijEFO NB N OF wefWEFef  ,Referred,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 94937,1503,General Guidance ,"{""methods"": [""PHYSICAL""]}",,Student Support Service,Drop-in Session,,2026-10-08T10:54:10,2026-10-08T11:54:10,2026-10-08T12:04:10,0,1,09:46:09,14,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",test,Referred,,"    test
   ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accommodation issues,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94939,testStudent2010,,"{""methods"": [""PHYSICAL""]}",TC Support team location,TC Support team,designated advisors Appointment 1,,2026-10-09T02:55:34,2026-10-09T11:45:00,2026-10-09T11:55:00,0,0,00:00:00,1,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",Jo - Appointment notes test please see attachment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94941,testStudent2010,,"{""methods"": [""PHYSICAL""]}",Aberconwy House,Demo system,Adviser Drop-In,,2026-10-09T03:08:36,2026-10-09T10:45:00,2026-10-09T11:15:00,0,1,00:00:00,14,finished,Booked,Attended,1549,"Densing, Jo",Jo test attachment in appointment notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,<p>testtt</p>,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94943,testStudent2001,,"{""methods"": [""MS_TEAMS""]}",Aberconwy House,Demo system,Drop in,,2026-10-09T03:19:06,2026-10-09T11:30:00,2026-10-09T12:00:00,0,1,00:00:00,7,allocated,Booked,Booked,1549,"Densing, Jo",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94945,1538,,"{""methods"": [""TELEPHONE""]}",Guidance Room 3,TC Support team,With Advisor Appointment Type,,2026-10-09T03:21:44,2026-10-09T12:15:00,2026-10-09T12:35:00,0,0,00:00:00,1,allocated,Booked,Booked,gtiadmin,"admin, gtiadmin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94947,1384,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-10-09T09:29:37,2026-10-09T13:00:00,2026-10-09T13:30:00,480,1,00:00:00,5,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",Graduate test,,,"<p data-pm-slice=""1 1 []"">Graduate test</p>        
+  
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Physical disability,,,,,,,,,,,Take the 87% wellbeing assessment,,,,,,,"        
+  
+  ",,,,,,,,,
+94949,1384,General Guidance ,"{""methods"": [""VIRTUAL""]}",,Student Support Service,First Appointment,,2026-10-09T14:23:23,2026-10-09T14:15:00,2026-10-09T14:45:00,480,1,00:00:00,5,finished,Booked,Attended,gtiadmin,"admin, gtiadmin",Graduate test,,,"<p data-pm-slice=""1 1 []"">Graduate test</p>    
+  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Physical abuse,,,,,,,,,,,,,,,,,,"    
+  ",,,,,,,,,
