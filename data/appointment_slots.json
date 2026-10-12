@@ -9960,7 +9960,7 @@
             "ResolvedState": "Attended",
             "OperatorUserId": "gtiadmin",
             "Operator": "admin, gtiadmin",
-            "OperatorNotes": "",
+            "OperatorNotes": "Appointment NotesCareers GuidanceAttendedUpcoming appointments",
             "Outcome": null,
             "Action plan for operators": null,
             "Additional details": null,
