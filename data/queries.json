@@ -291,33 +291,7 @@
         },
         {
             "Id": 1287,
-            "Subject": "Moved Message",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-09-23T13:19:17",
-            "CreatedOn": "2026-09-23T12:57:40",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "2399",
-            "QueryType": "General Query"
-        },
-        {
-            "Id": 1287,
             "Subject": "I need help with my disability",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-09-23T13:19:17",
-            "CreatedOn": "2026-09-23T12:57:40",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "2399",
-            "QueryType": "General Query"
-        },
-        {
-            "Id": 1287,
-            "Subject": "Added to casebook",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-09-23T13:19:17",
@@ -369,7 +343,33 @@
         },
         {
             "Id": 1287,
+            "Subject": "Added to casebook",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-23T13:19:17",
+            "CreatedOn": "2026-09-23T12:57:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2399",
+            "QueryType": "General Query"
+        },
+        {
+            "Id": 1287,
             "Subject": "I need help with my disability",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-23T13:19:17",
+            "CreatedOn": "2026-09-23T12:57:40",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2399",
+            "QueryType": "General Query"
+        },
+        {
+            "Id": 1287,
+            "Subject": "Moved Message",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-09-23T13:19:17",
@@ -483,6 +483,19 @@
             "OperatorLastName": null,
             "UserId": "855",
             "QueryType": "Events"
+        },
+        {
+            "Id": 1295,
+            "Subject": "test",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-10-20T14:30:22",
+            "CreatedOn": "2026-10-20T14:30:22",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2405",
+            "QueryType": "General Query/Help"
         }
     ]
 }
