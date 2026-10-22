@@ -34,13 +34,39 @@
             "Subject": "Message access updated",
             "Status": "PENDING",
             "InProgress": false,
-            "LastModifiedOn": "2026-10-16T13:25:51",
+            "LastModifiedOn": "2026-10-22T09:31:00",
             "CreatedOn": "2022-01-20T09:47:06",
             "OperatorUserId": null,
             "OperatorFirstName": null,
             "OperatorLastName": null,
             "UserId": "testStudent2001",
-            "QueryType": "Mental health - appointment request"
+            "QueryType": "Mental health - concern for self"
+        },
+        {
+            "Id": 553,
+            "Subject": "Moved Message",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-10-22T09:31:00",
+            "CreatedOn": "2022-01-20T09:47:06",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "testStudent2001",
+            "QueryType": "Mental health - concern for self"
+        },
+        {
+            "Id": 739,
+            "Subject": "Message access updated",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-09-16T13:48:12",
+            "CreatedOn": "2023-03-29T12:41:21",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2405",
+            "QueryType": "Employment issues"
         },
         {
             "Id": 739,
@@ -71,19 +97,6 @@
         {
             "Id": 739,
             "Subject": "Moved Message",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-09-16T13:48:12",
-            "CreatedOn": "2023-03-29T12:41:21",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "2405",
-            "QueryType": "Employment issues"
-        },
-        {
-            "Id": 739,
-            "Subject": "Message access updated",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-09-16T13:48:12",
@@ -487,13 +500,26 @@
         {
             "Id": 1295,
             "Subject": "test",
-            "Status": "PENDING",
+            "Status": "RESPONDED",
             "InProgress": false,
-            "LastModifiedOn": "2026-10-20T14:30:22",
+            "LastModifiedOn": "2026-10-22T09:43:55",
             "CreatedOn": "2026-10-20T14:30:22",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2405",
+            "QueryType": "General Query/Help"
+        },
+        {
+            "Id": 1295,
+            "Subject": "test",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-10-22T09:43:55",
+            "CreatedOn": "2026-10-20T14:30:22",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
             "UserId": "2405",
             "QueryType": "General Query/Help"
         }
