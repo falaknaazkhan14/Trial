@@ -30,8 +30,21 @@
             "QueryType": "General Query/Help"
         },
         {
+            "Id": 489,
+            "Subject": "I need assistance with",
+            "Status": "CLOSED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-10-23T15:25:34",
+            "CreatedOn": "2020-10-02T15:20:22",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "548",
+            "QueryType": "CV Help"
+        },
+        {
             "Id": 553,
-            "Subject": "Message access updated",
+            "Subject": "Moved Message",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-10-22T09:31:00",
@@ -44,7 +57,7 @@
         },
         {
             "Id": 553,
-            "Subject": "Moved Message",
+            "Subject": "Message access updated",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-10-22T09:31:00",
