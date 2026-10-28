@@ -13913,7 +13913,7 @@
             "OpeningTimePeriodDays": 21,
             "SlotState": "allocated",
             "BookedState": "Booked",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "OperatorUserId": "240",
             "Operator": "Titford, Ben ",
             "OperatorNotes": null,

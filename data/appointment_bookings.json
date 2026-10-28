@@ -6672,7 +6672,7 @@
             "ActualOpeningTime": null,
             "ActualClosingTime": null,
             "OperatorUserId": "240",
-            "ResolvedState": "Booked",
+            "ResolvedState": "Missed",
             "BookingCreatedDate": "2026-10-26T15:28:08",
             "BookingModifiedDate": "2026-10-26T16:00:35",
             "Actions": null,
