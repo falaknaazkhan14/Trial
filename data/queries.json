@@ -197,6 +197,19 @@
             "OperatorLastName": null,
             "UserId": "1940",
             "QueryType": "Placement Query"
+        },
+        {
+            "Id": 1307,
+            "Subject": "testing",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-02T14:13:32",
+            "CreatedOn": "2026-11-02T14:12:34",
+            "OperatorUserId": "1917",
+            "OperatorFirstName": "Michelle",
+            "OperatorLastName": "Dexter-Lowe",
+            "UserId": "1940",
+            "QueryType": "General Query"
         }
     ]
 }
