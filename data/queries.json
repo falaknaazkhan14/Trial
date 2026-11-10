@@ -249,6 +249,19 @@
             "OperatorLastName": "Advisor [X]",
             "UserId": "2431",
             "QueryType": "MAP Learning Support"
+        },
+        {
+            "Id": 1311,
+            "Subject": "How do I apply for support?",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-10T12:44:50",
+            "CreatedOn": "2026-11-10T12:44:50",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2439",
+            "QueryType": "MAP Learning Support"
         }
     ]
 }
