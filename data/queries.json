@@ -262,6 +262,32 @@
             "OperatorLastName": null,
             "UserId": "2439",
             "QueryType": "MAP Learning Support"
+        },
+        {
+            "Id": 1313,
+            "Subject": "New doc from student",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-12T17:07:43",
+            "CreatedOn": "2026-11-12T17:07:43",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2405",
+            "QueryType": "MAP Learning Support"
+        },
+        {
+            "Id": 1313,
+            "Subject": "Added to casebook",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-12T17:07:43",
+            "CreatedOn": "2026-11-12T17:07:43",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2405",
+            "QueryType": "MAP Learning Support"
         }
     ]
 }
