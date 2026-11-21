@@ -1,11 +1,13 @@
 Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFirstName,OperatorLastName,UserId,QueryType
 489,I need assistance with,CLOSED,False,2026-10-23T15:25:34,2020-10-02T15:20:22,gtiadmin,gtiadmin,admin,548,CV Help
 553,Moved Message,PENDING,False,2026-10-22T09:31:00,2022-01-20T09:47:06,,,,testStudent2001,Mental health - concern for self
-1283,test,RESPONDED,False,2026-10-06T13:52:50,2026-09-16T13:39:45,gtiadmin,gtiadmin,admin,1503,Disability - Learning Support
-1283,test,RESPONDED,False,2026-10-06T13:52:50,2026-09-16T13:39:45,gtiadmin,gtiadmin,admin,1503,Disability - Learning Support
+1283,test,CLOSED,False,2026-11-20T11:02:55,2026-09-16T13:39:45,gtiadmin,gtiadmin,admin,1503,Disability - Learning Support
+1283,test,CLOSED,False,2026-11-20T11:02:55,2026-09-16T13:39:45,gtiadmin,gtiadmin,admin,1503,Disability - Learning Support
+1289,Where do I pay my hall fees?,RESPONDED,False,2026-11-20T11:03:56,2026-09-30T10:58:49,gtiadmin,gtiadmin,admin,2370,Financial Payments
+1291,I think I have ADHD,RESPONDED,False,2026-11-20T11:03:42,2026-09-30T11:16:23,gtiadmin,gtiadmin,admin,2370,Disability - Learning Support
 1293,Testing queries - ang,PENDING,False,2026-10-12T12:57:32,2026-10-12T12:57:32,,,,855,Events
-1295,test,RESPONDED,False,2026-10-22T09:43:55,2026-10-20T14:30:22,gtiadmin,gtiadmin,admin,2405,General Query/Help
-1295,test,RESPONDED,False,2026-10-22T09:43:55,2026-10-20T14:30:22,gtiadmin,gtiadmin,admin,2405,General Query/Help
+1295,test,CLOSED,False,2026-11-20T11:02:48,2026-10-20T14:30:22,gtiadmin,gtiadmin,admin,2405,General Query/Help
+1295,test,CLOSED,False,2026-11-20T11:02:48,2026-10-20T14:30:22,gtiadmin,gtiadmin,admin,2405,General Query/Help
 1297,Request for CV review and feedback,PENDING,False,2026-10-27T15:57:36,2026-10-27T15:57:36,,,,2425,CV Help
 1299,General careers advice and guidance,RESPONDED,False,2026-10-27T16:19:40,2026-10-27T15:58:15,gtiadmin,gtiadmin,admin,2425,General Query
 1299,General careers advice and guidance,RESPONDED,False,2026-10-27T16:19:40,2026-10-27T15:58:15,gtiadmin,gtiadmin,admin,2425,General Query
@@ -23,11 +25,16 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1311,Added to casebook,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
-1313,New doc from student,PENDING,False,2026-11-12T17:07:43,2026-11-12T17:07:43,,,,2405,MAP Learning Support
-1313,Added to casebook,PENDING,False,2026-11-12T17:07:43,2026-11-12T17:07:43,,,,2405,MAP Learning Support
-1315,I think I have ADHD,PENDING,False,2026-11-16T14:48:37,2026-11-16T14:48:37,,,,2439,Disability - Learning Support
-1317,New doc from student,PENDING,False,2026-11-16T14:49:17,2026-11-16T14:49:17,,,,2439,Teams test category
+1313,New doc from student,CLOSED,False,2026-11-20T11:02:40,2026-11-12T17:07:43,,,,2405,MAP Learning Support
+1313,Added to casebook,CLOSED,False,2026-11-20T11:02:40,2026-11-12T17:07:43,,,,2405,MAP Learning Support
+1315,I think I have ADHD,CLOSED,False,2026-11-20T11:02:27,2026-11-16T14:48:37,,,,2439,Disability - Learning Support
+1317,New doc from student,CLOSED,False,2026-11-20T11:02:09,2026-11-16T14:49:17,,,,2439,Teams test category
 1319,Re: SK Test event 19th Nov,PENDING,False,2026-11-18T10:34:52,2026-11-18T10:34:52,,,,2403,Event Query
 1321,Re: Placement posted by operator- 1811 - abc test,PENDING,False,2026-11-18T10:36:20,2026-11-18T10:36:20,,,,2074,EC form request
 1323,New doc from student,PENDING,False,2026-11-19T15:40:00,2026-11-19T15:33:36,,,,2051,Mental health - concern for self
 1323,Moved Message,PENDING,False,2026-11-19T15:40:00,2026-11-19T15:33:36,,,,2051,Mental health - concern for self
+1325,My friend won't leave their room,PENDING,False,2026-11-20T17:29:28,2026-11-20T11:01:26,1341,Alex,Bodian,2051,Disability - Learning Support
+1325,,PENDING,False,2026-11-20T17:29:28,2026-11-20T11:01:26,1341,Alex,Bodian,2051,Disability - Learning Support
+1327,test query email,RESPONDED,False,2026-11-20T14:58:39,2026-11-20T14:54:48,gtiadmin,gtiadmin,admin,2405,General Query
+1327,test query email,RESPONDED,False,2026-11-20T14:58:39,2026-11-20T14:54:48,gtiadmin,gtiadmin,admin,2405,General Query
+1329,jklj,PENDING,False,2026-11-21T12:42:58,2026-11-21T12:42:58,,,,1555,Application help
