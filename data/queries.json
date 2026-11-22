@@ -509,6 +509,19 @@
             "OperatorLastName": "admin",
             "UserId": "2405",
             "QueryType": "General Query"
+        },
+        {
+            "Id": 1329,
+            "Subject": "jklj",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-21T12:42:58",
+            "CreatedOn": "2026-11-21T12:42:58",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "1555",
+            "QueryType": "Application help"
         }
     ]
 }
