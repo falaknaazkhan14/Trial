@@ -16,13 +16,13 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1303,New query,RESPONDED,False,2026-11-01T14:11:47,2026-11-01T13:16:10,1917,Michelle,Dexter-Lowe,1940,EC form request
 1305,Re: Test Placement - 2210  - abc test,PENDING,False,2026-11-01T14:44:34,2026-11-01T13:19:03,,,,1940,Placement Query
 1307,testing,PENDING,False,2026-11-02T14:13:32,2026-11-02T14:12:34,1917,Michelle,Dexter-Lowe,1940,General Query
+1309,How do I apply for support?,RESPONDED,False,2026-11-04T11:59:29,2026-11-04T11:57:33,2432,MAP,Advisor [X],2431,MAP Learning Support
+1309,How do I apply for support?,RESPONDED,False,2026-11-04T11:59:29,2026-11-04T11:57:33,2432,MAP,Advisor [X],2431,MAP Learning Support
 1309,Added to casebook,RESPONDED,False,2026-11-04T11:59:29,2026-11-04T11:57:33,2432,MAP,Advisor [X],2431,MAP Learning Support
-1309,How do I apply for support?,RESPONDED,False,2026-11-04T11:59:29,2026-11-04T11:57:33,2432,MAP,Advisor [X],2431,MAP Learning Support
-1309,How do I apply for support?,RESPONDED,False,2026-11-04T11:59:29,2026-11-04T11:57:33,2432,MAP,Advisor [X],2431,MAP Learning Support
-1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,Added to casebook,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
+1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1313,New doc from student,CLOSED,False,2026-11-20T11:02:40,2026-11-12T17:07:43,,,,2405,MAP Learning Support
@@ -35,6 +35,16 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1323,Moved Message,PENDING,False,2026-11-19T15:40:00,2026-11-19T15:33:36,,,,2051,Mental health - concern for self
 1325,My friend won't leave their room,PENDING,False,2026-11-20T17:29:28,2026-11-20T11:01:26,1341,Alex,Bodian,2051,Disability - Learning Support
 1325,,PENDING,False,2026-11-20T17:29:28,2026-11-20T11:01:26,1341,Alex,Bodian,2051,Disability - Learning Support
-1327,test query email,RESPONDED,False,2026-11-20T14:58:39,2026-11-20T14:54:48,gtiadmin,gtiadmin,admin,2405,General Query
-1327,test query email,RESPONDED,False,2026-11-20T14:58:39,2026-11-20T14:54:48,gtiadmin,gtiadmin,admin,2405,General Query
+1327,test query email,CLOSED,False,2026-11-25T14:39:44,2026-11-20T14:54:48,gtiadmin,gtiadmin,admin,2405,General Query
+1327,test query email,CLOSED,False,2026-11-25T14:39:44,2026-11-20T14:54:48,gtiadmin,gtiadmin,admin,2405,General Query
 1329,jklj,PENDING,False,2026-11-21T12:42:58,2026-11-21T12:42:58,,,,1555,Application help
+1331,My test query email,PENDING,False,2026-11-25T14:09:53,2026-11-25T14:09:14,,,,2439,Application help
+1331,Added to casebook,PENDING,False,2026-11-25T14:09:53,2026-11-25T14:09:14,,,,2439,Application help
+1333,My test query email 2,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
+1333,Query access updated,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
+1333,Change of Query category,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
+1333,Change of Query category,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
+1335,I am struggling to adapt to uni,RESPONDED,False,2026-11-25T17:23:26,2026-11-25T16:54:13,gtiadmin,gtiadmin,admin,2459,General CMH
+1335,I am struggling to adapt to uni,RESPONDED,False,2026-11-25T17:23:26,2026-11-25T16:54:13,gtiadmin,gtiadmin,admin,2459,General CMH
+1335,Added to casebook,RESPONDED,False,2026-11-25T17:23:26,2026-11-25T16:54:13,gtiadmin,gtiadmin,admin,2459,General CMH
+1337,Query Test 25.11,PENDING,False,2026-11-25T17:30:16,2026-11-25T17:30:16,,,,865,Emergency issue
