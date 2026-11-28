@@ -291,6 +291,19 @@
         },
         {
             "Id": 1311,
+            "Subject": "How do I apply for support?",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-16T14:44:08",
+            "CreatedOn": "2026-11-10T12:44:50",
+            "OperatorUserId": null,
+            "OperatorFirstName": null,
+            "OperatorLastName": null,
+            "UserId": "2439",
+            "QueryType": "Mental health - concern for self"
+        },
+        {
+            "Id": 1311,
             "Subject": null,
             "Status": "PENDING",
             "InProgress": false,
@@ -305,19 +318,6 @@
         {
             "Id": 1311,
             "Subject": "Added to casebook",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-11-16T14:44:08",
-            "CreatedOn": "2026-11-10T12:44:50",
-            "OperatorUserId": null,
-            "OperatorFirstName": null,
-            "OperatorLastName": null,
-            "UserId": "2439",
-            "QueryType": "Mental health - concern for self"
-        },
-        {
-            "Id": 1311,
-            "Subject": "How do I apply for support?",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-11-16T14:44:08",
@@ -551,19 +551,6 @@
         },
         {
             "Id": 1333,
-            "Subject": "My\u00a0test\u00a0query\u00a0email 2",
-            "Status": "PENDING",
-            "InProgress": false,
-            "LastModifiedOn": "2026-11-25T14:36:52",
-            "CreatedOn": "2026-11-25T14:15:57",
-            "OperatorUserId": "gtiadmin",
-            "OperatorFirstName": "gtiadmin",
-            "OperatorLastName": "admin",
-            "UserId": "2405",
-            "QueryType": "General Query"
-        },
-        {
-            "Id": 1333,
             "Subject": "Query access updated",
             "Status": "PENDING",
             "InProgress": false,
@@ -591,6 +578,19 @@
         {
             "Id": 1333,
             "Subject": "Change of Query category",
+            "Status": "PENDING",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-25T14:36:52",
+            "CreatedOn": "2026-11-25T14:15:57",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2405",
+            "QueryType": "General Query"
+        },
+        {
+            "Id": 1333,
+            "Subject": "My\u00a0test\u00a0query\u00a0email 2",
             "Status": "PENDING",
             "InProgress": false,
             "LastModifiedOn": "2026-11-25T14:36:52",
@@ -652,6 +652,97 @@
             "OperatorLastName": null,
             "UserId": "865",
             "QueryType": "Emergency issue"
+        },
+        {
+            "Id": 1339,
+            "Subject": "I am running out of money",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-26T10:15:05",
+            "CreatedOn": "2026-11-26T10:13:23",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2459",
+            "QueryType": "Financial Hardship - Emergency Support"
+        },
+        {
+            "Id": 1339,
+            "Subject": "I am running out of money",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-26T10:15:05",
+            "CreatedOn": "2026-11-26T10:13:23",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2459",
+            "QueryType": "Financial Hardship - Emergency Support"
+        },
+        {
+            "Id": 1339,
+            "Subject": "Added to casebook",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-26T10:15:05",
+            "CreatedOn": "2026-11-26T10:13:23",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2459",
+            "QueryType": "Financial Hardship - Emergency Support"
+        },
+        {
+            "Id": 1341,
+            "Subject": "I am struggling to adapt and integrate at uni.",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-26T11:47:02",
+            "CreatedOn": "2026-11-26T11:42:17",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2459",
+            "QueryType": "General CMH"
+        },
+        {
+            "Id": 1341,
+            "Subject": "Message access updated",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-26T11:47:02",
+            "CreatedOn": "2026-11-26T11:42:17",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2459",
+            "QueryType": "General CMH"
+        },
+        {
+            "Id": 1341,
+            "Subject": "I am struggling to adapt and integrate at uni.",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-26T11:47:02",
+            "CreatedOn": "2026-11-26T11:42:17",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2459",
+            "QueryType": "General CMH"
+        },
+        {
+            "Id": 1341,
+            "Subject": "Added to casebook",
+            "Status": "RESPONDED",
+            "InProgress": false,
+            "LastModifiedOn": "2026-11-26T11:47:02",
+            "CreatedOn": "2026-11-26T11:42:17",
+            "OperatorUserId": "gtiadmin",
+            "OperatorFirstName": "gtiadmin",
+            "OperatorLastName": "admin",
+            "UserId": "2459",
+            "QueryType": "General CMH"
         }
     ]
 }

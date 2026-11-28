@@ -20,9 +20,9 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1309,How do I apply for support?,RESPONDED,False,2026-11-04T11:59:29,2026-11-04T11:57:33,2432,MAP,Advisor [X],2431,MAP Learning Support
 1309,Added to casebook,RESPONDED,False,2026-11-04T11:59:29,2026-11-04T11:57:33,2432,MAP,Advisor [X],2431,MAP Learning Support
 1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
+1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,Added to casebook,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
-1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,How do I apply for support?,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1311,,PENDING,False,2026-11-16T14:44:08,2026-11-10T12:44:50,,,,2439,Mental health - concern for self
 1313,New doc from student,CLOSED,False,2026-11-20T11:02:40,2026-11-12T17:07:43,,,,2405,MAP Learning Support
@@ -40,11 +40,18 @@ Id,Subject,Status,InProgress,LastModifiedOn,CreatedOn,OperatorUserId,OperatorFir
 1329,jklj,PENDING,False,2026-11-21T12:42:58,2026-11-21T12:42:58,,,,1555,Application help
 1331,My test query email,PENDING,False,2026-11-25T14:09:53,2026-11-25T14:09:14,,,,2439,Application help
 1331,Added to casebook,PENDING,False,2026-11-25T14:09:53,2026-11-25T14:09:14,,,,2439,Application help
-1333,My test query email 2,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
 1333,Query access updated,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
 1333,Change of Query category,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
 1333,Change of Query category,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
+1333,My test query email 2,PENDING,False,2026-11-25T14:36:52,2026-11-25T14:15:57,gtiadmin,gtiadmin,admin,2405,General Query
 1335,I am struggling to adapt to uni,RESPONDED,False,2026-11-25T17:23:26,2026-11-25T16:54:13,gtiadmin,gtiadmin,admin,2459,General CMH
 1335,I am struggling to adapt to uni,RESPONDED,False,2026-11-25T17:23:26,2026-11-25T16:54:13,gtiadmin,gtiadmin,admin,2459,General CMH
 1335,Added to casebook,RESPONDED,False,2026-11-25T17:23:26,2026-11-25T16:54:13,gtiadmin,gtiadmin,admin,2459,General CMH
 1337,Query Test 25.11,PENDING,False,2026-11-25T17:30:16,2026-11-25T17:30:16,,,,865,Emergency issue
+1339,I am running out of money,RESPONDED,False,2026-11-26T10:15:05,2026-11-26T10:13:23,gtiadmin,gtiadmin,admin,2459,Financial Hardship - Emergency Support
+1339,I am running out of money,RESPONDED,False,2026-11-26T10:15:05,2026-11-26T10:13:23,gtiadmin,gtiadmin,admin,2459,Financial Hardship - Emergency Support
+1339,Added to casebook,RESPONDED,False,2026-11-26T10:15:05,2026-11-26T10:13:23,gtiadmin,gtiadmin,admin,2459,Financial Hardship - Emergency Support
+1341,I am struggling to adapt and integrate at uni.,RESPONDED,False,2026-11-26T11:47:02,2026-11-26T11:42:17,gtiadmin,gtiadmin,admin,2459,General CMH
+1341,Message access updated,RESPONDED,False,2026-11-26T11:47:02,2026-11-26T11:42:17,gtiadmin,gtiadmin,admin,2459,General CMH
+1341,I am struggling to adapt and integrate at uni.,RESPONDED,False,2026-11-26T11:47:02,2026-11-26T11:42:17,gtiadmin,gtiadmin,admin,2459,General CMH
+1341,Added to casebook,RESPONDED,False,2026-11-26T11:47:02,2026-11-26T11:42:17,gtiadmin,gtiadmin,admin,2459,General CMH
